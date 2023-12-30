@@ -2,19 +2,24 @@ import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/constants/colors.dart';
 
 class HomeButton extends StatelessWidget {
-  const HomeButton(
-      {super.key, required this.buttonText, required this.buttonColor});
+  const HomeButton({
+    super.key,
+    required this.buttonText,
+    required this.buttonColor,
+    required this.onPressed,
+  });
 
   final String buttonText;
   final Color? buttonColor;
+  final Function()? onPressed;
 
   @override
   Widget build(BuildContext context) {
     return ElevatedButton(
-      onPressed: () {},
+      onPressed: onPressed,
       style: ButtonStyle(
         fixedSize: MaterialStateProperty.all(
-          const Size(350, 70), // Set the desired width and height
+          const Size(350, 60), // Set the desired width and height
         ),
         shape: MaterialStateProperty.all<RoundedRectangleBorder>(
           RoundedRectangleBorder(

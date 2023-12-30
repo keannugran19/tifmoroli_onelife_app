@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tifmoroli_onelife_app/constants/colors.dart';
 
 class SquareTile extends StatelessWidget {
   final String imagePath;
