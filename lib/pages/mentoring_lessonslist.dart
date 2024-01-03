@@ -11,7 +11,7 @@ class MentoringLessons extends StatelessWidget {
           backgroundColor: colorScheme.secondary,
           title: const Text(
             'Mentoring Lessons',
-            style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white),
+            style: TextStyle(color: Colors.white),
           )),
     );
   }

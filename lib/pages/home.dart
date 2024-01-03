@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/components/square_tile.dart';
 import 'package:tifmoroli_onelife_app/constants/colors.dart';
 import 'package:tifmoroli_onelife_app/components/home_button.dart';
+import 'package:tifmoroli_onelife_app/data/lesson_data.dart';
 import 'package:tifmoroli_onelife_app/pages/leadership_lessonslist.dart';
 import 'package:tifmoroli_onelife_app/pages/mentoring_lessonslist.dart';
 import 'package:tifmoroli_onelife_app/pages/newbelievers_lessonslist.dart';
@@ -73,7 +74,8 @@ class MyHomePage extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (context) => const NewBelieversLessons()),
+                        builder: (context) =>
+                            NewBelieversLessons(lessonsList: nblessonsList)),
                   );
                 },
               ),

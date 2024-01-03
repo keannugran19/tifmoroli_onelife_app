@@ -11,7 +11,7 @@ class LeadershipLessons extends StatelessWidget {
           backgroundColor: colorScheme.tertiary,
           title: const Text(
             'Leadership Lessons',
-            style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white),
+            style: TextStyle(color: Colors.white),
           )),
     );
   }
