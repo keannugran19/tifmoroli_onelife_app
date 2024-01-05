@@ -4,9 +4,9 @@ import 'package:tifmoroli_onelife_app/models/lessons.dart';
 import 'package:tifmoroli_onelife_app/pages/nb_lesson.dart';
 
 class NewBelieversLessons extends StatelessWidget {
-  const NewBelieversLessons({super.key, required this.lessonsList});
+  const NewBelieversLessons({super.key, required this.nblessonsList});
 
-  final List<Lessons> lessonsList;
+  final List<Lessons> nblessonsList;
 
   @override
   Widget build(BuildContext context) {
@@ -20,7 +20,7 @@ class NewBelieversLessons extends StatelessWidget {
       ),
       body: ListView.builder(
         physics: const BouncingScrollPhysics(),
-        itemCount: lessonsList.length,
+        itemCount: nblessonsList.length,
         itemBuilder: (context, index) {
           return Column(
             children: [
@@ -30,7 +30,7 @@ class NewBelieversLessons extends StatelessWidget {
                     context,
                     MaterialPageRoute(
                       builder: (context) => NBLesson(
-                        nblessonsList: lessonsList,
+                        nblessonsList: nblessonsList,
                         selectedLessonIndex: index,
                       ),
                     ),
@@ -38,7 +38,7 @@ class NewBelieversLessons extends StatelessWidget {
                 },
                 child: ListTile(
                   title: Text(
-                    'Lesson ${lessonsList[index].lessonNumber}: ${lessonsList[index].lessonTitle}',
+                    'Lesson ${nblessonsList[index].lessonNumber}: ${nblessonsList[index].lessonTitle}',
                     style: const TextStyle(fontSize: 20),
                   ),
                 ),

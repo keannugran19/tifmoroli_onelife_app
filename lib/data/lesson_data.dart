@@ -3717,6 +3717,3026 @@ Jn 14:3,3 And if I go and prepare a place for you, I will come back and take you
 Revelation 11:12,12 Then they heard a loud voice from heaven saying to them, “Come up here.” And they went up to heaven in a cloud, while their enemies looked on.
 ''');
 
+final _ls_Lesson1 = Lessons(
+    lessonNumber: 1,
+    lessonTitle: 'How should a Christian view climate change?',
+    lessonBody:
+        '''Objectives: To teach and equip the believers about current issues that challenge our faith and how to address them in a biblical and balance understanding.
+
+Introduction:
+
+Welcome back to Onelife! As our lessons are in progress and all of us are blessed and gained many insights from it, this year we decided to go deeper, practical, and more biblical. Considering the current events and issues that we Christians are facing today, we need to be equipped and able enough to answer all these mind bugling questions with the help of the Holy Spirit and our personal discovery from God Word. This is the reason why we are so passionate to venture this new journey of Onelife this year. Welcome to our new series called " Life Issues Series" .
+
+Today, we will start with the issue about Climate change that to many this is still a confusing and vague idea. So what is a climate change?
+
+cli·mate change
+noun
+1. a change in global or regional climate patterns, in particular a change apparent from the mid to late 20th century onwards and attributed largely to the increased levels of atmospheric carbon dioxide produced by the use of fossil fuels. ( Rent21.org)
+What Is Causing Earth's Climate to Change?
+
+Some causes of climate change are natural. These include changes in Earth's orbit and in the amount of energy coming from the sun. Ocean changes and volcanic eruptions are also natural causes of climate change.
+Most scientists think that recent warming can't be explained by nature alone. Most scientists say it's very likely that most of the warming since the mid-1900s is due to the burning of coal, oil and gas. Burning these fuels is how we produce most of the energy that we use every day. This burning adds heat-trapping gases, such as carbon dioxide, into the air. These gases are called greenhouse gases. ( NASA.gov )
+
+The bible also gives us a glimpse on this issue of climate change. Here is one of those scripture references that we can consider.
+
+Luke 21:25-26 NIV
+[25] “There will be signs in the sun, moon and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea. [26] People will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken.
+"...upon the earth distress of nations in perplexity at the roaring of the sea and waves..."
+
+Question: "How should a Christian view climate change?
+What does the Bible say about climate change?"
+
+Here is an article that we see it has a balance and a biblical way of approach on this topic. Our sources are stated at the bottom of this page.
+
+Answer:
+It is interesting to note how the phrase "climate change" is replacing "global warming" as the catch phrase of environmentalism. Some scientists/climatologists are certain that human activity, primarily greenhouse gas emissions, is impacting the environment. What they are not certain about is precisely what the impact will be. A couple of decades ago, "global cooling" was the fear, with warnings of a new ice age being the primary scare tactic. While most scientists/climatologists today believe that global warming is the primary risk, uncertainty has led to "climate change" being used as a less specific warning. Essentially, the climate change message is this: greenhouse gas emissions are damaging the environment, and, while we are not certain what the effect will be, we know it will be bad.
+
+Climatologists, ecologists, geologists, etc., are unanimous in recognizing that the earth has gone through significant temperature/climate changes in the past. Despite the fact that these climate changes were obviously not caused by human activity, many of these same scientists are convinced that human activity is the primary cause of climate change today. Why?
+There seem to be three primary motivations.
+
+First, some truly and fully believe the greenhouse gas emissions are causing climate change. They honestly examine the data and come to that conclusion.
+
+Second, some hold to the climate change mindset with an almost religious fervor. Many within the environmentalist movement are so obsessed with protecting "Mother Earth" that they will use any argument to accomplish that goal, no matter how biased and unbalanced it is.
+
+Third, some promote the climate change mentality for financial gain. Some of the strongest proponents of climate change legislation are those who stand to have the greatest financial gain from "green" laws and technologies. Before the climate change mindset is accepted, it should be recognized that not everyone who promotes climate change is doing so from an informed foundation and pure motives.
+
+How, then, should a Christian view climate change?
+
+We should view it skeptically and critically, but at the same time honestly and respectfully. Most importantly, though, Christians should look at climate change biblically. What does the Bible say about climate change? Not much. Likely the closest biblical examples of what could be considered climate change would be the end times disasters prophesied in Revelation 6–18. Yet these prophecies have nothing to do with greenhouse gas emissions; rather, they are the result of the wrath of God, pouring out justice on an increasingly wicked world. Also, a Christian must remember that God is in control and that this world is not our home. God will one day erase this current universe (2 Peter 3:7-12)
+
+2 Peter 3:7-12 NIV
+[7] By the same word the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of the ungodly. [8] But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day. [9] The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance. [10] But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything done in it will be laid bare. [11] Since everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives [12] as you look forward to the day of God and speed its coming. That day will bring about the destruction of the heavens by fire, and the elements will melt in the heat.
+
+and replace it with the New Heavens and New Earth (Revelation 21–22). How much effort should be made "saving" a planet that God is eventually going to obliterate and replace with a planet so amazing and wonderful that the current earth pales in comparison?
+
+Is there anything wrong with going green? No, of course not. Is trying to reduce your carbon footprint a good thing? Probably so. Are solar panels, wind mills, and other renewable energy sources worth pursuing? Of course. Are any of these things to be the primary focus of followers of Jesus Christ? Absolutely not! As Christians, our focus should be proclaiming the truth of the gospel, the message that has the power to save souls. Saving the planet is not within our power or responsibility. Climate change may or may not be real, and may or may not be human-caused. What we can know for certain is that God is good and sovereign, and that Planet Earth will be our habitat for as long as God desires it to be.
+
+So is climate change a thing to fear? No. It is a necessary part of the process that God set in train thousands of years ago and from which he will save his people. He has told us two further things in the scriptures from which we can be encouraged. He says, "When these things begin to take place, look up and raise your heads because your redemption is drawing near." (Luke 21:28), and, "...when you see all these things, you know that he is near, at the very gates." (Matthew 24:33), so take heart and be prepared.
+
+Psalm 46:2-3,
+"Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea, though its waters roar and foam and the mountains quake with their surging."
+
+
+Lessons to Ponder:
+
+1. After learning this lesson, how do you rate your understanding about the issue of climate change?
+
+2. Share at least three practical steps to help solving this problem.
+
+3. In what way that climate change becomes a great tool of sharing the good-news to the people?
+''');
+
+final _ls_Lesson2 = Lessons(
+    lessonNumber: 2,
+    lessonTitle: 'How to Manage Anxiety and Stress in a Biblical way',
+    lessonBody:
+        '''Objectives: To teach and Equip the believers about managing the danger of chronic anxiety and stress in a biblical way.
+
+Introduction:
+“Anxiety's like a rocking chair. It gives you something to do, but it doesn't get you very far.” ― Jodi Picoult, Sing You Home
+
+According to Glen Ryswyk, an Assemblies of God chaplain and clinical director of the Christian Family Counseling Center in Lawton, Okla., says "stress is a symptom of a modern culture obsessed with performance and perfection."
+
+He added,
+"Since 2007, the annual "stress in America" survey by the American Psychological Association has shown a nation struggling under a heavy load of tension and anxiety.
+
+According to the most recent study, published last year, 7 in 10 Americans say stress levels interfere with their physical and mental well-being, causing irritability, anger, fatigue, feelings of being overwhelmed, sleep loss and eating problems.
+
+The biggest sources of stress cited are money (69 percent), work (65 percent), the economy (61 percent), family responsibilities (57 percent), relationships (56 percent), family health problems (52 percent) and personal health concerns (51 percent)."
+
+Christian therapist and trauma specialist H. Norman Wright says
+" stress becomes problematic when it is chronic.
+
+According to the National Institutes of Mental Health, prolonged stress is a serious health risk. Stress releases natural hormones, including adrenaline and cortisol. These fight-or-flight chemicals are designed to aid the body in short-term emergencies. They increase the heart rate, elevate blood pressure, boost sugar levels, and redirect energy from other functions, such as digestion and immune responses.
+Chronic stress can keep the body's chemical switches on, setting in motion a chain reaction that may throw virtually every system off balance. Long-term stress is linked to depression, anxiety disorder, diabetes, high blood pressure, heart disease, sleep disturbances, weight gain, memory loss and concentration impairment.
+
+Wright says stress can be a spiritual drain as well.
+"You can get to a place where you have no reserves—you're running on empty," Wright says. "It can lead to burnout and crisis in every area, including your spiritual life." Yet Wright says stressed-out Christians already have access to the relief they need. "We have the resources for dealing with stress," Wright says. "We have prayer and the promises of Scripture. Many times we're stressed because we're trying to manage it all ourselves. We aren't relying on God or releasing it to Him."
+
+What are the Biblical examples of people who experienced the same way?
+
+Jacob
+In Genesis 32, Jacob is returning home after many years away. One of the reasons he had left home was to escape the anger of his brother, Esau, from whom Jacob had stolen the birthright and blessing from their father. Now, as Jacob nears his homeland, he hears that Esau is coming to meet him with 400 men. Jacob is immediately anxious, expecting a horrible battle with his brother. In this case, the anxiety is caused by a broken relationship and a guilty conscience.
+
+Hannah
+In 1 Samuel 1, Hannah is distressed because she was unable to conceive children and she was being taunted by Peninnah, her husband's other wife. Her distress is caused by unfulfilled desires and the harassment of a rival.
+
+Queen Esther
+In Esther 4, the Jewish people are anxious because of a royal decree allowing them to be massacred. Queen Estheris anxious because she was planning to risk her life on behalf of her people. Fear of death and the unknown is a key element of anxiety.
+
+
+PRINCIPLES FROM THE BIBLE TO OVERCOME ANXIETY AND STRESS
+
+King David
+Psalm 42:5 NIV
+[5] Why, my soul, are you downcast? Why so disturbed within me? Put your hope in God, for I will yet praise him, my Savior and my God.
+
+Take time to talk to yourself.
+Learn to entrust everything to Him
+Worship is the key
+
+Jesus
+Matthew 11:28-30 NIV
+[28] “Come to me, all you who are weary and burdened, and I will give you rest. [29] Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. [30] For my yoke is easy and my burden is light.”
+
+Great Invitation
+Offering is for everyone
+God's remedy
+Lesson time
+
+Paul
+Philippians 4:6-7 NIV
+[6] Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. [7] And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.
+
+Prayer
+Petition
+Thankful heart
+Pour out your case
+
+James
+James 1:2-4 NIV
+[2] Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, [3] because you know that the testing of your faith produces perseverance. [4] Let perseverance finish its work so that you may be mature and complete, not lacking anything.
+
+Have a positive spirit
+Learn to look at in a bigger picture
+
+Luke
+Luke 21:19 NIV
+[19] Stand firm, and you will win life.
+
+Don't give up!
+You are an overcomer!
+
+
+PRACTICAL HELPS IN MANAGING ANXIETY AND STRESS
+
+36 Christian Ways to Reduce Stress
+( 1st Holistic.com)
+1. Pray
+2. Go to bed on time.
+3. Get up on time so you can start the day unrushed.
+4. Say "No," to projects/activities that won't fit into your time schedule, or that will compromise your mental health.
+5. Delegate tasks to capable others.
+6. Simplify and un-clutter your life.
+7. Less is more. (Although one is often not enough, two are often too many.)
+8. Allow extra time to do things and to get to places.
+9. Pace yourself. Spread out big changes and difficult projects over time; don't lump the hard things all together.
+10. Take one day at a time.
+11. Separate worries from concerns. If a situation is a concern, find out what God would have you to do and let go of the anxiety. If you can't do anything about a situation, forget it.
+12. Live within your budget.
+13. Have backups; an extra car key in your wallet, an extra house key buried in the garden, extra stamps, etc.
+14. K. M. S. (Keep Mouth Shut.) This single piece of advice can prevent an enormous amount of trouble.
+15. Do something for the Kid in You everyday.
+16. Carry a Bible with you to read while waiting in line.
+17. Get enough exercise.
+18. Eat right.
+19. Get organized so everything has its place.
+20. Listen to a tape while driving that can help improve your quality of life.
+21. Write thoughts and inspirations down.
+22. Everyday, find time to be alone.
+23. Having problems? Talk to God on the spot. Try to nip small problems in the bud. Don't wait until its time to go to bed to try and pray.
+24. Make friends with Godly people.
+25. Keep a folder of favorite scriptures on hand.
+26. Remember that the shortest bridge between despair and hope is often a good "Thank you Jesus!"
+27. Laugh.
+28. Laugh some more!
+29. Take your work seriously, but yourself not at all.
+30. Develop a forgiving attitude (most people are doing the best they can).
+31. Be kind to unkind people (they probably need it the most).
+32. Sit on your ego.
+33. Talk less; listen more.
+34. Slow down.
+35. Remind yourself that you are not the general manager of the universe.
+36. Every night before bed, think of one thing you're grateful for that you've never been grateful for before.
+
+
+Lessons to Ponder:
+
+1. In your own opinion what is anxiety and stress?
+
+2. Share some of your experience to the group and tell about how
+did you go about it.
+
+3. To what extent can anxiety and stress works for you and
+destroys you.
+
+4. What passage in the bible that uplifts your faith when anxiety
+tries to attack you.
+''');
+
+final _mt_Lesson1 = Lessons(
+    lessonNumber: 1,
+    lessonTitle: 'Mentoring The Inner Life',
+    lessonBody: '''Nothing to prove is a state of deep security in God.
+Nothing to lose is a state of absolute surrender to God.
+Nothing to hide is a state of true integrity before God.
+
+The root cause of our inability to reach this blessed state is our lack of inner security. Insecurity causes us to fall into a performance trap. Performance drivenness leads to fragile egos. It causes us to make vain comparisons. Envy and Jealousy rear their ugly heads.
+
+Envy and jealousy are not the same. Envy is desiring what others have. Because we don’t have it. Jealousy happens when others have what we have - but more!
+
+As a result, we often find it difficult to celebrate others' strengths and successes. cain measured his offering against Abel's and couldn't understand why God rejected his offering since both were " first-fruits" offerings. in his insecure jealousy, he murdered Abel. Pride got in the way.
+
+The key to living with nothing to prove is humility.
+
+Philippians 2:3 NIV
+[3] Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves,
+
+If there were something to prove, it should be that God's surpassing strength is made perfect in our weakness.
+
+In life, Humility and Surrender walk hand in hand in a common pilgrimage.
+
+Yet we struggle to give up our rights and desires. Insecurity leads to a fear of full surrender. Instead, we seek in vain to find our security in acquiring, possessing, and hoarding. In maintaining control. Losing for the sake of Christ begins to terrify us. We don't mind making sacrifices but we are afraid of fully surrendering ourselves to God. We forget that surrender is not about giving up, it's about "giving in to God.
+
+In truth, we have become possessed by our possessions. Controlled by our need for control. We miss the point that true security comes when we find satisfaction only on Christ. When we come to this realization, we can surrender all and live nothing to lose.
+
+When Christ is absolutely everything, then Christ's alone is absolutely enough.
+
+Finally insecurity also causes us to camouflage our sins with artificial, guilt soothing human constructs. We hide our heartaches, sins and pains behind smiling masks and ministry activities. We focus on temporarily managing our sins instead of completely repenting of them and thus finding our freedom in the mighty transformation of Jesus.
+
+When we walk in the true repentance then there is nothing to hide.
+
+D.L. Moody once said, "Moses spent forty years thinking he was somebody. He spent the next forty years learning he was nobody, He spent the last forty years discovering what God can do to a nobody"
+
+Indeed God can do wonderful things with a nobody. A nobody with nothing to prove, nothing to lose and nothing to hide.
+
+Questions for Reflections
+
+1. Read 1 Samuel 10-12. What was King Saul trying to " prove" and "hide" in
+these chapters?
+
+2. Read Philippians 3:7-10. What was Paul once aspirations?
+3. What does " Nothing to Prove, nothing to lose, nothing to hide" mean to you in your present circumstances?
+''');
+
+final _mt_Lesson2 = Lessons(
+    lessonNumber: 2,
+    lessonTitle: 'Mentoring With The End in Mind',
+    lessonBody: '''(Perspective, Posture, Pragmatics and Power)
+
+Begin with the end in mind.
+
+In Christian mentoring, we mentor with a purpose. The best mentors do not focus on the programme but on the purpose. That's mentoring with the end in mind. There are four mentoring objectives towards that end.
+
+We mentor for wisdom in thinking ( perspective ), brokenness in attitude ( posture),
+Competence in both life - skills and ministry - skills (pragmatics) and the experience of God's daily presence in our lives (power).
+
+A Certain Kind of Perspective
+Our worldview must undergo a radical re-orientation. We need to encounter the truth, experience the truth and embrace the truth. This happens when we immerse our minds in Scripture and tutor our hearts to obey it.
+
+We are thus being mentored by the Scripture.
+
+There is no short cut to this renewing of the mind. It is a daily investment. Our perspectives are increasingly informed by the Scriptures. We seek to have a perspective shaped exclusively by Scripture and by a faithful obedience to it.
+
+A Certain Kind of Posture
+It is curious to note that our Lord was never impressed with the knowledge of the Scribes and Pharisees. He was looking out for something else beyond the knowing. He was looking for the heart. ( Matthew 13:1-23)
+
+There is a certain receptivity and meekness that marks true disciples ( Isaiah 66:2). But meekness is not weakness. This is the paradox. There is a profound humble-boldness in a life with the right focus on God.
+
+A certain kind of posture is this about
+brokenness of heart before God,
+a meekness of heart in God and
+an openness of heart to God.
+
+A Certain Kind of Pragmatics
+Pragmatics is intentional skill development - a disciplined and growing competence in both life-skills and ministry-skills. Disciples have a growing competency.
+
+Life is to short to be lived without thoughtful, skilled competence.
+
+When tutored individuals encounter difficult situations, they have the emotional reservoir and capacity to deal wisely with them - not react to them. And coaching these skills, not just in ministry but also in life, is what holistic is about.
+
+A Certain Kind of Power
+Power belongs to the Lord. It is a divine attribute. But in man, it is not. Power in man is by product in God. It is a given. Unfortunately, it is in the disposition of fallen humanity to either grab power through pride or to shun God's power through unbelief or both!
+
+Because spiritual power is intoxicating, God's hedge for this is Love.
+
+When we are more enamoured of power than love, we have lost our focus. True spiritual power is released from on high to build His kingdom. In fact, God's very presence is His very power! We thus seek to abide in His daily presence. And be mentored to receive and release power judiciously in love.
+
+Questions for Reflections
+
+1. Do you have something to help you grow regularly in the Scriptures?
+2. Do you have the posture of humble-boldness in your life? In what way?
+3. What life - skills and ministry skills would you need most in the next lap of your life?
+''');
+
+final _mt_Lesson3 = Lessons(
+    lessonNumber: 3,
+    lessonTitle: 'Three Arenas of Mentoring',
+    lessonBody: '''(The Devotional, Domestic, and Developmental Life)
+
+True mentoring is holistic and deep.
+
+In mentoring, careful attention must be given to three hidden substructures in a person's life. These inner arenas often go unnoticed because they are private. Often they are hidden from public scrutiny. As such, these private arenas are easily neglected. Or else superficially examined with a cursory glance.
+
+When this happens, serious fault- lines develop.
+
+And if so, and we are not careful,they could be used by the devil to destroy the credibility and effectiveness of God's servants. Thus, while skill development is often given more attention in mentoring, there are deeper arenas that must nonetheless be emphasized. True mentoring is indeed holistic and deep.
+
+We thus give due attention to the three inner arenas of the mentoree's life. The wise mentor helps to cultivate the devotional life, deepen the domestic life and empower the developmental life.
+
+Cultivating the Devotional Life
+Quiet time does not automatically become easier as one grows older. In fact, it becomes harder. Why? Because one can browse through God's Word quickly and pic up a thought or two without much meditation and intimacy with God.
+
+One can have the routine and the mere discipline without the encounter and the wonder. One can read the Word of God but miss the God of the Word. One can go on serving the Lord without devotion. Christian life and ministry can be faked all to easily. But God calls us to be authentic!.
+
+At the of authentic discipleship is a deep devotional life!
+
+Deepening the Domestic Life
+Appearances can be deceiving. Behind the scene of a leader's life is the family. One can deceptively a double life - an angel in church but a monster at home! A person cannot grow holistically because of such inconsistencies. Once this happens, hypocrisy sets in. And the double life takes over.
+
+Another possible problem scenario is having an unsupportive spouse who prevents one from serving and fulfilling God's destiny in one's life. Often deep roots of woundedness Must be surfaced and dealt with. It's sad that such a couple would find great difficulty serving as one. Mentoring the domestic life of the family is vital.
+
+Empowering the Development Life.
+People tend to settle in their comfort zones. Often people fail to overcome areas of weakness due to fear of vulnerability or failure. This applies to many arenas of life. It could apply to the need for physical exercise. Or personal growth through reading. Or growth in different ministry competences and skills.
+
+As long as the leader settles for the status quo, stagnation and lack of personal effectiveness sets in. We not neglect to chart the necessary developmental growth areas to work on. We must aim to help our mentoree's come out of their comfort zones!
+
+Let's get out of our comfort zones. Let's grow in depth in all arenas of our lives. And mentor likewise. With a mentoring that is deep and holistic.
+
+Questions for Reflection.
+
+1. What causes one to live a double life? Why is consistency so difficult?
+
+2. What is one common area of neglect in your life now?
+
+3. What can do you do today to get out of your comfort zone and grow?
+''');
+final _mt_Lesson4 = Lessons(
+    lessonNumber: 4,
+    lessonTitle: 'Four Steps in Mentoring',
+    lessonBody:
+        '''Discover the Truth, Apply it, Reap the Benefits and Pass It On!
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+Mentoring is not just an impartation of knowledge. It's about living a life!
+
+Mentoring is an impartation of life and convictions. It is about living a life and sharing the journey. It also involves imparting values and vision, creating a new empowering belief system. All this takes time. It involves a complex process of growth. And growth takes time. And skill.
+
+As such, many feel unqualified to mentor others. Nonetheless, there are four simple steps to help us start the journey. Don't just take one (Discover the truth ) and immediately jump to step four ( Pass it on ). That's merely an impartation of knowledge.
+
+Don't truncate the process.
+
+The secret of life and value impartation lies in step two (Apply the Truth ) and step three ( Reap the benefits ). Only then can we share from the depth and authenticity of our lives. So here are the four fundamental steps to effective mentoring.
+
+Discover the Truth
+Discovery is the inspiration of living. Learning to discover is the perspiration. The first step in mentoring is to learn something good. Something worthwhile to pass on. Something that has been life - changing for you. To pass on the truth, we must first know the truth.
+
+Truth serves as an anchor in our lives.
+
+Without truth, we are adrift in a world of confusions and compromise. Ravi Zacharias insightfully commented that "we live in an unseen world where truth is the most precious commodity. This ultimate truth is found in the Word of God."( John 17:17 )
+
+Apply the Truth
+Get this; Truth doesn't change lives. Rather, it is truth applied that changes lives!
+Jesus said that whoever hears His Words and does them is like the wise man who builds his house upon the rock ( Matthew 7:24 )
+
+Truth can be insightful and inspiring. But without action and obedience, it has no power. We must not truncate the application and jump straight to passing it on. Other wise we reproduce after our kind : a superficial generation of those who eloquently pass on what they have not effectively applied.
+
+Reap the Benefits
+The benefits of truth applied must first be experienced so as to impart truth with authenticity. When that happens, we can teach what we practice and not run the danger of teaching others what we are not practicing ourselves.
+
+Howard Hendricks, Professor of Dallas Theological Seminary said; " what I hear, I Forget. What I see, I remember. What I do, I understand. When I understand, I Changed." Truly what I apply brings about " understanding and transformation.
+Pass it On
+Ultimately, our legacy in mentoring is to see multiplication of lives. In the Old Testament, God's wondrous working was orally transmitted from one generation to the next. There was multiplication from one generation to another.
+
+If we keep discovering the truth, applying the truth, and reaping the benefit, then we can pass on a legacy of truth from one generation to the next.
+
+FOUR steps , Not TWO
+
+Questions for Reflections
+
+1. Why is " FOUR" streps, not "TWO" important?
+2. Of the four steps, which speaks to your life the most? Why?
+3. What are some life-changing truths that you have discovered?
+Lesson 5: Philosophy of A Mentoring Leadership:
+Think Big, Start Small, Build Deep
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+It is a daring philosophy of leadership.
+
+“Think Big, Start Small, Build Deep” is a compelling watchword that comes up often in our QC Time. For us, it is a reminder to stop comparing. And to stay true and courageous to our specific calling from God. It cultivates a mentoring leadership committed to developing leaders who build to last.
+
+“Think Big, Start Small, Build Deep” first challenges us to pursue with visionary courage our dreams from God. Yet it calls for the inner security to not despise small things. This is an important tension to balance. We are creatures of extremes. We tend to gravitate to one and ignore the other. It is both-and and not either-or!
+
+Finally, it highlights the need for godly wisdom, in the exercise of wise leadership, to build deep. Thus, “think big, start small, build deep” is decidedly provocative in its grand sweep.
+
+
+The Courage To Think Big
+It first calls us to boldly dream BIG dreams IN God. There is a difference between dreaming big dreams FOR God and dreaming big dreams IN God. The former can be mere presumptuousness; the latter is rooted in the holy calling and divine promises.
+
+Our View of God determines our work for Him.
+
+Our God is a God of the impossible. Is anything too difficult for Him? By His word, the heavens and earth were created. Our God is an awesome God. Yet we tiptoe around God’s throne and ask for the mundane.
+
+If God is too small in our eyes, our work will be minute. But if He is bigger than the universe, then is anything too difficult for Him? Let’s dare to do something so big that if God is not in it, we are doomed to fail.
+
+
+The Security To Start Small
+On the other hand, this guiding philosophy of leadership calls us to have an inner security to start small. Some great movements of God have an inconspicuous genesis. It takes a quiet disposition rested enough in God to begin on a small scale.
+
+God is never in a hurry.
+
+In His eternal timeline, everything will fall in its rightful place. While we think big, we must be willing to start small.. Jesus said that the Kingdom of God is like a mustard seed (Matt 13:31-32). Start with what God has already blessed us with and given to us.
+
+The Wisdom To Build Deep
+Finally, this philosophy of leadership holds the tension by calling us to keep working on the fundamentals. Depth and influence are more efficacious in the long run than mere breadth and impact. We’ve got to get the fundamentals right!
+
+Ultimately, what really counts is true depth.
+
+Whether it’s starting a movement or the discipling of lives, building deep is anchored in fulfilling God’s fundamental calling and mission. It’s fundamentally about developing a biblical worldview and depth of character. It’s the wisdom of building to last.
+
+Questions for Reflection
+
+1. What do you think of this “Think Big, Start Small, Build Deep” philosophy?
+2. Why is the philosophy so important?
+3. There are three parts to the philosophy. Which part speaks to you the most and what practical steps will you take to put it into practice?
+''');
+
+final _mt_Lesson5 = Lessons(
+    lessonNumber: 5,
+    lessonTitle: 'Philosophy of A Mentoring Leadership',
+    lessonBody: '''Think Big, Start Small, Build Deep
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+It is a daring philosophy of leadership.
+
+“Think Big, Start Small, Build Deep” is a compelling watchword that comes up often in our QC Time. For us, it is a reminder to stop comparing. And to stay true and courageous to our specific calling from God. It cultivates a mentoring leadership committed to developing leaders who build to last.
+
+“Think Big, Start Small, Build Deep” first challenges us to pursue with visionary courage our dreams from God. Yet it calls for the inner security to not despise small things. This is an important tension to balance. We are creatures of extremes. We tend to gravitate to one and ignore the other. It is both-and and not either-or!
+
+Finally, it highlights the need for godly wisdom, in the exercise of wise leadership, to build deep. Thus, “think big, start small, build deep” is decidedly provocative in its grand sweep.
+
+The Courage To Think Big
+It first calls us to boldly dream BIG dreams IN God. There is a difference between dreaming big dreams FOR God and dreaming big dreams IN God. The former can be mere presumptuousness; the latter is rooted in the holy calling and divine promises.
+
+Our View of God determines our work for Him.
+
+Our God is a God of the impossible. Is anything too difficult for Him? By His word, the heavens and earth were created. Our God is an awesome God. Yet we tiptoe around God’s throne and ask for the mundane.
+
+If God is too small in our eyes, our work will be minute. But if He is bigger than the universe, then is anything too difficult for Him? Let’s dare to do something so big that if God is not in it, we are doomed to fail.
+
+The Security To Start Small
+On the other hand, this guiding philosophy of leadership calls us to have an inner security to start small. Some great movements of God have an inconspicuous genesis. It takes a quiet disposition rested enough in God to begin on a small scale.
+
+God is never in a hurry.
+
+In His eternal timeline, everything will fall in its rightful place. While we think big, we must be willing to start small.. Jesus said that the Kingdom of God is like a mustard seed (Matt 13:31-32). Start with what God has already blessed us with and given to us.
+
+The Wisdom To Build Deep
+Finally, this philosophy of leadership holds the tension by calling us to keep working on the fundamentals. Depth and influence are more efficacious in the long run than mere breadth and impact. We’ve got to get the fundamentals right!
+
+Ultimately, what really counts is true depth.
+
+Whether it’s starting a movement or the discipling of lives, building deep is anchored in fulfilling God’s fundamental calling and mission. It’s fundamentally about developing a biblical worldview and depth of character. It’s the wisdom of building to last.
+
+Questions for Reflection
+
+1. What do you think of this “Think Big, Start Small, Build Deep” philosophy?
+2. Why is the philosophy so important?
+3. There are three parts to the philosophy. Which part speaks to you the most and what practical steps will you take to put it into practice?
+''');
+
+final _mt_Lesson6 = Lessons(
+    lessonNumber: 6,
+    lessonTitle: 'Three Core Competencies Of A Mentor',
+    lessonBody: '''Shepherd, Teacher and Leader
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+Mentors, like pastors have three critical roles.
+
+Shepherding, teaching and leading are the three core competencies of the pastoral calling. They also apply to the role of the mentor. Mentors must develop in each of the competencies to be effective.
+
+Let us look at the three-fold competencies:
+
+1. The Mentor Who Shepherds
+
+The mentor who shepherds knows the condition of the flock. He is sensitive to their needs. Not just the felt needs but the real needs as well. Like the Apostle Paul, the shepherding mentor knows how to admonish the unruly, encourage the fainthearted, help the weak and be patient with all men (1 Th 5:14).
+
+
+There are 3 aspects to this shepherding role.
+
+The first is caring. This is primarily edification through words and presence. As the saying goes, people do not care how much we know until they know how much we care. The second is counselling. This takes some training and skill. The wise mentor goes for the root rather than the superficial branches. The third is coaching. This involves discerning the spiritual direction for the people and coaching them with the principles (why) and the skills (how to).
+
+2. The Mentor Who Teaches
+
+Different people learn in different ways. Thus, the mentor who teaches does so in a variety of ways. Some learn best through doing a project together. Others by reading and personal reflection. Still others learn best by discussion or interaction. Thus, the best teaching mentors are the ones who seek efficacious teaching for all the learning types. They look for teachable moments. This might be informal times of relaxing together. Or a teachable moment might come at a time of crisis.
+
+Also, the best teaching mentors are not merely those who give the answers. Rather, they ask the right questions.
+
+And not only do they ask the right questions, they also give Word-centred principles. More significantly, they are committed to help their mentorees feed themselves with the Word. Instead of giving a fish to feed for a day, they teach others to fish - to feed for a lifetime!
+
+3. The Mentor Who Leads
+
+Mentors who lead are a rare breed. They are not merely shepherding or teaching lives. Rather, they are intentionally leading towards a destiny. Towards transformational Kingdom engagements. They boldly lead their mentorees towards all that God has called them to. They are not just mentoree-centered, they are God-centered!
+
+Mentors who lead inspire hope and faith.
+
+Challenging mentorees to embrace the work of God in their lives, these mentors model the way. They lead by example. There is a clear sense of passion, purpose and pursuit in the mentor’s lives. These are visionary leaders who mentor.
+
+May their tribe increase!
+
+Questions for Reflection
+
+1. What do you see in Christ’s life as He lived as Shepherd, Leader and Teacher?
+2. As a mentor, how would you rank your competencies?
+3. How can you grow in your areas of strength and weakness?
+''');
+
+final _mt_Lesson7 = Lessons(
+    lessonNumber: 7,
+    lessonTitle: 'Leading With A Clear Philosophy of Ministry',
+    lessonBody: '''Vision, Values, Vehicles
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+
+A Clear philosophy of ministry is crucial to intentional leadership.
+
+Let’s define it. The term “philosophy of ministry” is complex because of its multiple usage. As such, an integrative definition is helpful: “A philosophy of ministry refers to the core ministry values and how they determine the chief ministry vehicles to realize the ministry vision.”
+
+There are three things that give meaning to the philosophy of ministry: Values, Vision and Vehicles.
+• VALUES give the foundation that answers the “Why” question.
+• VISION gives the focus that answers the “What” question.
+• VEHICLES give the function that answers the “How” question.
+VALUES
+Core values are fundamental statements of what is really important to us in ministry. They give us:
+Real clarity about who we are and what we stand for
+• More passion in our purpose and purpose in our passion
+• Inspiration and motivation that will help us overcome discouragement
+• The ability to stay focused on what matters most
+Ultimately, we are not just a purpose-driven church but a value-driven church. Clarity of purpose is but the first step. Resonance of values is what moves organizations. When people clash over how a ministry should be run, the root issue is usually a difference in their value systems. When common values are set in place, there will be oneness in the spirit regardless of how the ministry is expressed in the outward for. Having clear values is immensely important to good leadership!
+
+VISION
+Leaders live in the future. Without a vision larger than ourselves, we drift into complacency. Without vision, we perish. Vision gives the leader a glimpse of what the future can be. Vision thus gives the people a glimpse of what the future can be. It allows us to dream of the BHAG (“Big Hairy Audacious Goal”). It creates a deeper dependence upon God. For without Him, we are doomed to fail.
+
+Nonetheless, according to Burt Naus, there are four features of a good vision: it is realistic, as it must be based on reality to be meaningful to the ministry; credible, as it must be believable to be relevant; attractive, as it must be inspiring and motivating to the people involved; and future-oriented, as I must draw people to look at what things can be in the future.
+
+VEHICLES
+Vehicles give feet to the vision. Without them, a vision is only a dream. We end up as daydreamers rather than as God-dreamers. Vehicles allow people to see the follow-through and concretizing of the vision.
+
+When people can see how the vision can be realized in a specific way, within a specific time frame and through a specific infrastructure, the excitement and involvement level rises. Once people can see how they can participate in the concrete vehicles, the critical mass gathers and the organization will never be the same again.
+
+What’s your philosophy of ministry? Be clear about it!
+
+Questions for Reflection
+
+1. What are the top three core values that shape your life and ministry?
+
+2. What is your vision for your life and ministry?
+
+3. What are the practical steps needed to see the vision coming to pass?
+''');
+
+final _mt_Lesson8 = Lessons(
+    lessonNumber: 8,
+    lessonTitle: 'Leading with Competence',
+    lessonBody: '''Five Core Skills of Leadership
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+Many churches and organization are over-managed and under-led.
+
+Leadership is absolutely indispensable. Yet the ability to lead with competence, and to grow as the organization grows, involves the development of leadership skill. There are five core skills of leadership:
+
+Skill 1. Visioneering:
+The CONCERN of leadership is the Future.
+
+Leaders must have a defining idea. A strategic vision. It is oriented towards the future. Begin with this end in mind. There are four processes in visioneering: (1) Capturing the vision (what God is saying in the light of a prevailing need); (2) Casting the vision (how to communicate it); (3) Concretising the vision (key result areas to work out practically); (4) Commissioning the vision (creating ownership of the vision!)
+
+Skill 2. Conflict Resolution:
+The CAPACITY of leadership is the Team.
+
+Leadership is not a one-man show. Developing a high performance team is a vital task in leadership. Developing a learning community is a n essential part of developing a high performance team that will last! A strong leader makes for good leadership. Such a team-leader would communicate and mentor. You cannot be a remote figure. You’ve got to be touched, felt, heard and believed.
+
+Skill 3. Problem Solving:
+The CONDUIT of leadership is Creativity.
+
+When leaders micromanage, they take away the sense of control vital to team dynamics and problem solving. The team should come together to creatively contribute. These are five helpful steps in problem solving. (1) Define the problem(s); (2) Distinguish between symptoms and root problems; (3) Discover (explore) all possible solutions; (4) Determine the course of action and (5) Do it (execute) and evaluate.
+
+Skill 4. Change Management:
+The CHALLENGE of leadership is Transformation.
+
+In leadership, the focus on results is important. Meaningful accomplishments, not mere activities, are the mark of effective leadership. Change is vital for this. Yet change, there are five key considerations: (1) Develop a strategic work plan; (2) Determine pivotal events (things that will generate the change; (3) Envisage obstacles ahead; (4) Trouble-shoot problems (solve them!) and (5) Evaluate effectiveness in managing change.
+
+Skill 5. Personal Leadership:
+The CAPITAL of leadership Trust.
+
+Credibility is vital to leadership. Without credibility and trust, there is no traction in leadership. There are three fundamental arenas of personal leadership development that build credibility: (1) Devotional: How is my walk with God?; (2) Domestic: How am I leading my family – marriage, children, siblings?; and (3) Developmental: Am I aware of my primary gifting in the leadership paradigm – shepherd, teacher, leader – and how am I growing in them?
+
+The leadership journey has a steep learning curve. It is a journey of life-long learning in leadership! These five leadership skill sets would be a great starting point for the leadership pilgrimage. If you are a leader, grow in these vital leadership skills.
+
+Arise and lead!
+
+Questions for Reflection
+
+1. Which leadership skill set are you best at? Why?
+2. What leadership skill do you need to grow in to be both comfortable and competent? Why?
+3. What must change in your life for you to be where you desire to be?
+''');
+
+final _mt_Lesson9 = Lessons(
+    lessonNumber: 9,
+    lessonTitle: 'Leading Beyond The Obvious',
+    lessonBody: '''Effectiveness, Efficiency and Efficacy
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+Efficacious leaders are a rare breed.
+
+In management literature, efficiency is the ability to do things right while effectiveness is the wisdom to do the right things. Efficiency is thus doing things the right way. Effectiveness is doing the right thing that ought to be done.
+
+While these two traits are important, there is yet a third trait that church leaders must pay attention to. It is efficacy. Efficacy is not just getting something done skillfully or getting the right thing done skillfully; it is doing so with a view of God’s divine will and timing.
+
+To me, leadership efficacy is “doing the right thing at the right time in the right way with the right motive to ultimately produce the right result.”
+
+The theology of efficacy is premised on a fundamental assumption. We often see the Great Commission as an assignment from God when it is first and foremost an alignment with God. Jesus said, “Follow Me and I will make you fishers of men.” That’s alignment! Thus, the Great Commission is not primarily about a task to be accomplished for God but a life to be aligned with God!
+
+And our God is an efficacious God.
+
+This principle may not seem obvious at first glance. But if you consider the works of God in the following examples, you might realize the wisdom of efficacy.
+• Consider the incarnation of Jesus. Why would the Master of the universe come as a helpless babe? Why not come to earth as a superhero, accompanied by a mighty host of angels? Wouldn’t that have been more efficient and effective in winning Israel’s heart to God? It was not too spectacular an incarnation but it was totally efficacious in God’s redemptive plan!
+
+• Consider the Cross. Why let Jesus die such a humiliating death? While He was painfully crucified on the cross, the people said to Him sarcastically, “Come down from the cross and save yourself, then we will believe in you.” Wouldn’t it have been fabulous if Jesus had done just that? Wouldn’t there have been a revival in Palestine? But Jesus died. It might not have been the most efficient or effective thing to happen. But it was totally efficacious in God’s sovereign plan!
+There are many more examples: the choosing of the uneducated twelve (why not choose the wealthy and powerful?); the healing of the blind man with mud and saliva (why not just speak it?); and God sending Paul to the Gentiles instead of the Jews (big mistake, so Paul himself initially thought!). These did not seem efficient or effective, but they were totally efficacious. God does the right thing at the right time in the right way for the right reason in order to get the right result.
+
+To illustrate, let’s borrow from an old adage. Give a man a fish, and you feed him for a day (this is effective and efficient). Teach him to fish, and you feed him for a lifetime (this is efficacious).
+
+But consider the old adage again. This time, suppose that the man is malnourished and painfully hungry. Is teaching him to fish efficacious? We need God’s wisdom to illuminate our perspective!
+
+Mentoring leaders must keep this principle of efficacy close to their hearts. Sure, we must be efficient. Sure, we must be effective. But we must also, like Jesus, be wonderfully efficacious!
+
+Question for Reflection
+1. Read Matthew 17:24-27. Why did Jesus use such an odd and inconvenient method for Peter to gather the coin? What do you think Peter learned from this experience?
+
+2. Think of one situation in your life that perplexes you. Why does God, who is sovereign and efficacious, allow this in your life?
+
+3. Name one thing in your life or ministry that you can change to become more efficacious.
+''');
+
+final _mt_Lesson10 = Lessons(
+    lessonNumber: 10,
+    lessonTitle: 'Leading With Intentionality',
+    lessonBody: '''By Design or By Default
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+Wise intentionality is the practiced skill of a mentoring leader.
+
+During QC Time, I often remind my staff to live and lead “by design, not by default.” When a leader operates by design, he is doing something with purpose and intentionality. It is carrying out an action knowing clearly why you are doing it, and what, by that action, you seek to achieve.
+In contrast, when a leader operates by default, he does so without much thinking and reflection. It is carrying out an action without knowing why you are doing it and what, by that action, you seek to achieve. Dong something by default is merely going through the motions.
+
+People and Church are complex. Just because something has worked before does not mean it will work again. We must be careful of a one-sized-fits-all mentality, which is often a reflection of leadership by default rather than by design. Here’s a succinct checklist for intentional leadership by design.
+
+Checklist: Leadership by Design and not by Default
+• Intentional Leaders have a sound set of core values and governing principles that guide their thinking and decisions. They do not lead by impulse or moods.
+
+• Intentional Leaders do not feel rushed or pressured to make a hasty decision. They consider principles, priorities and future implications.
+
+• Intentional Leaders consult with key stakeholders. They do not merely depend on their own assessments of past precedence or practices.
+
+• Intentional Leaders are intentional and purposeful in their words and actions to help people grow. They do not try to play God by engineering circumstances to test or to hurt intentionally.
+
+• Intentional Leaders nurture and mentor their team members towards inner-life growth and depth. They do not use them to achieve their ends.
+
+• Intentional Leaders know when to speak and when to be quiet. They do not need to say something just to show off their knowledge but neither will they keep quiet just to preserve peace when something important is at stake.
+
+• Intentional Leaders go out of their own comfort zone to grow and develop new knowledge and skills. They do not remain passive and stagnant.
+
+• Intentional Leaders are always hungry to learn rather than assuming that they know it all. They ask how things could be done better the next time rather than settle for the status quo.
+
+• Intentional Leaders lead with questions and not just with answers. They build and empower teams around the organization and not around themselves. They are on the constant lookout for successors.
+
+• Intentional Leaders lead with the end in mind. The legacy they leave behind is in people and not merely in projects.
+Leadership makes or breaks an organization. Are you an intentional leader? Don’t just go through the motions.
+
+Are you leading by design or by default?
+Questions for Reflection
+1. Explain what is meant when we say a person did something by design, not by default.
+2. Describe what happens when we consistently do things by default.
+3. Identify three steps you can take that will develop you into a person who consistently does things by thoughtful design.
+''');
+
+final _mt_Lesson11 = Lessons(
+    lessonNumber: 11,
+    lessonTitle: 'Discipleship and Transformation',
+    lessonBody: '''Transformation Precedes Multiplication
+(a material from the Mentoring Paradigm book of Dr. Edmund Chan)
+
+God redeem us – so as to transform us – in order to multiply us!
+Our God is a God who multiplies. Most Christians see god as a God of redemption (a God who redeems and restores His people) but fail to see Him as a God of multiplication.
+This theology of a multiplying God has enormous implications; not the least of which is that the Church is called of God not just to make converts but to build strong disciples of Christ who would multiply spiritually.
+The theology of a multiplying God is seen in several places in the Bible:
+• To Adam (Gen 1:28) – First command given: “Be fruitful and multiply.”
+• To Noah (Gen 9:1,7) – Twice: “Be fruitful and multiply.”
+• To Abraham (Gen 13:16; 15:5; 17:2, 20; 22:17) – “And I will multiply you exceedingly.”
+• To Sarah, Abraham’s wife (Gen 16:10) – “…will greatly multiply”
+• To Isaac, Abraham’s son (Gen 26:4, 24) – Twice: “I will multiply your descendants!”
+• To Jacob, Abraham’s grandson (Gen 28:3; 35:10-11) – “…make you fruitful and multiply you…”
+• The Basis of Moses’ Intercession (Ex 32:13) – “… said to them, “’I will multiply…’”
+• An essential part of Remnant Theology and Promise (Jer 23:3; cf. Jer 33:3) – “Then I Myself will gather the remnant… and they will be fruitful and multiply.”
+Herein lies a grand principle for disciple-making ministries:
+The strategy of God is not spiritual addition but spiritual multiplication!
+Our God is a God of multiplication.
+
+But get this: Multiplication is not the chief challenge of the Church. Transformation is! Transformation must precede multiplication!
+
+There is something that is radically amiss here. We often miss the importance of transformation. In his book Growing True Disciples, George Barna levelled a legitimate criticism at the contemporary Church. He wrote:
+
+We have defined ‘discipleship’ as head knowledge rather than complete transformation.
+
+Mere bigness is NOT God’s agenda. Transformation is His goal. Our God is not just a God of redemption, He is also a God of multiplication. But He is not just a God of multiplication, He is also a God of transformation.
+
+In 1986, Roy Robertson wrote a basic but classic book entitled The Timothy Principle. When the book was reprinted locally last year, I was invited to write a foreword. This is an essential part of what I said:
+
+The aim of disciple making is spiritual transformation. Biblical Christianity is fundamentally rooted in the transforming power of God to change lives…
+
+It is a radical transformation that metamorphoses all arenas of personal and public life. It results in a mighty move of God that shapes culture, transforms cities, impacts lives and alters the course of human destinies…
+
+This is the enduring strategy of Jesus the Master Disciple maker. He selected twelve and poured His life into them (Mark 3:14)
+
+God redeem us – so as to transform us – in order to multiply us! Transformation must precede multiplication.
+
+Question for Reflection
+1. “Transformation must precede multiplication” – What does it mean?
+
+2. What happens if we have multiplication without transformation?
+
+3. How can we be transformed?
+''');
+
+final _mt_Lesson12 = Lessons(
+    lessonNumber: 12,
+    lessonTitle: 'Discipleship and Witnessing',
+    lessonBody: '''Witnessing. It is a daunting task.
+
+It brings a shudder to many Christians. Even “seasoned” Christians. Many of us hate witnessing. Of course, we don’t say it. But we feel it. We are not good talkers. We don’t want to offend. We don’t know what to say. It is thus something we conveniently avoid. Something we only pay lip-service to. So what are we to do?
+Let’s consider the big picture.
+
+What is the essential purpose of the Church? On the surface, the purpose and the mission of the Church might appear to be the same thing. But theologically, the purpose (the why question) and the mission (the what question) of the Church are two entirely different things. We should be careful to distinguish between them.
+
+Undoubtedly, the ultimate purpose of the Church is to glorify God. If the purpose of the Church (the why question) is the glory of God (primarily accomplished through our worship), then the mission of the Church (the question) is to promote the true worship of the true God among the nations (through our witness).
+
+What constitutes a true witness?
+
+Of course, it involves witnessing. But it involves more than just conventional “witnessing”. A true witness demonstrates the transforming power of God in all arenas of life. Witnessing is testifying to the reality and power of God in our life!
+
+True witnesses live out what I call the PDA Lifestyle.
+
+They live in Personal Revival (P), walk sensitive to Divine Appointments (D) and respond to God’s leading in Active Obedience (A). They embrace God’s priority for their lives. The witness both by lips and life!
+
+Personal Revival
+Personal revival is the key to witnessing. Your love for the lost becomes compelling. You give witness to the reality of God at work in your life. You begin to testify of a deep work of grace within you. And to testify of His amazing love for the lost.
+
+In personal revival, you will be empowered by the Holy Spirit. That’s the key! The empowering of the Spirit leads to personal revival. And personal revival leads to become more and more like Christ. It is unto HIM that we bear witness!
+
+Divine Appointment
+God truly gives divine appointments. A life walking in personal revival will be a life led by God. We do not need to run around like chickens with their heads cut off. God will direct us to whom He desires us to speak!
+
+When you begin to hear or see God working in your life, you move where God directs. You become spiritually sensitive and alert. In personal revival, you walk in the divine appointments that God brings into your life. You begin to ride upon His divine moves and seize the divine appointments for both for evangelism and edification.
+Active Obedience
+When God prompts, we must obey. When you readily respond to God’s divine moves, you begin to experience His Kingdom purposes for your life. This will cultivate a new spiritual vitality in your life. You will walk in supernatural naturalness and experience His power.
+
+Obedience begets personal revival which begets divine appointments and begets more obedience. PDA is contagious faith in action. We no longer have a privatized faith. It’s walking with Jesus daily in authentic discipleship!
+
+Go PDA for Jesus!
+
+
+Questions for Reflection
+
+1. What has God taught you about PDA?
+
+2. Why would you want to make PDA your lifestyle?
+
+3. How would you allow God to lead you in PDA?
+''');
+
+final _mt_Lesson13 = Lessons(
+    lessonNumber: 13,
+    lessonTitle: 'Wellness Through Solitude',
+    lessonBody: '''by Dr. Philip C. Flores
+(A new breed: call for a new Generation of pastoral leaders)
+
+The apostle John’s prayer is a very timely prayer for many of our pastors today. In 3 John he wrote, “Dear friend, I pray that you may enjoy good health and that all may go well with, even as your soul is getting along well.” John was concerned not only for Gaius’ spiritual health but also for his physical well-being. Gaius, apparently, was doing well spiritually but physically.
+Most pastors, I have observed, are not physically in good shape. They look haggard, malnourished, and weak. I recall one who is practically skin and bones. Many are not well, both physically and spiritually. And that’s tragic.
+As the Church faces the challenges and the opportunities of this new millennium, we need pastors, workers, and leaders who are robust in body and soul and fit for the Master’s use. Pastors who can echo Caleb in saying, “I am still as strong today as the day Moses sent me out ; I am just as vigorous to go out to battle as I was then” (Joshua 14:11). Or they can quote Paul in saying, “knocked down, but not knocked out” (2Corinthians 6:9, my paraphrase).
+Pastoral wellness is vital for ministry. How does one achieve it? What must pastors pay attention to? Physical exercise? Diet? Regular R and R? More ministerial training? Yes, and much more.
+One facet of pastoral wellness that has been disdained or forgotten is solitude. It has been associated with asceticism. No one seems to like being called ascetic or monkish. Many pastors like to see themselves as on the go and busy as a bee. However, such a lifestyle has produced untold miseries at home and at work. Can pastors fall into a rat race in ministry? It seems so based on visible crises such as burning out, depression, nervous breakdown, drug addiction, broken families, and even suicides.
+Dallas Willard, in his book The Spirit of the Disciplines: Understanding How God Changes Lives (San Francisco: Harper and Row, 1998), points out that a mouse can survive stress better if it can be isolated from other stressed out mice. He notes that “it takes twenty times more the amount of amphetamines to kill individual mice than it takes to kill them in groups.” It seems that an experiment revealed that a mouse which has not been given any stimulant will be dead in ten minutes if placed among a group of mice on amphetamines. Getting out of circulation is critical for those who live and work in heavy pressure environments. Pastoral ministry is one such environment.
+The world today is filled with stressed out people – pastors included. They are hurried and harried. This is especially typical in urban settings. I agree with Donald S. Whitney when he writes.
+“…the busier you are, the more hectic your world, the more you need to plan daily spaces of silence and solitude.” Spiritual Disciplines for the Christian Life (NavPress, 1991)
+A time to rest, to reflect, and to replenish inner resources is enough reason why we should practice solitude. Though it is generally practiced as a spiritual discipline, its physical value cannot be ignored. It may not be physically energetic as running, biking, swimming, and other aerobic exercises that strengthen the heart. But it does spare modern man from fatal heart attacks. Researchers and experts in stress management recommend solitude as one way of “decompressing stress-filled lives.”
+Throughout Church history, we can find a number of great saints who have made solitude a vital part of their lives. But the one who definitely stands out is our Lord Jesus Christ Himself. At the height of one period of popularity, Luke records that He “often withdrew to the wilderness and prayed” (Luke 5:16). To cope with the mounting demands of the ministry, the Lord Jesus did not necessarily work harder and longer (though at times He did). But He usually retreated into the wilderness, recharged Himself through prayer, and returned to serve with revitalized power.
+Solitude basically means being alone by yourself and away from the daily hustle and bustle of life. Although it is essentially a matter of heart or mind, I would like to emphasize the value of being physically alone. No human contact.
+There are three significant values of solitude in relation to wellness. First, solitude provides physical rest. Away from life’s pressures and demands, the maddening crowd, and the whirlwind of activities, solitude slows down our heart rate, relaxes our nerves, and gives us breathing space. After a busy ministry tour, Jesus said to the twelve, “Come with me by yourselves to a quiet place and get some rest” (Mark 6:31).
+Second, solitude gives us the opportunity to reflect. Again, to quote Willard, “In solitude we find the psychic distance, the perspective from which we can see, in the light of eternity, the created things that trap, worry, and oppress us.” In solitude, we can stop and ask ourselves:
+“What am I doing?”
+“Is what I’m doing what I really want to pour my life into?”
+“Why am I doing what I’m doing?”
+These are deep questions that remind us who we are and give meaning and sense of purpose to everything we do. Reflecting on these questions require solitude. Without reflection, our prosperity for action will lead to countless frustrations, and maybe depression. Reflection allows wisdom to seep into our being.
+Third, solitude restores or renews power. It gives us time to recharge our physical and mental batteries. We all need time to “unstring the bow of our routine stresses and enjoy the restoration that silence and solitude can provide for our body and soul” (Whitney, Spiritual Disciplines).
+Solitude is also very important in cultivating relational (social and emotional) wellness. Richard Foster underscores in his book Celebration of Discipline (Harper, 1988) that if we are to relate with others meaningfully, “we must seek out the recreating stillness of solitude.” The renewed strength that can be experienced as one spends time alone with God is compared to that of eagles with newly feathered wings. Thus, we can run and not be weary, walk not faint (Isaiah 40:29-31).
+
+Discussion Questions
+1. Do you regularly practice being alone with God or is being alone a source of stress for you? Explain.
+
+2. Reflecting on your self-management, how would you describe the level of stress under which you serve God and people? It is at a healthy level or are you ready to explode?
+''');
+
+final _mt_Lesson14 = Lessons(
+    lessonNumber: 14,
+    lessonTitle: 'Walk Your Talk',
+    lessonBody: '''by Dr. Philip C. Flores
+(A new breed: call for a new Generation of pastoral leaders)
+
+Walk your talk. Preach what you teach. Or as Paul says to Timothy, “Watch your life and doctrine closely” (1 Timothy 4:16). The apostle Paul himself exemplified this admonition when he wrote to the Corinthian Church, “Therefore, I urge you to imitate me. For this reason I am sending to you, Timothy, my son, whom I love, who is faithful in the Lord. He will remind you of my way of life in Chirst Jesus, which agrees with what I teach everywhere in every church” (1 Corinthians 4:16, 17).
+
+Mass Production of Teachers
+There seems to be a surge of efforts to train many teachers of the Word in the last few years. Just look at all those seminars and workshop attended by many aspiring ones, from pastors to church workers and lay leaders. Doubtless, there is an ever-increasing need for more people who can teach and train workers, especially local pastors. It is estimated that there are about 40,000 pastors in the country today who do not have any formal training in ministry. Even among seminary or Bible school graduates, the need to upgrade ministry competency has become imperative to many. So the corresponding effort to produce these teachers has accelerated and seem to be producing a great harvest of teachers. Is this indeed good news?
+
+Let us seriously consider the words of James in his letter:
+
+“Don’t be in any rush to become a teacher, my friends. Teaching is a highly responsible word. Teachers are held to the strictest standards. And none of us are perfectly qualified. We get it wrongly every time we open our mouths.” James 3:1-2, The Message.
+
+What is God’s standard for a teacher?
+
+The Need for Consistency
+The teaching ministry is more than just the subject matter, the content, and the curriculum. It is not just a matter of mastering a particular training manual or material. It is more than eloquently parroting someone else’s popular into somebody else’s notebook. Teaching requires much, much more.
+
+To the crowds and the disciples, Jesus said,
+
+“The teachers of the Law and the Pharisees sit in Moses’ seat. So you must obey them and do everything they tell you. But do not do what they do, for they do not practice what they preach.” Matthew 23:2-3
+
+The Lord Jesus judged the teachers of the Law and the Pharisees (He gave them seven woes in the chapter), not for lack of knowledge of the Law, nor for any incompetence in teaching, but for their character flaw. They were morally inconsistent! They taught one thing and practiced another.
+
+You must have read about well-known preachers who were discipline by their denominations for moral lapses, usually by committing adultery. The pattern seems to follow the same path: a clandestine affair goes on for a long time. No one seems to know about it. For a time, it looks like business as usual for the preacher. The leader delivers fiery sermons every Sunday. Then the end comes.
+The sin is found out.
+
+Teaching competency calls for integrity of curriculum and character. Content and conduct. Words and deeds. The apostle Paul modeled it. He exhorted young Timothy to do the same. To do otherwise is to be like the Pharisees.
+
+
+
+Transformational Teaching
+As one who is involved in teaching and training others, I have learned through the years that teaching is not just classroom work. When Jesus gave the Great Commission, He said very clearl, “Therefore go and make disciples of all nations… teaching them to obey everything I have commanded you.” Teach them to obey – these are very important words we should not take for granted. This kind of teaching is intentionally teaching for life-change, not merely dumping information.
+
+Transformational teaching occurs when a teacher’s life impacts the life of his student. It is a dynamic life-to-life interaction. One passes on to another not merely lesson plans but also vision, goals, commitments, purpose, and the like.
+
+How does transformational teaching take place? Ezra, the priest and teacher, a learned man in God’s Law and its offspring – a moral code, models for how to do it. “For Ezra had devoted himself to the study and observance of the law of the Lord and teaching its decrees and law in Israel” (Ezra 7:10). Notice the progression: first, he studied, then he practiced it, and finally, he taught others. There is a great danger, that in our rush to train others to become teachers, we tend to shortcut the process. We downplay the “practice” and rush on to “teaching others.” The result is alarming – we have lots of informed minds, but few transformed lives.
+
+Transformational teachers first practice, then propagate. What they teach must be true in their lives. Paul, Ezra, and Jesus are our models.
+
+Yes, let us train as many as we can. Let us multiply teachers and trainers. But let us be careful to train them to walk their talk. So, how is our teaching?
+
+
+Discussion Questions
+
+1. Looking at teachers in your own church, how would they be described – informational or transformational? Explain.
+
+2. How about yourself? What do you think is required for you to become like Ezra the teacher?
+''');
+
+final _mt_Lesson15 = Lessons(
+    lessonNumber: 15,
+    lessonTitle:
+        'Discipleship and Absolute Surrender: Commitment vs. Surrender',
+    lessonBody:
+        '''A Christian leader from Romania was once asked a thought-provoking question” “Why is it that the Church in the Western world has lost its power with God and man?”
+
+The answer this Romanian Christian leader gave was profoundly insightful. He said, “The Church in the Western world has lost its power with God and man because it has substituted commitment for surrender.”
+
+This challenging thought. It goes right to the root of the problem. There is a great difference between a surrendered life and a committed life. It is a great a difference as that between bleeding and blood transfusion!
+
+Commitment or Surrender? What’s the difference?
+
+The committed life emphasizes what we must do for Christ; the surrendered life embraces what Christ has done for us. Christianity is not essentially DO but DONE. It is not TRY but TRUST.
+
+The committed life relies on one’s ability to perform; the rendered life realizes that we can do nothing apart from God. To state it in conventional terms, the committed life centers on our Doing while the surrendered life centers on our Being.
+
+In other words, the committed life exalts our competence; the surrendered life examines our character. The committed life emphasizes the outward; the surrendered life emphasizes the inward.
+
+More significantly, the committed life centers on operations; the surrendered life centers on obedience. Thus, the committed life issues out of good intentions while the surrendered life issues out of God’s intention.
+
+A man may be outwardly committed to the work of Christ but may not have been inwardly consecrated and surrendered to the will of Christ!
+
+Are you walking in commitment or surrender?
+
+J. Hampton Keathley III, Th.M. was a 1966 graduate of Dallas Theological Seminary and a pastor of 28 years. In August 2002, he died of lung cancer. One of the legacies Keathley left behind is a notable commentary on Colossians. In it, he affirmed the work of grace:
+
+We are a society that worships at the feet of a god called activism. Activism comes from a misplaced sense of responsibility and trust. Ours is a world that has lost its sense of responsibility and trust in the Lord, placing it instead in what we do, in what we have accomplished, and in how busy we are.
+
+These values have become the measure of success, and it indicates a wrong focus, one on doing rather than on being. Ultimately, we must learn that it is not we who work for God; it is God who works in us… (emphasis mine).
+
+Not we who work for God but more importantly, God who works in us. We must be weaned from our well-intentioned but ill-informed activism. It is not mere commitment that God is looking for. What then does He seek? God is looking for absolute surrender!
+
+Absolute surrender. There is no substitute for it!
+
+Questions for Reflection
+1. What’s the most important distinction between commitment and surrender to you? Why?
+2. Why is absolute surrender essential to discipleship?
+3. How can we be tutored to walk in absolute surrender?
+''');
+
+final _mt_Lesson16 = Lessons(
+    lessonNumber: 16,
+    lessonTitle: '"I" Preaching',
+    lessonBody: '''I did this, I did that;
+I said this, I said that;
+I have this, I have that;
+I know this, I know that;
+I am this, I am that;
+I am… I am… I am…
+
+The word is a very popular statement – very powerful too.
+
+Use it in cyberspace and you go viral.
+And we love it.
+
+What a big difference!
+For it is not ourselves that we preach; we preach Jesus Christ as Lord, and ourselves as your servants for Jesus’ sake.
+2 Corinthians 4:5
+
+Warning:
+Puffed up with pride, you claim to be a god. You say that like a god you sit on a throne, surrounded by the seas. You may pretend to be a god, but, no, you are mortal, not divine.
+Ezekiel 28:2b
+
+Soul-Searching Moments
+
+A. Who is central in my preaching?
+
+B. Reflections
+
+C. Prayer of Repentance and Renewal
+''');
+
+final _mt_Lesson17 = Lessons(
+    lessonNumber: 17,
+    lessonTitle:
+        'Cultivating your Inner life : Reflection on Spiritual Formation in Discipleship',
+    lessonBody: '''By Dr. Edmund Chan
+
+What is Spiritual Formation?
+
+“My children, with whom I I m again in labor until Christ is formed in you..” (Galatians 4:19)
+
+What is spiritual formation? I define it as “the intentional, communal process of nurturing the spiritual person in the likeness of Christ, by the power of a Spirit-filled life, so as to fulfil the will of God concerning us.”
+
+Spiritual formation is the chief process for nurturing the inner life. This definition thus encompasses both the process of nurture and the purpose of nurture.
+
+The process of spiritual formation is communal and intentional. The purpose is to conform us tot the image of Christ, so as to fulfil the will of God concerning us.
+
+There are five important aspects to this definition of spiritual formation.
+
+
+1. Spiritual Formation is Intentional
+Spiritual formation is neither automatic nor accidental. We intentionally make the time for it. It stems from a hunger to grow spiritual. And we intentionally get back to the basics.
+There is no substitute for the basics.
+
+The first time Ann and I were invited as plenary speakers to the International Students, Inc. National Staff Conference in Colorado Springs, I spoke on the basics even though many were veteran missionaries.
+
+During lunch, the wife of a board member stopped me and said with a big smile, “Pastor Chan, I have a question for you. Do you know that the people you were speaking to are seasoned missionaries?”
+
+“Yes, of course. They are wonderful leaders.”
+
+Then she said with deep sincerity: “That’s why I am so glad that you’ve gone back to the basics, even with these seasoned leaders. We al need it!”
+
+I have been mentoring for over 30 years. In spite of the fact that some of those I mentor are senior Christian leaders, I have never had any of them say, “Can we stop the basics and go on to something more intermediate”” In fact, the opposite is true; they have all thanked me for going back to the basics and reminding them of it!
+
+
+2. Spiritual Formation is Communal
+The deepest ache of the soul is the longing for belonging. To be human is to be designed for community. For spiritual formation to meaningfully take place, there must be community.
+
+As we look at how Jesus disciple, we see that He did not merely engage in one-on-one discipling but rather, one-on-one discipling in the context of a community. Spiritual formation is communal.
+
+Dawn Simpson said:
+
+The revolution of Jesus is first and always a revolution of the human heart… it is the revolution of the character which is changed from the inside through an on-going personal relationship with God and with one another. (emphasis mine)
+Often this communal aspect is quietly neglected. We are often divided because of fractured relationships.
+
+David Eckman, in his book, Knowing the Heart of the Father, made a meaningful observation:
+Neglect is an unseen experience. Abuse usually makes itself obvious but neglect goes unnoticed. Sadly, our culture is submerged in neglect and emotional abandonment.
+
+Neglect is the silent killer of community.
+
+We are already united as one in Christ Jesus. Our prayer should thus not be “Father, make us one” but rather, “Father, keep us one!” The best incubator for spiritual formation is the kindred-spirit community.
+
+
+3. Spiritual Formation is Aimed at Christ-Likeness
+The chief goal of spiritual formation is Christ-likeness. The purpose of God is to form us in the likeness of His beloved Son. Anything less is not worthy of what He intends. Growing in the likeness of Christ – “till Christ is formed in you” – is what spiritual formation is all about.
+
+The practice of the spiritual disciplines is therefore vital.
+Through them, we cultivate a deeper relationship with God (and in Him with one another) so that we grow in Christ-likeness.
+
+One such spiritual discipline is solitude and silence.
+
+Yes, we grow in community. But there are times where we meaningfully withdraw from community to enlarge our soul in solitude and silence. It is not a matter of “either-or”. It’s the wisdom and paradox of the “both-and”.
+
+Dietrich Bonhoeffer, the great German theologian, talked about that paradox when he said:
+Let the person who cannot be in community beware f being alone, and let the person who cannot be alone beware of being in community.
+
+Parker Palmer is one of my favorite authors. It is not merely Palmer’s intelligence but his insight that draws me. I may well be wrong but I’ve always surmised that Parker Palmer was Henri Nouwen’s peer mentor (but that’s another story!).
+
+Listen to what Palmer says about the spiritual discipline of contemplation. Its so insightful that it should be quoted at length for full impact:
+
+Let me offer you a definition of contemplation that may help us with this task. There is a tendency to think of contemplation as some esoteric technique, like sitting cross-legged and chanting a mantra, a methodology that will somehow reduce our stress and bring us peace.
+I don’t think the contemplative life is about stress reduction in the first place. Here is my definition of contemplation: Contemplation is any way you have of penetrating illusion and touching reality. If you are sitting cross-legged chanting a mantra and you’re not penetrating illusion, it’s not contemplation. You may even be generation illusion by doing that. It depends. (emphasis mine).
+
+Contemplation is any way you have of penetrating illusion and touching reality. (Wow! Why didn’t I think of that?) It is spiritual disciplines like these that draw us from our illusions to the ultimate reality in Christ Jesus!
+
+
+4. Spiritual Formation is Accomplished by the Spirit
+Spiritual formation is not a result of self-effort. It’s not some spiritual self-improvement project. Spiritual formation is the definitive work of the Holy Spirit.
+
+The definition I gave of spiritual formation has actually been modified. In my original definition, spiritual formation was “the intentional communal process of nurturing the spiritual person in the likeness of Christ, so as to live a Spirit-filled life, in order to fulfil the will of God concerning us.”
+
+After I had crafted this definition, I realized that it was flawed. The purpose of spiritual formation is not “so as to live a Spirit-filled life”; the Spirit-filled life is not the product, it’s the process. It is
+the means and not the end. It is a radical shift!
+
+In other words, the goal of spiritual formation is not “to live a Spirit-filled life” but rather, by living the Spirit-filled life (the means of God’s empowering) to grow in the likeness of Christ, so as to fulfil te will of God concerning us.
+
+Spiritual formation is accomplished by God, through the empowering of the Holy Spirit.
+
+And we cannot be directed by the Holy Spirit unless we are submitted to the Spirit. Thus, there is a place of prayerful dependence in spiritual formation. And when we are empowered by the Spirit, we are able to fulfil the will of God concerning us.
+
+
+5. Spiritual Formation is Centred upon God’s Will
+I am concerned about how the name and the will of the Lord are easily misunderstood, misrepresented and miscommunication. if we are not directed by His Spirit, tutored by His Word and growing in maturity, our sense of God’s will can be sorely misguided.
+
+It is somewhat comforting (and ego-boosting or manipulative, depending on the case) to say “God said to me…” or “God told me to…” But a lot of harm has been done in the name of God by those who had supposed that they were declaring or doing God’s will.
+
+I am not saying that we mustn’t say “God said to me” or “God spoke to me”. I believe in the theology of a speaking God. What I am simply saying is that we must be really careful. It can be false, misguided and deceptive.
+
+There is a real danger of insecure presumptuousness.
+
+Genuine spiritual formation helps us to discern and fulfil God’s will concerning us. It mentors our spirit, tutors our soul, develops our character in such a way that we are suitably inclined to discern and do God’s will.
+
+Of course, I am not saying that God speaks only to the spiritually mature. What I’m saying is that when we grow through the spiritual formation of God, we are more able to avoid the dangers of insecure presumptuousness. We are more equipped to be able to know the voice of God in our lives and more rested in following it. And to follow it with a consistency to the Word.
+
+That is why spiritual formation is vital for discipleship today!
+''');
+
+final _mt_Lesson18 = Lessons(
+    lessonNumber: 18,
+    lessonTitle: 'People Not Programs',
+    lessonBody: '''By Dr. Philip Flores
+
+“What is the best and most effective program to disciple my church members?” One pastor who attended our Discipleship Training Institute asked this question. More than a decade later, it is still being asked by many pastors and church leaders today. They hop from one seminar to another and attend conferences here and there in search of the “one” sure thing.
+Fortunately, there’s a plethora of “best programs” church leaders can choose from. There’s G-12, the Purpose-Driven Church, DNA, House church, and many others. Each one has a champion (or champions) who attest to the effectiveness of these courses of study.
+
+When Rick Warren’s Purpose-Driven series hit the country, many exclaimed “Eureka!” Finally, they found the “best program” towards church growth and church health. Many pastors imagined turning their fledgling churches into megachurches, just like Saddleback Church of Southern California. The approach worked for some, but for many it was a disaster.
+One pastor from a small provincial church came to Manila to attend a PDC seminar to learn how to lead a purpose-driven church. He became so excited about what he learned that he began to immediately apply the exciting ideas he received back home. Unfortunately, his people were not as enthusiastic about his vision as he was. The pastor, however, was so determined to make the purpose-driven church happen that he railroaded the process. As a result, he lost many of his key leaders.
+Why are we in a constant search for the “best program”? Why the hype over megachurches? The common myth is that if we can only get hold of the best program for the church growth, then we can easily reproduce the ministry success of others. It seems that pastors are dazzled by the success stories of big churches in this county and abroad. They keep looking for the secret formula that would turn their puny churches into strong giants of the faith.
+This is wrong thinking. The essence of the Great Commission is so different from this mindset. Jesus said, “Go, make disciples of all nations.” We are called to be disciplers, not programmers. We are commanded to multiply people, not programs.
+This not to say that programs are unnecessary. They are important but not primary. Placing programs to the primary position instead of people tends to make us manipulators rather than ministers. We fit people into programs rather that fit the programs to the people. Programs tend to make leaders treat people the same way, without regard to their starting points and the uniqueness of their growing process as God designed them to be.
+David, as young teener right before facing Goliath, was fitted with King Saul’s battle equipment. In 1Samuel 17:38-39, we read that King Saul, with all his logic and good intentions, failed to realize that his armor, inner protective garment, and sword were too unfamiliar for the young and eager David and made him a clumsy fighter. If David used these tools, he was liable to be killed in the first minutes of combat. He couldn’t move as fast nor strike as deadly as he did when he faced wild animals while protecting his father’s sheep, wearing only his shepherd’s clothes and shoes, handling his weapons of choice – a sling and a fighting stick.
+“Then Saul dressed David in his own tunic. He put a coat of armor on him and a bronze helmet on his head. David fastened on his sword over the tunic and tried walking around, because he was not used to them. “I cannot go in these,’ he said to Saul, ‘because I am not used to them.’ So he took them off.”
+In similar fashion, many church program fail, not because they are not biblical but because they are burdensome to the church. Oftentimes, church leaders, like King Saul, overlook the need to customize and contextualize their best programs to the actual conditions and needs of their churches. This is what happens when leaders are program-oriented rather that people-responsive. These leaders force the people to fit the process. They end up manipulating rather than ministering. No wonder people feel more used than helped.
+Three weeks after typhoon Reming hit the Bicol region in late 2006, I went to visit some of the pastors who were part of TOPIC’s CORE 300 program. I brought along two other pastors from Laguna to distribute a truckload of relief goods and some recovery funds. One pastor responded, “Maraming salamat po sa inyong suporta at tulong, lalo na po sa generator at cash. Malaking bagay po iyon di lamang sa pamilya kundi sa aming iglesya rin.”
+Some of them, nevertheless, shared some disappointment in their leaders who were based in Metro Manila. One reported that he had received no text message nor phone call carrying a desperately needed word of comfort. He felt so heartsick that he was thinking of pulling out of his denomination and ministering on his own. People in the frontlines of ministry are hypertensive to disappointments and discouragement. These unsung heroes feel keenly when their leaders are program-driven rather that caring comrades. They sense when their leaders care more for the program that they as persons. John Maxwell observed, “Many [leaders] spend more time focusing on their dream, and spend little time with their team.”
+In their book, The Way of the Shepherd, authors Dr. Kevin Leman and William Peutak quoted a mentor of one of the most respected CEO’s in America. He said, “Many managers focus too much on their projects and not enough on their people.”
+We are called to disciple people, not merely design programs. Jesus commanded us to pray for more workers, not more programs. May we focus on the right object – people.
+
+
+Discussion Questions
+1. Ptr. Philip says people are more essential than programs.
+Do you agree or disagree? Explain.
+
+2. What seems to be the most promising program or strategy for church growth you have become aware of in the last 12 months? What are the promised indicators of success? What would challenge its effectivity?
+
+3. Why is there a tendency to use people to make a program succeed rather that use programs to care for people to care for people?
+''');
+
+final _mt_Lesson19 = Lessons(
+    lessonNumber: 19,
+    lessonTitle: 'Just Like Jesus',
+    lessonBody:
+        '''“The Word became flesh and made His dwelling among us” (John 1:14). In The Message, this verse is rendered as follows, “The Word became flesh and blood, and moved into the neighborhood.” What a picture of the God Incarnate!
+This is a loaded theological truth. Jesus embodied His Word, His message. Bible scholars call this the theology of incarnation.
+Christians, particularly Christian leaders, are called to incarnate the Word just like Jesus did. It means giving God’s message of redemption the flesh and blood it needs in order to be understood by man. Pastoral leaders must clothe in flesh and blood every word that they preach. How do we do this? Just like what Jesus did. This is the great challenge of our times. Are we up to the challenge?
+Today, there is a lot of talk on the different types of Christian leadership – visionary, transparent, servant, shepherd, steward, etc. Books about each type have been written which could be both challenging and confusing. These are challenging for those who have become complacent and stagnant, but confusing for the emerging leaders who are looking for authentic leadership models. The call to be like Jesus is very clear. Consider the following –
+“To tis you were called, because Christ suffered for you, leaving you an example that you should follow in his steps.” 1 Peter 2:21
+“Whoever claims to live in him must walk as Jesus did.” 1 John 2:6
+“As we, who with unveiled faces all reflect the Lord’s glory, are being transformed into his likeness with every increasing glory, which comes from the Lord, who is the Spirit.” 2 Corinthians 3:18
+I have a personal collection of books on how to be like Jesus as a leader, teacher, missionary, disciple, pray-er, servant and the like. All these books have but one message – Be like Jesus. It is sad to note, however, that in all these excellent writings, the call to incarnate the Word, as Jesus did, was not powerful enough for us to witness a transformative effect in the lives of many.
+Today, the Church needs to take the challenge to incarnate the Word more seriously, especially among church leaders. The order of the day is to stop crying out in the wilderness and to start the clarion call for incarnational leadership in the mega churches, in the rapidly multiplying cell churches, and in the marketplace.
+Something ago I heard one preacher utter these shocking words: “Our message is good news, but our messenger is bad news.” Bad news indeed when we fail to practice what we preach; when our talk doesn’t match our walk; when servants turns into superstars; when our fiery public worship becomes a façade for a lifeless private walk with God. This is not just bad news. It is tragic and wrong.
+What does it mean to incarnate the Word, just like Jesus did?
+There are number of ways to answer this question. Here are, at least, three indicators:
+One, to incarnate the Word is to live a life of obedience. The Lord Jesus made this very clear when He said, “Man does not live on bread alone, but on every word that comes from the mouth of God” (Matthew 4:4). He Himself modeled such a lifestyle, “My food is to do the will of him who sent me and to finish his word” (John 4:34). He was obedient to death, even death on the cross (Philippians 2:8). He spent HI days on earth living according to the Word of God. He had no other standard, no other measuring stick with which to align His life.
+Two, we need a Word-driven ministry. The apostle Paul wrote, “Let the Word of Christ dwell in you richly as you teach and admonish one another with all wisdom, and as you sing psalms, hymns and spiritual songs with gratitude in your hearts to God” (Colossians 3:16). At present, it is rather sad to hear of pastors preaching whatever is popular and calling it “vision” from above. Their eloquence delivers a good message, but not necessarily God’s message. Their teaching and leadership have been defined by the world, and no longer by the Word. The Lord Jesus embodied His message and ministry in these words: “For I did not speak of my own accord, but te Father wo sent me commanded me what to say and how to say it” (John 12:49).
+Lastly, incarnational leadership calls for consistency in what we preach and in what we practice. Our walk should always equal our talk. Like the Lord Jesus, the apostle Paul modeled such leadership in these words, “For this reason I am sending to you Timothy, my son whom I love, who is faithful in the Ord. He will remind you of my way of life in Christ Jesus, which agrees with what I teach everywhere in every church” (1 Corinthians 4:17). The Lord’s enemies acknowledged His consistent life when they said of Him, “Teacher, we know you are a man of integrity. You aren’t swayed by men… you teach the way of God in accordance with the truth” (Mark 12:14).
+What the watching and wandering world needs today is to see and not just hear Christian leaders whose lives and leadership move around the neighborhood and in the homes reflecting the Lord Jesus Christ. Leaders who present God’s message visually and not just verbally. Leaders who live and lead to incarnate the Word. Just like Jesus did.
+
+Discussion Questions
+1. Of the three indicators incarnating Word (obedience, Word-driven ministry, consistency), which one realy speaks to your heart? Explain.
+''');
+
+final _mt_Lesson20 = Lessons(
+    lessonNumber: 20,
+    lessonTitle: 'Towel Not Title',
+    lessonBody: '''by Dr. Philip C. Flores
+
+A title before or after a person’s name signifies his achievements and educational attainments. It is a hard-earned, well-deserved recognition. In some cultures, titles attached to a name dictate how he or she is treated in society. One’s respectability has become associated with letters such as MD, LLD, PhD, CPA, MBA, etc. That’s how the system works.
+The sad part is that if the price is right, anyone can add a title or two, either before or after his name. This is becoming common even among our church leaders. If you have the money or right connections, you can easily obtain the venerable title of a bishop! Yes, indeed! Titles are now for sale!
+Why the obsession with titles? In the world’s concept of leadership, a title speaks of position and power. It gives an entitlement you might think you deserve as someone above the ordinary. This obsession has become part of the DNA of many of our esteemed church leaders… self-proclaimed pastors and self-appointed bishops. I was once introduced to one and got the shock of my life when I learned from one of his members that their church is still very small and just newly established. A bishop is one who superintends a number of churches, pastors, and leaders. And this one thinks he already deserves the title? And for what reason, I wonder.
+In our Trainers of Pastors International Coalition (TOPIC) seminars around the country, the emphasis on the need for a new breed, a new generation of pastoral leaders has become more urgent. Pastors who are kainos – new and of different kind. They are not superstars, but servants; not celebrities, but Christlike. On one of these seminars, I was approached by a pastor who shared, “We need pastors with a towel, not a title.” That got my attention. It was a powerful statement. And immediately, I was reminded of John chapter 13.
+On the night that the Lord Jesus held the Last Supper with His twelve disciples, He demonstrated what servant-leadership was all about. He actually showed them how it must be done, and then succinctly explained it to them.
+
+Loves Fully
+First, a true servant-leader loves to the end (John 13:2). Other translations put it as “loving completely or perfectly.” The point is that Jesus loved His disciples from beginning to end. This kind of love motivated Him to remove His outer garment and wrap Himself with a towel. To love someone fully means a willingness to go down the level even of the least among us, no matter how menial or demeaning to one’s title it is.
+The apostle Paul echoes this truth when he writes, “You, my brothers, were called to be free. But do not use your freedom to indulge the sinful nature; rather, serve one another in love” (Galatians 5:13). Yes, a true servant leader who loves fully does not need a title. He only needs a towel.
+
+Leads by Example
+After washing the feet of the disciples, the Lord Jesus explained why He did what He just did to them. “You call me ‘Teacher’ and ‘Lord,’ and rightly so, for that is what I am. Now that I, your Lord and Teacher, have washed your feet, you also should wash one another’s feet. I have set you an example that you should do as I have done for you” (John 13:13-15).
+Servant-leadership has become a buzz word in many leadership circles, even in the corporate world. What an easy and stimulating subject to talk about! But how many of these leaders actually do it?
+The apostle Peter, who reluctantly allowed Jesus to wash his feet, later on wrote an important lesson from this experience to his fellow overseer: “nor lording it over those entrusted to you, but being examples to the flock” (1 Peter 5:3). A true servant-leader leads by example. He sets aside his title and grabs the towel, just like Jesus did.
+
+Lives a Blessed Life
+The Lord Jesus concluded His teaching about servant-leadership with these words, “Now that you know these things, you will be blessed if you do them” (John 13:17). Following Jesus’ example and obeying His commands always bring joy to the heart. In John 15:11, He repeats, “I have told you this so that my joy may be in you and that your joy may be complete.”
+To obey is to live a blessed life. The apostle James warns us, “Do not merely listen to the word and so deceive yourselves. Do what it says” (James 1:22). For anyone who does so, James continues, “will be blessed in what he does” (James 1:25). Yes, a true servant-leader lives a blessed life. There is no greater joy than to follow the example of Jesus, the perfect model of a servant-leader.
+Being a servant-leader is Kainos Leadership. And a servant-leader loves, leads, and lives differently. He serves not with a title in his hands, but a towel, just like the Lord Jesus.
+
+Sharing Points
+Pause “Do people in my ministry see me as a servant-leader or simply ‘bosing’?”
+
+Process
+1. What resonates in my heart in this article?
+
+2. How can I be more Christlike in serving others?
+
+o Be considerate of others
+o Be quick to serve
+o Be an example
+o Other ways: _______________________________________
+o Be humble
+o Be more loving
+
+3. What would my church look like if I were to practice servant-leadership just like Jesus?
+''');
+
+final _mt_Lesson21 = Lessons(
+    lessonNumber: 21,
+    lessonTitle: 'Look Like Jesus',
+    lessonBody:
+        '''“If you Christians lived like Jesus Christ, India would be at your feet tomorrow.”
+
+“If all Christians were Christians – that is, Christlike – there would be no more Islam today.”
+
+These words came from the mouths of a Hindu professor and a former Arab Muslim, respectively, quoted by the Rev. John Stott in his farewell talk last July 17, 2008 at the Keswick Convention in England. The message was clear: We can make a global impact, only and only if, we Christians look who we are talking about – Jesus the Christ.
+
+During my early years with The Navigators in the 60s, we used to joke around that if the Great Commission could only be accomplished through meetings and conferences, then we would have accomplished it a long time ago. But we didn’t and never will. That is not Jesus’ strategy.
+
+Programs, projects, and high-sounding evangelistic efforts were all part of my Christian menu during my younger days. That was fifty-some years ago, the span of one generation. But despite all the noble efforts to reach the world for Christ, such hard work were saddled with much frustrations and failures, at least in our human eyes. Why is that? In the worlds of John Stott, “one main reason is that we don’t look like the Christ we are proclaiming.”
+
+Jesus’ Strategy
+
+The Lord Jesus spoke of two major ways to make a global impact. One was command and the other was in the form of a prayer.
+
+On the eve His betrayal, Jesus said to His disciples:
+
+A new command I give you: love one another as I have love you, so you must love another. By this all men will know that you are my disciples, if you love one another. –John 13:34-35
+
+According to Jesus, the world will know that we are Christians, not because of our big buildings, big plans, and big budget. These are all good and necessary, but they are not primary. The key is not to have mega resources, but meaningful relationships – yes, love for one another. We need to recapture the powerful testimony of the early Church wherein those who saw them exclaimed, “See how they love one another!”
+
+Again, on that same night, Jesus uttered to the Heavenly Father what is now known as His priestly prayer. Of the many things He prayed for His disciples, one way paramount in His heart. More than once He prayed for their unity – “that they may be one” (John 17:11, 21-23). And here lies the key to global impact – “so that the world may believe… to let the world know that you sent me.”
+
+The Need for Intentionality
+
+In one of the seminars conducted by Trainers of Pastors International Coalition (TOPIC), one question stood out: “What is the ultimate goal of the Christian life and ministry?” Practically, everyone knew the answer – Christlikeness. But sad to say, not everyone was intentional about it. Could it be because we do not know how? Or because we simply assume that everyone would just grow into it?
+
+Such lack of intentionality might explain all the infightings, backbiting, and divisiveness in our churches up to this day. To be intentional is to pursue love and unity like catching and taming a wild horse. We persevere and do not easily give up to grow in genuine love for one another and in our unity to become a mighty force for God.
+
+The apostle Paul highlights these two in his letter to the Christians in Colossae:
+
+And over all these virtues, put on love, which binds them all together in perfect unity.
+(Colossians 3:14)
+
+Any kind of global impact for transformation begins and ends with these twin imperatives. Nothing more. Nothing less.
+
+
+Sharing Points
+
+Pause “Do I look like Jesus?”
+
+Process
+1. How intentional am I in loving others with a Christ-like love?
+
+2. How intentional am I in pursuing unit among my fellow pastors/leaders?
+
+3. What can I do, intentionally, to look like Christ in love and unity? (List down, at least, three specific steps).
+''');
+
+final _mt_Lesson22 = Lessons(
+    lessonNumber: 22,
+    lessonTitle: 'The Full Surrender',
+    lessonBody: '''Process 3: The Full Surrender
+
+The Bible is full of paradoxes. Sometimes they produce apparent contradictions that generate inner anxieties, especially if we are called to direct our lives by them. Paradoxes such as, to live, we must die. To lead, we must serve. To gain, we must give.
+
+
+Perplexed By Paradoxes
+Most of us are perplexed by paradoxes. As a result, we become creatures of contradiction living lives of compromise. We find ourselves desiring freedom but rejecting discipline. Seeking triumphs but resenting trials. Managing our successes but failing to mentor our successors.
+
+But to me, the greatest contradiction in the Christian life is none of the above. I believe that for the many Christians who long for God and desire to seek Him, the greatest contradiction in the Christian life is in the area of surrender.
+
+The greatest paradox of Christianity is wanting God but not surrendering to Him!
+
+We’ve got to lay hold of God’s blueprint for seeking and finding Him. Surrender to God. It is the blueprint for spiritual victory. The blueprint for vital walk with God.
+
+God knows what’s best for us. When we find that our world has collapsed, we need to trust the Lord afresh and surrender to Him. He is by our side, to help and strengthen us. We are not victims of our circumstances; God wants us to be victors over our circumstances! He calls us to a willing surrender. Absolute surrender is the key to absolute victory!
+
+Our struggle to surrender teaches us dependence. It weans us from our independent spirit. When we come through the portal of surrender in our pilgrimage, we learn the power of leaning on the Lord. For underneath us are His everlasting arms.
+
+Without surrender there is no victory. Without full surrender there might be an apparent victory. But it will be short-lived.
+
+The power of surrender and victory does not mean that we do not sin. We grieve over ours sins. But we rejoice in our unconditional surrender. Our soul finds its rest in God’s forgiveness and restoration. And He lifts us up to walk in holiness and righteousness. this is possible because of our faith towards God and His faithfulness towards us!
+
+A Vital Blueprint
+Proverbs 3:5-6 speaks of a surrendered dependence towards God.
+
+Trust in the LORD with all your heart
+And do not lean on your own understanding.
+In all your ways acknowledge Him,
+And He will make your paths straight.
+
+This was one of the earliest verses I memorized and it has served me very well through the years. The two significant phrases are “with all your heart” and “in all your ways”. These are the defining terms of absolute surrender!
+
+“With All Your Heart”
+Ann often sends me text messages with thoughts she has gleaned. This is one of her ways of mentoring me! One day, she sent me this gem: “Surrender is not about giving up but about giving in.” It is precious to me. It is a wonderful paradigm shift. It helps me understand why many Christians find it so hard to surrender to God.
+
+We often misguidedly look at surrender as giving up. Giving up what we like, what we want, and what we pursue. We hold tightly to these things. We refuse to give them. Not even to God.
+
+But as long as my hand is tightly clenched, God cannot put in my hands His intended blessings for me. I cannot receive what God gives. Not until I open hands.
+
+I am like a child clutching my dirty, earthly marbles – when God has sparkling, heavenly diamonds to place in my hands. But my hands are clenched. Tightly closed.
+
+But the reason why we cannot give up these things for God is because we have not learnt to give in to God. The problem lies not in my clenched hands but in my closed heart. My heart has closed my hands. My hardened heart has failed to give in to the love of God and His rich blessings for me. I clutch at my earthly marbles because I do not have an appetite for heavenly diamonds.
+
+We have fatal attraction towards earthly marbles. No appetite for heavenly diamonds.
+
+In other words, our core values have not changed because our eyes cannot see the blessings of giving in to God’s wonderful plan for our life. Thus it is hard to give up. We have come to a point when we say, “God, open my eyes to see what You are giving to me; so that with all my heart I can give in to You.”
+
+“In All Your Ways”
+Andrew Murray once said:
+
+“Many believers think that when they receive Jesus, He saves them and then helps them in times of trouble. Then they all but deny Him as their Master; and think that they have the right to have their own will and way in a thousand different things.”
+
+They want to be their own masters! They will never forsake their all to follow Christ.
+
+Some years ago, Ann and I had the joyous privilege of being house guests of the late Ray Stedman and his beloved wife Elaine. In one of our delightful post-dinner conversations, my esteemed mentor said to me:
+
+“When we do not forsake our all to follow Christ, there are only two options: either we repent or we don’t. If we don’t, there are only two options: either we backslide completely or we learn to put on a spiritual mask. We cease to be authentic Christians!”
+
+Rey Stedman expounded on that thought in his incredible book Authentic Christianity. When there is no surrender, we cannot cultivate our inner life. Because there is no authenticity!
+
+My first decisive surrender to the Lord was in December 1975. I was baptized that year. I wanted to follow Jesus. To follow him fully. To follow Him gladly, to follow Him only. NO turning back! In that year, I made Jesus the Lord of my life with a simple prayer: “Lord, You are Lord of every arena of my life. With all my heart, and in all my ways, I surrender to You.”
+
+The important thing isn’t how committed we are to the battle but how surrendered we are to God!
+
+When I surrendered to God that day, I didn’t think, “Now I am in bondage.” It was the opposite. I felt it was “victory at last”. It has been worth it!
+
+Some years ago, a pastor’s wife came up to me in an overseas city. She gratefully expressed how indebted she was: “I have failed to thank you and I want to take this opportunity to do so. When I was a teenager, you and Ann invested in my life. Today, as a pastor’s wife myself, I recognize how difficult it is to be a pastor. But I remember one thing you taught us: that the key to victory is to give up our rights and to surrender!”
+
+For Christians, waving the white flag does not mean giving up. It means “victory at last!” And when we learn that surrender is victory, it makes surrender so much easier!
+
+With all your heart.
+
+In all your ways.
+
+Have you tasted the absolute victory of absolute surrender yet?
+''');
+
+final _mt_Lesson23 = Lessons(
+    lessonNumber: 23,
+    lessonTitle: 'The Discipleship of Upward Service',
+    lessonBody: '''Introduction:
+
+Jesus said, “ If anyone serves Me, he must follow Me., and where I am, there My servants will be also. If anyone serves Me , the Father will honour him” ( John 12:26).
+
+There are two important observations I want to highlight. The first is that the Father approves our service to Christ: “ the Father will honour him.” This is the 1 Corinthians 15:58 principle - “our labour is not in vain in the Lord.”
+
+The second is that servanthood is tied to discipleship UPWARD!
+
+The Discipleship of Upward Service
+
+We tend to think of service as outward to man, but it is the upward dimension of service that is most important.
+
+Ultimately, it is the Lord whom we are serving. And in serving Him, His approval is of utmost importance. We do not serve for human applause but for divine approval. That’s easier said than done.
+
+How do we steer away from the propensity to serve for human applause?
+One way is to decide how we would receive compliments. I have learnt to receive compliments in the same way I receive criticism- with the sincere gratitude! God has allowed them for a purpose. I bring them to the Lord so that I may learn from them without them damaging my soul.
+
+Otherwise, I would be unduly elated by compliments or depressed by criticism, forgetting that at the end of the day, it is the approval of the Lord that is of utmost importance.
+
+Another way to grow in the spiritual formation of service is to define what our most significant ministry is. Many of my friends feel that my most significant ministry is the pulpit ministry. I humbly beg to differ.
+
+The pulpit is something seen and public. But to me, the most precious part of ministry is not seen - the private intercession, the personal visitation, and most significantly, the one on one or small group mentoring - all these bound up in the divine appointments God gives!
+
+Serving is from the heart. There has been more than one occasion when there was a grief so deep that I simply sat with the person without saying a word and we just cried together. And then prayed together. One such person in grief said to me afterwards, “ I have had different ones who came to counsel me , but you were the first to come and cry with me. Thank you.”
+
+I was just going about my Father’s business. There is an upward dimension to servanthood we must never forget. It’s not about our giftedness. Service is all about our gratitude. Our gratitude to God for all that He has done for us and our gratitude for the opportunities He grants us. It’s a joy to serve the Lord.
+
+We don’t have to serve. We get to serve.
+
+I was writing this very chapter in a quiet Starbucks joint in the city. By the way, I seldom go to Starbucks for the coffee, I see stars! No wonder it’s called Starbucks. Nice joint, though. Anyway, there I was minding my own business when I bumped into a 48 year old senior pastor. We met “by chance”. Unless he was stalking me... Nah! And nothing happens “ by chance” with God. I believe in divine appointments!
+
+He asked If I had time to talk. In spite of my exceedingly tight deadlines, I happily obliged. I had had mentoring relationship with him ( a quarter of a century ago!) when he was in Bible college. I gladly gave him as much time as he needed (beyond the “ few minutes” he asked for!)
+
+At the end of our time, he said, “ It was indeed a divine appointment!” And then, with a big smile, he said sincerely,” This unexpected meeting was the best thing that happened in my life this year!”
+
+Yes, God does give divine appointments! There is an upward dimension to servanthood we must never forget.
+
+So what was our conversation about? Among the things we talked about, I shared three fundamental things that he wrote down. I want to share them with you as they pertain to service.
+
+You see, the road of serving God is not always smooth, sometimes it is painful. Sometimes it is discouraging. Or sometimes we are simply at a crossroad, trying to discern the Lords leading. In such challenging times, what are we to do?”
+
+I suggest 3 things.
+
+First, journal all that you have learnt from your pilgrimage. You may have walked through difficult times. But they are never wasted. Not if you can glean and learn from them. There are precious lessons that the Lord wants to teach you!
+
+Second, look to the Lord to open doors of Kingdom opportunities. Life is too short to do what is not of the Lord. It’s all about understanding what the will of the Father is. And doing it. And if it is God’s will, He will open the doors for you.
+
+
+Third, write or re-write a personal manifesto or life mission statement that covers three essential things: your God -given passions, your God honouring priorities and your God- given directed plans. Be clear about them.
+
+
+The chief point on the upward life in upward service is this: Are we serving God on our terms or on His terms? There is a choice. Either we serve Christ or not. But if we choose to serve Christ, then we must serve Him on His terms.
+
+This is a fundamental principle of upward service. Let me reiterate. We are called to serve Jesus and serving Him is a choice we make. But once we make that choice, we have to serve Him on His terms, not ours.
+
+Jesus says that if anyone makes the choice to serve Him, then he must follow Him. Following Jesus means what is important to Jesus should be important to us. His values must be ours. That is His service mandate!
+
+We watch out for His Divine appointments. We serve Him on His terms.
+
+That’s the Upward service!
+''');
+
+final _mt_Lesson24 = Lessons(
+    lessonNumber: 24,
+    lessonTitle: 'The Inner Significance',
+    lessonBody:
+        '''I know that I am growing old when an adult comes up to me and says, “I heard you preaching when I was youth.” This has happened quite a few times. The most recent episode was in 2010 with a thirty- three year old pastor’s wife.
+
+We had breakfast with her and her husband and he said, “she is happy to see you!” “I have been looking forward to meeting you,” she said enthusiastically. “I heard you preach twenty years ago, when I was thirteen“ ( Yup, it’s official, I’m growing old. Senior citizen status. Soon! )
+
+Then she added, “I remember a number of things you said. But most important of all, I remember your passion. And hearing you again, after twenty years, it’s the same passion!”
+
+Don Graybill, a senior leader with the Navigators, once said to me at the end of the IDMC (Intentional Disciple - Making Church) conference held in Singapore, “I heard you several years ago on discipleship. Often people lose focus. But hearing you again today, it’s the same direction and it’s the same passion!”
+
+The strange thing is, I didn’t even know that the passion is so robust that people pick it up immediately.
+
+A Passion Sustained by God
+
+Passion is sustained by God. It is not sustained by us. A self-sustained passion is a short - term gimmick. But when it is God-sustained, we don’t even know it’s there. Because our focus is not on the passion but on the very thing we are passionate about.
+
+I am passionate about Jesus Christ. He is my chief passion. My chief passion is not my ministry. Not the conferences I speak in, or the books I write, or the leaders I mentor, or the organizations I lead in. It is not these things that define me. It is JESUS!
+
+I have found my inner security and significance in Him. That is what fuels my passion.
+
+In John 14:2-3 Jesus said,
+
+[2] “My Father's house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? [3] And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am.”
+
+What is the greatest significance here is that He will receive us unto Himself!
+
+Jesus was not saying that He would receive us to give us a personal guide tour of His Father’s house. He did not say that He would personally usher us into a banqueting hall or into the throne room where the prizes and rewards would be given. These things are great.
+
+But Jesus had something infinitely better in mind. Jesus receives us unto Himself!
+
+It is a grand confirmation of the deep and eternal love relationship Jesus has with us. From the beginning right to the end, it is all about God’s passionate pursuit of a love relationship with us.
+
+The epic love-relationship with God is monumental and eternal. This is the source of our identity and significance.
+
+It is not about who we are but whose we are.
+
+The significance that this whole world yearns for is based on who we are. And “who we are“ is often based on outward token of success and status symbols. But for the Christian, our significance is not primarily on the “who we are” identity but rather , on the “whose we are “ identity.
+
+Thus, I have learnt that it is not the important things we do that make a significant life; rather, it’s a significant life that make what we do important. The essence of our significance is not based on what we do.
+
+Living a Significant Life
+
+What then is a significant life? IT IS A LIFE IN RELATIONSHIP WITH JESUS! Why? Because our identity is in Him, our redemption is in Him, our glory is in Him - Christ in us, the hope of glory! That is the redemption. He in us and we in Him!
+
+Tony Horsfall, Christian author and trainer, reminds us:
+“Our true identity does not lie in our performance or our productivity, but in the fact that we are God’s beloved children and that we do not need to earn or maintain His favour by what we do. They will help us to let our being become the ground of our doing and to work from a place of spiritual rest... where we minister out of a true awareness of who we are, not from an image we project.”
+
+Our calling, what we are to do for Him, is cradled by what He has done for us.
+
+What we are to do for God should not be our first focus. The first focus, our foundation, is based on what God has done for us! Our destiny is redeemed by the finished work of Jesus on the cross!
+
+“I will receive you unto Myself!” Jesus said. This is the full and final restoration of relationship with Him through whom we are reconciled with God!
+
+That is why abiding in Christ is the secret to Victory! That is why union with Christ is crucial! That is why a love - relationship with Christ is the center of true discipleship! This is where spiritual formation must begin!
+
+Our coming to Jesus is the first step towards spiritual formation in our lives! It comes full circle. Our search ultimately leads us to the One to whom we must surrender in a fresh and fuller way.
+
+George Mueller was an awesome man of God. In an address given to ministers and workers after his ninetieth birthday, we catch a glimpse of the powerful secret to Mueller’s spiritual life.
+“I was converted in November, 1825, but I only came into the full surrender of the heart four years later, in July 1829. The love of money was gone, the love of place was gone, the love of position was gone, the love of worldly pleasures and engagements was gone. God, God alone became my portion.
+
+I found my all in Him, I wanted nothing else. And by the grace of God this has remained, and has made me a happy man, an exceedingly happy man, and it led me to care about the things of God. I ask affectionately, my beloved brethren, have you fully surrendered the heart to God, or is there this thing or that thing with which you are taken up irrespective of God?”
+
+“I found my all in Him, I wanted nothing else” what a testament of devotion.
+
+Our Search, Our Struggle, Our Surrender, Our Service, Our Significance.
+
+Five processes of spiritual formation. These are the five milestones in our inward journey cultivating our inner life! God lovingly leads us Inward in our pain (our search and struggle), to move us upward in our posture (our surrender and service) so as to launch us forward in our true power (our significance).
+
+Don’t just wallow in your pain without examining your posture and receiving from God the power for transforming your life from the inside out! And all this is to be received from and deeply anchored in JESUS!
+
+For this is the goal for cultivating our inner life. That we might conform to the image of God’s Son- not in spite of our pain but because of it.
+
+For God is mightily at work within us!
+
+If we let Him.
+''');
+
+final _mt_Lesson25 = Lessons(
+    lessonNumber: 25,
+    lessonTitle: 'Others May, You Cannot',
+    lessonBody:
+        '''Welcome once again to our Mentoring Session. Today’s lesson has been a great blessing to us as we were mentoring the leadership trainees of Hang-Out Center Plus as this is part of the mentoring curriculum. Let us learn from this and be blessed as we are taught how to live a surrendered and obedient life as we allow the Lord to crucify the tendencies of the flesh and let Him reign over us- mind, body, and will. Credits go to the writer, G. D. Watson.
+
+Others May, You Cannot
+
+“If anyone wishes to come after Me, he must deny himself, and take up his cross and follow Me. For whoever wishes to save his life will lose it; but whoever loses his life for My sake will find it.”(Matthew 16:24-25)
+
+If God has called you to be truly like Jesus in all your spirit, He will draw you into a life of crucifixion and humility. He will put on you such demands of obedience that you will not be allowed to follow other Christians. In many ways, He seems to let other good people do things which He will not let you do.
+
+Others who seem to be very religious and useful may push themselves, pull wires, and scheme to carry out their plans, but you cannot. If you attempt it, you will meet with such failure and rebuke from the Lord as to make you sorely penitent.
+
+Others can brag about themselves, their work, their successes, their writings, but the Holy Spirit will not allow you to do any such thing. If you begin to do so, He will lead you into some deep mortification that will make you despise yourself and all your good works.
+
+Others will be allowed to succeed in making great sums of money, or having a legacy left to them, or in having luxuries, but God may supply you only on a day-to-day basis, because He wants you to have something far better than gold, a helpless dependence on Him and His unseen treasury.
+
+The Lord may let others be honored and put forward while keeping you hidden in obscurity because He wants to produce some choice, fragrant fruit for His coming glory, which can only be produced in the shade.
+
+God may let others be great, but keep you small. He will let others do a work for Him and get the credit, but He will make you work and toil without knowing how much you are doing. Then, to make your work still more precious, He will let others get the credit for the work which you have done; this to teach you the message of the Cross, humility, and something of the value of being cloaked with His nature.
+
+The Holy Spirit will put a strict watch on you, and with a jealous love rebuke you for careless words and feelings, or for wasting your time, which other Christians never seem distressed over. So make up your mind that God is an infinite Sovereign and has a right to do as He pleases with His own, and that He may not explain to you a thousand things which may puzzle your reason in His dealings with you.
+God will take you at your word. If you absolutely sell yourself to be His slave, He will wrap you up in a jealous love and let other people say and do many things that you cannot. Settle it forever; you are to deal directly with the Holy Spirit, He is to have the privilege of tying your tongue or chaining your hand or closing your eyes in ways which others are not dealt with.
+
+However, know this great secret of the Kingdom: When you are so completely possessed with the Living God that you are, in your secret heart, pleased and delighted over this peculiar, personal, private, jealous guardianship and management of the Holy Spirit over your life, you will have found the vestibule of heaven, the high calling of God.
+
+(By G.D. Watson G.D.Watson (1845-1924) was a Wesleyan Methodist minister and evangelist based in Los Angeles. His evangelistic campaigns took him to England, the West Indies, New Zealand, Australia, Japan and Korea. He also wrote several books.)
+
+Questions for Reflection
+1. React to this statement, “ If God has called you to be really like Jesus, He will draw you into a life of crucifixion and humility...”
+
+2. If you are asked for the two important lessons about living in complete humility, what are they?
+
+3. Can you cite some practical experiences that talk about your crucified and surrendered life ( Allow at least two or three of your One life members)
+''');
+
+final _mt_Lesson26 = Lessons(
+    lessonNumber: 26,
+    lessonTitle: 'The Disciple-Making Environment: What Makes Things Grow',
+    lessonBody: '''Introduction:
+Can disciples grow in any environment? Dietrich Bonhoeffer grew in prison and even inspired fellow prisoners and guards with his strength. Millions more have benefited from his Letters and Papers from Prison. Aleksandr Solzhenitsyn wrote, “Thank you, prison camp,” for how his imprisonment contributed to his spiritual growth. Victor Frankel became world renowned for his work in Man's Search for Meaning, which described how he survive Nazi persecution. He spoke of how no one can take away another's power of choice – the inner control to choose to be content and at peace.
+Humans have demonstrated the ability to survive, even to thrive, in the most inhospitable environments and horrendous conditions. So we know that people can also grow spiritually in spite of toxic families and churches. But I don't want you to explore how Christians grow in spite of their environment. Instead let's look at the best environment for spiritual formation.
+
+Too Close and Too Demanding: The Parable of the Turtle
+Almost everyone has heard the story about the little boy who tried to get a turtle to come out of its shell. He took a stick and poked the turtle to get its attention. As the boy continued to prod the frightened reptile, he couldn't understand why his friend didn't want to come out and play. His older sister came along, took the traumatized victim, and held it in her hands for a few minutes. Slowly the turtle's head and legs emerged.
+A lot of Christians feel like the turtle being poked with the stick. Even when we feel motivated to grow, if we get poked, we retreat to the safety of our shells. When we try to get into groups and say yes to offers to invest in spiritual development, we still stay in our shell. Sometimes we don't want God to get that close. Other times we think that to grow or to train to be godly will be too demanding. Or we fear failure. And perhaps most often, we look around to other people in the groups and ask, “Can I trust me with you?”I'm sad to say that in the majority of Christian environments the answer has been no. So back into the shell we go!
+The question “Can I trust me with you?” reveals our yearning for acceptance and for a safe place to be real. The goal isn't being “real” in a rude way, telling people off or spitting out inappropriate information. Instead we want places to be real in an honest sense. We want to be honest about our dreams, disappointments, and differences. Why is this such a big deal that we come out of our shell? Because when we stay in our shell, religious activity –– including well–intentioned, well–planned, and well–led programs –– can and often does fail.
+
+
+NECESSARY INGREDIENTS FOR A HEALTHY ENVIRONMENT
+
+So how do we bring people out of their shells? Poking them with a stick certainly doesn’t work. In order to flourish, people need trust, grace, humility, submission, and affirmation in their environment.
+
+Trust
+The shell–shocked people who ask, “Can I trust me with you?”reveal the most important requirement for spiritual development: finding at least one person in your life you can trust. Let me make an important distinction. Notice I didn't say, at least one person you do trust, but one you can trust. Can means you've thought through the reasons for trusting the other person.
+Trust is based on integrity; you can trust a person who has proven reliable and honest. However, this doesn't mean that person always agrees with your ideas or supports your behavior. But you can trust her to listen without judging or condemning you. When you find someone you can, then you can be vulnerable. Having one trustworthy person provides you with a safe haven of open and honest acceptance. You can allow yourself to come under that person's influence.
+Trust is key, because we only take in the truth we trust. And that trust has to do with the messenger as much as the message. When you trust someone to the point you become vulnerable, you're giving that person permission to speak into your life. This is where transformational traction takes place. You are starting to make progress.
+So choose carefully, because the other person’s character will help shape yours. Look for someone whose actions reflect his words. Someone whose character you admire. Someone with a reputation for confidentiality. If you can't find such a person, pray! Pray fervently; God will be faithful to give you such a person. Above all, don't give up. Keep searching and praying.
+Relationships of trust provide the foundation for transformational discipleship. Only in trusting relationships can we honestly deal with barriers to obedience and overwhelming sins that hold us back from spiritual growth. Certainly it requires courage to say to God, “Lord, I’m, not afraid of you using [person's name] to make changes in my life.”
+The result of this vulnerability will reflect what Jesus described: When a student is fully taught, he “will be like his teacher” (Luke 6:40)
+
+Grace
+Another element needed for us to flourish as disciples is grace. Grace means treating others better than they deserve to be treated. It means looking past faults to give others our praise and support. Most of us have trouble offering grace on our own, but when we tap into God as our resource, we can draw on the grace that he pours out on every person.
+God treats us all much better than we deserve to be treated. When we work to create an environment of grace, we produce a culture of acceptance in which people see the value and good in others. We definitely don't ignore sins, faults, or problems. In fact, we can handle those issues better in an environment of grace. When we offer people a place where they feel safe, affirmed, and more able to risk, they'll be more open to change.
+When I mentioned this topic to a friend, he objected to the idea that we should overlook people’s natural weaknesses and focus on their strengths. He claimed that this would allow people to be sloppy; if we can’t hold people accountable, they’ll create a huge mess. But I think the opposite is true. When people feel safe and affirmed, they affirm what you do well, you almost always welcome it. The people who love you and whom you trust have incredible power and influence over you. When we can answer the question, “Can I trust me with you?” with resounding, “Yes!” because of grace, discipleship will work as we make ourselves available for transformation.
+
+Humility
+Humility Christ’s primary character traits, is ground zero for personal transformation. Without humility, Christ wouldn't have submitted himself to the Father or made sacrifice of his own life for the whole world.
+One reason even the very best discipleship plans don't result in transformation is that they don't start with humility. Humility forms the environment and relationships that make transformations possible.
+We can define humility in several ways. St. Benedict created a ladder of humility with twelve rungs. To humble means to “make oneself low, to level a mountain, to bow down, or to be a person of the earth.” Frankly, most of us have an innate understanding of humility; we know it when we see it. In addition to Jesus’ powerful example, Peter wrote that God opposes the proud:”humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time” (1 Peter 5:6)
+Just as humility is Jesus’ primary character trait, it should be the foundation we build on as we seek to follow him and be formed into his image. Think of it this way: without humility, there’s no submission; without submission, relationships of trust can’t exist; without relationships of trust, we won’t make ourselves vulnerable; without vulnerability, no one can influence us; and without influence, we won’t change.
+
+Submission
+Jesus’ humility allowed him to divest himself of the rights and privileges of deity, and he submitted himself to the will and agenda of His Father.
+Submission is a love word before it is an authority word. You submit to others because you desire to enter into a relationship that benefits you and those around you. Submission doesn't involve someone “keeping you in line,” but allows someone to help you keep your commitments to God. Submission means saying, “I choose to let others love me.” Without submission three negative things happen:
+1. Your needs won’t be met.
+2. You can’t practice humility, the character trait that allows you to submit.
+3. You shut out others from loving you.
+When you do submit to others and invite them to join you on the journey, your needs will be met, you will practice humility, and others will be able to love you. This makes you a growing disciple who then influences others with Christ like character.
+
+Nothing could be more radical or countercultural than Christians who submit to other people’s needs. This is a key place where churches and ministries today should invest their energy. Living this way would send our paltry efforts to be relevant through new worship forms, hip looks, and trendy language to the ash heap of irrelevancy. Certainly efforts to renew and redefine worship and to connect with cultural trends have their place, but they pale in the face of what will happen when the people of God submit to each other and live for each other.
+
+
+Affirmation
+We all need affirmation. Without it, some ugly things happen in our lives. Affirmation confirms our identities. We hear that others appreciate our strengths and contributions. We risk coming out of our shells.
+When others don't affirm us, we begin to affirm ourselves. If no one pays attention to us, we start doing things to get others to notice us. Obvious examples include the blowhard at a party pr the teenager who acts up at school. Even if we don't go to that extent, most of us find ourselves in times when we turn to affirming ourselves. Imagine sitting in a meeting at work for hours, and no one notices you. When you finally speak up, your thoughts are dismissed. How does that feel? Do you get anxious and look for opportunities to score points to bolster your sinking feelings of insignificance? This scenario is sad for at least two reasons. First, if you knew that the group fully accepted and respected you, you could relax and be yourself. Second, the fact that we all relate to this scenario reveals our pathological dependence on others for our identity.
+Let’s paint a different scene. What if the meeting started with an exercise of affirmation to reinforce your gifts and communicate how others feel about contribution? This would create a safe environment where you could relax and give genuine input not coming from a crisis of unmet need.
+Hers a good example of affirmation: how would you like serving as pastor of the church at Ephesus after the apostle Paul? Following a hard–working and gifted person is tough enough, but an apostle as well! His successor, Timothy, was younger, known to have a nervous tummy, shy, and easily intimidated (1 Timothy 4:11–16; 2 Timothy 1:7–8; 2:1; 4:1–4). Surely he heard lots of opinions about how he compared to Paul and how he should conduct his works as pastor. Paul, a highly passionate man who loved and hated with great force, sensed Timothy’s needs and began his second letter to him with these powerful affirmations.
+- I thank God for you.
+- I pray for you night and day.
+- I think about you all the time.
+- I remember your tears.
+- I long to see you.
+- I am filled with joy when I am around you.
+(2 Timothy 1:3 – 4)
+
+Affirmation is powerful. It creates an environment that gives people permission to drop their defenses and allows deep change to take place.
+I’ve never known affirmation to arouse sin, and the belief that it does reveal a twisted theology. When I receive praise, I want to do better. When a brother or sister in the faith affirms me, I don’t become conceited. Instead I feel humbled that God thinks so much of me that he sends one of his children to affirm me. The messenger is almost as good as a dove descending and a voice from heaven saying. “This is my beloved child, in whom I am well pleased”. For that reason, I want to make an even greater effort.
+Affirmation becomes a way of life in an environment of grace. It reminds people that God values them. This is more than theology; it's a truth they experience. Affirmation allows people to be broken before God and to deal with unconfessed sin, shame, and the other inner–life issues that destroy our good effort at discipleship.
+
+Summary
+Trust, Grace, Humility, Submission, Affirmation –– these foundational and essential elements create community. Suspicion, criticism, pride, self–will, and competition –– these caustic and damaging qualities destroy community. Every community includes all of these, so each member must decide the following: Will I endeavor to live as a person of trust, grace, humility, submission, and affirmation? Will I be an example of these traits of Christ to others so we can create the kind of community in which disciples can grow? Will I help my fellow disciples to be able to answer yes to the question, “Can I trust me with you?”
+''');
+
+final _mt_Lesson27 = Lessons(
+    lessonNumber: 27,
+    lessonTitle: 'Characteristics of a Mentoring Leadership',
+    lessonBody:
+        '''Welcome back to our mentoring session. Tonight, we shall embark on a deeper learning about Mentoring Leadership. We thank God for the wonderful privilege of becoming a part of leadership. Leading our One Life disciples are a great responsibility on our part. Each one of them is unique and precious before God. As we look back on our experiences as a life coach-leader, we begin to see our limitations; at the same time we also rejoice in our simple joys of seeing our group growing in their faith and their journey as followers of Jesus. Our lesson tonight is a thought provoking topic. Here, we will learn and begin to reflect what areas of our leadership need to developed. Hope we can learn and grow from this subject. God bless everyone.
+
+Mentoring leadership focuses on the personal development of people by appropriating the power of human relationship in an informal life-on-life encounter. It works as a flat relationship rather than a hierarchical structure that commands, controls, dictates and directs people from the top. Mentoring leaders connect and commit to people in order to accompany them in their journey, to guide and support in reaching a certain goal in life and leadership.
+
+Three (3) Concepts that Characterize Mentoring Leadership
+
+1. Transactional
+
+Transactional leaders operate within the system and its structure, meeting the challenges and needs of their followers using the art of politics and compromises. They are seeker sensitive, always giving what the people need. They appeal to the consumer appetites of modern men and women who are always looking for things that will pacify their heart’s desire. Their concern is to make their people happy.
+
+2. Transformational
+
+Transformational leaders “shape the lives of people around them, providing them with intellectual stimulation and presenting them with significant challenges. Mentoring leadership does not maintain the status quo. It works for the change of those being led, especially for their character formation so that they will conform to the image of Jesus Christ. Transformational leaders comfort the troubled but will not hesitate to trouble the comfortable. Their business is not to grow a big church but to develop a community of people who dare to journey the road less travelled and swim against the tide.
+
+Moreover, mentoring leadership that is transformational involves radical shifts in emphasis of leading. First is the shift from informing to investing. Today’s training and orientation of ministry leaders are usually towards informational transfer. Trained by leaders of great ideas in the seminary and university, they become competent in providing information that develops “Intellectual Christians.” Owing to the proliferation of Christian seminars and conferences, text based discipleship programs have developed Christians who are well informed about popular discipleship resources and materials. Sadly, after a week, they only remember about 10% of what they heard and hardly implement these in the way they live and lead.
+
+Mentoring leadership invest in people development. It is a slow process of imparting the resources of grace through caring and confronting, conversation and coaching, instruction and inspiration while eating and drinking, walking and commuting, praying and doing the ministry together. Jesus invested three years with few chosen disciples- sharing with them stories and parables, sending them for ministry practice, rebuking and affirming his love, praying and interceding for their growth and safety from the evil one. Transformational leaders make a difference in the lives of others by patiently investing their lives in a few who are willing to submit to their guidance. They don’t adopt a quick - fix approach. Like a farmer, transformational leaders wait patiently, while caring for and cultivating what they have planted. Later on, the small seeds of mentoring invested in the lives of people grow big. Its start is slow, but once it gains momentum, it will begin to snowball. Thus, the life and leadership of mentor- leaders are passed on, from one generation to another.
+
+The second shift is from managing to modeling. Transactional leadership focuses on managing programs. Many of them are dazzled by a successful program that promise mega church growth- like PDL, G12, Willow Creek, etc. However, what they don’t realize is that, no matter how good the programs are, if the people are not growing spiritually, leadership is doomed to failure. Programs are good only to the extent that the people are growing in their passion for the Lord.
+
+Transformational leaders exemplify what they teach. They model what life in Christ is. They focus on people development by cultivating their spirituality. There is no better way of doing it than by modeling the life of Christ. Paul said on many occasions, “Imitate my way of life in Christ” ( 1 Cor. 11:1). Mentors lead by modeling the life of Jesus. It is an imitating leadership that influences others by the manner of one’s life.
+
+3. Relational
+
+Many think of leadership in terms of task to do. For this reason, many leaders are busy in their ministry activities. They focused on their goals. Their bottom line is performance. These are important leadership practices. However, if leaders don’t build their task around authentic relationships, what they have worked for oftentimes crumbles down. Big churches start to decline because of a lack of relationships among leaders. Relational leaders do not ignore the task to perform. They touch people’s lives, not only by their charisma but by their character, not by their competence but by their genuine concern for their people’s growth in the Lord.
+Relational leaders work with a team. Leaders that mentor are team players who build a caring and coaching relationship. They learn to listen to one another. They trust and become transparent. If this is to happen, leaders must shift from simply leading a committee to developing a community of leaders. They must work on developing a climate of grace where people are safe to be themselves. They must care by showing interest not only in performance but also but also in their personal lives of their people. Mentors work side by side with those whom they lead.
+
+Leaders that mentor learn to give up controlling posture in order to start cultivating people to grow their potentials and to set them free to spread their branches far and wide. The call for Christian leaders is to let their people grow by releasing control. Leaders that mentor operate in a network of relationship to empower and grant resources without manipulating and controlling them. Younger leaders need to be shown direction, not to be dictated upon. Leaders that mentor are kingdom builders who release people to pursue their dream. They learn to fade away in order for younger leaders to flourish and bear fruit.
+''');
+
+final _mt_Lesson28 = Lessons(
+    lessonNumber: 28,
+    lessonTitle: 'Character-Driven Leadership: A Redefined Goal',
+    lessonBody: '''A Life Well Lived
+
+In conversations about leadership, I am most frequently asked, “What’s your biggest challenge?”
+
+My answer is always, “Me!”
+
+That’s not to say that I haven’t faced other daunting challenges. It’s just to admit that even in the midst of those challenges, the most important issue is, “How am I managing myself through the situation? Will anger, manipulation, compromise of integrity, plotting for self - preservation, pessimism, despair, shifting the blame, self - pity, or covering up be valid options? Or, in good times will posturing myself to take the credit, seeking the affirmation and applause of others, thinking too well of myself, or ignoring the contribution that others have made characterize my response?
+
+This book is about the challenge of “me” in leadership. So, if you are looking for a book on management strategies, team building, assessment, goals and objectives, or branding and growth strategies, then this is a probably not the book for you. Although, if that is what you are still looking for as a leader, this may be exactly the book you should be reading. If, however, you have come to realize that the kind of person you are and how you navigate your leadership is at the core of long-term effectiveness, then join me as one who is passionate about leading the right way for maximum outcomes by getting “me” in sync with the counter-intuitive, counter-cultural ways of the world’s most unlikely leader, Jesus Christ.
+
+Redefining Leadership aims to draw you as a leader to a character - driven leadership experience that will produce maximum outcomes. Leaders who shortcut the process and lead simply for great outcomes, with little regard for who they are and how they lead, will ultimately produce minimum outcomes and discount their legacy as a leader. My intentions is not to denigrate those who lead merely for outcomes (though I would like to encourage them to rethink the tipping point of character in their leadership), but to make character - driven leadership an intriguing, compelling, and biblically necessary option.
+
+THE TARGET
+
+All of us are uniquely wired. Our wiring consists of a special combination of gifts, temperament, and personality that have been given to us by God and influenced by both the culture in which we have grown up and the impact of influential people in our lives. Thankfully, there is no “cookie cutter” pattern for the ideal leader profile. If we were all the same, someone would be unnecessary.
+
+But in our God-woven uniqueness there is a singular target toward which we should all be taking aim. That target is the character-driven patterns and principles of effective leadership that are charted for us in the ways of the Kingdom and the will of our King, Jesus Christ. These non-negotiable principles take on an array of applications that are uniquely expressed through our styles and differences. But in our uniqueness we never compromise the essentials of kingdom leadership. Leaders who celebrate their uniqueness yet ignore character flaws by saying, “That’s just who I am,” forfeit the privilege of forward movement toward maximum leadership. They miss the target.
+
+My friend Edwin Lutzer, longtime pastor of The Moody Church in Chicago, tells the story of a town wag who shot an arrow at the side of his barn and then painted target around it, with his arrow smack-dab in the middle…Bulls-eye! Leaders who perceive that successful leadership rises or falls singularly on the outcomes they generate have painted the bulls-eye around their own arrow. Character-driven leadership, by contrast, is a target that Christ has painted on the barn of our calling, and the issue is whether or not we are willing to aim our leadership toward HIS bulls-eye.
+
+THE LEADERSHIP CHOICE
+
+In the following pages we will discuss two kinds of leaders: Outcome-Driven and Character-Driven Leaders. Outcome-driven leaders focus primarily on maximizing outcomes. Character-driven leaders, while committed to good outcomes, believes that Leadership 101 is about the kind of person they are as they lead and how they lead. They focus on the development of character and the embracing of kingdom principles as a necessary first step in effective leadership.
+
+The distance between the two leadership styles is significant. And the choice as to which kind of leader we will be is critical. Very few leaders completely exemplify either category at the extremes; in fact, I have never met a leader who is the perfect example of either end of the spectrum. But all leaders will land somewhere on the continuum between the two. So the issue is not whether or not I am the poster child for one or the other, but rather in which direction my life and leadership are headed.
+
+So, to know where we fall on the continuum and in what direction we are headed, let’s look at the characteristics of each approach.[See Chart below]
+
+OUTCOME-DRIVEN LEADERSHIP
+Instinctive Leaders CHARACTER-DRIVEN LEADERSHIP
+Kingdom Leaders
+Identify themselves as leaders Identify themselves as followers
+Measure their success by outcomes Measure their success by the positive influence of their character and leadership style on the people who generate the outcomes.
+Use people to build the enterprise Use the enterprise to build people
+Promote themselves as the indispensable center of the organization Elevate Jesus as the indispensable center
+Believe that the organization should serve them and their interests Believe that they are there to serve the best interests of the organization, its people, and its outcomes
+Lead with the power of positional authority Lead with the power of moral authority
+Demand and posture for affirmation and personal recognition from the constituencies of the organization Willingly affirm others to lead for the ultimate affirmation of hearing “Well done, good and faithful servant.”
+Trust their own instincts Know their fallenness, are unsure of their instincts, and willingly rely on the wisdom of Jesus and godly counsel.
+Are competitive Energetically cooperate with others for the advancement of the work of Christ
+See themselves as a CEO See themselves as a shepherd
+
+
+INSTINCTIVE LEADERSHIP
+
+If your trajectory seems to be headed toward outcome-driven leadership don't be surprised. The attraction to the convenience of discounting character for immediate outcomes is rooted in the early history of our race. In the beginning, God created Adam and Eve to enjoy an unhindered relationship with him, to find pleasure in each other, and to steward the beautiful and beneficial environment in which they were placed. They were the best kind of people who flourished in surrendered fellowship with their Creator-God. Their stewarding leadership of the environment made it a place of harmony and unstained beauty. And their satisfaction came from managing the enterprise where God had placed them for his glory and pleasure.
+
+Until!
+
+Until they were tempted to focus on themselves rather than on their God. Until they fell to the seductive allure of self-fulfilling outcomes. So they took the forbidden fruit and infused into the human DNA a propensity to live for seemingly bigger, better, and more self-fulfilling outcomes while ignoring what kind of people they are becoming in the process. No wonder we drift toward self-serving outcomes in leadership. It’s under our skin. It’s instinctive.
+
+As children of the fall, we are faulted to the core. This means that leading by our own instincts, no matter how well they seem to serve us and our outcomes, may cause us to lead in all the wrong ways. I came to realize long ago that given my fallenness, my first instincts are most likely wrong. I don’t naturally like to pass the credit on to deserving others. I don’t forgive freely. I don’t like criticism and often respond poorly. When negative things happen, I tend to resist them instead of accepting them as reproof and an opportunity to learn. I like to think that I can be self-confident and self-reliant. I tend to think too well of myself. The list goes on.
+
+So, by experience I have come to learn how desperately dependent I must be on the leadership of the King and the principles of the kingdom to get leadership right. But beware! Because of our own inherent twistedness, the kingdom way will often seem counter-intuitive, pragmatically unproductive, and upside down. Yet, if the leadership recommendations of Jesus seem upside down, think again. They seem that way because in actuality we are upside down. Jesus is, always is, right-side up!
+
+It’s like toast in the morning. You slather it with butter and pile on the jam, and as you walk to the table, it slides off the plate and lands on the floor…always upside down. It’s a mess. Like upside-down toast, we tend to make a mess of things when left to ourselves. Then Jesus comes as the divine spatula and scrapes us off the floor of our fallenness and turns us right-side up. Effective leaders welcome Jesus into the mess and get right-side up with him!
+
+
+REMEMBERING WHO WE ARE
+
+As the core of our faulted outcome-driven view of leadership is a fundamental oversight. The oversight is that we have forgotten who we have become in Christ -- that as leaders we are first and foremost followers of Jesus and as such that we are citizens of his kingdom. We are called to be loyal followers who not only live by, but also lead by the standards of the kingdom for the fame and glory of the King. The apostle Paul reminds us that we have been rescued from the domain of darkness and have been transplanted into the kingdom of Christ (Col. 1:13). The domain of darkness is managed and manipulated by a fallen set of assumptions and a wrong-headed set of values -- values that prioritize outcomes over character. Leading by the earthside instincts of leadership is a denial of our fundamental identity. If we by redemption are kingdom people and followers of the King, then we must lead as such.
+
+It’s our upside-down-ness that leads us to think that successful leaders are measured by the size and scope of the enterprise, its branding, its national and even international acclaim, its profitability, the fame and platform of the leader. It may be assumed that since she is a successful leader, her life and leadership are in good order. Otherwise, why would God let her succeed? Wrong assumption! Or, if it’s known that the leader is less than exemplary and has cut corners of integrity to accelerate success, it is often excused, since “God is certainly blessing the work.” Wrong again! He may be blessing the work, but that’s not the issue. The issue is Jesus’ interest in who the leader is at the core and how he or she is leading as a steward of the work of the kingdom.
+
+A LIFE WELL LIVED
+
+Kingdom leadership, the character-driven kind, is measured by the life of a leader who cuts a wide and impact swath of positive influence because of who they are as a leader and how they lead. It’s power of a life well lived. When he ushered in his kingdom, Jesus inaugurated a new way. He called for leaders to follow him and, as such, influence and motivate their followers toward personal, spiritual, communal, and organizational growth. Leaders who lead as followers of Jesus lead with the power of moral authority. And this highly leveraged leadership approach is available to all, even to those who may at first glance seem to be unlikely leaders.
+
+Mother Teresa was an unlikely leader. She was a small-framed, bent-over nun who gave herself to save the slum people of New Delhi in India. Asked to speak at the National Prayer Breakfast in Washington, D.C., she delivered a powerful defense of valuing the life of the unborn. Hardly able to see over the podium, SE courageously articulated the importance of protecting life. As she spoke, two of the most powerful leaders in the world -- President Bill Clinton and Vice President Al gore -- were seated on either side of her. Both of them were outspoken advocates of abortion.
+
+She said,
+
+“I feel that the greatest destroyer of peace today is abortion, because it is a war against the child, a direct killing of the innocent child, murder by the mother itself.
+
+And if we accept that a mother can kill even her own child, how can we tell other people not to kill one another? How do we persuade a woman not to have an abortion? As always, we must persuade her with love, and we remind ourselves that love means to be willing to give until it hurts. Jesus gave even his life to love us. So the mother who is thinking of abortion should be helped to love -- that is, to give until it hurts her plans or her free time -- to respect the life of her child. The father of that child, whoever he is, must also give until it hurts.
+
+By abortion, the mother does not learn to love, but kills even her own child to solve her problems. And, by abortion, the father is told that he does not have to take any responsibility at all for the child he has brought into the world. That father is likely to put other women into the same trouble. So abortion just leads to more abortion.
+
+Any country that accepts abortion is not teaching its people to love, but to use any violence to get what they want. This is why the greatest destroyer of love and peace is abortion. (National Prayer Breakfast, February 3, 1994).”
+
+The statement drew a standing ovation.
+
+Needless to say, her comments created a rather awkward moment for the President whose speech followed directly on the heels of Mother Teresa’s. When he began his speech, he said, “It’s hard to argue with a life so well lived!”
+
+A life well lived gives power and credibility to even unlikely leaders and maximizes the outcomes of their service. A leadership life that is well lived is the goal of every character-driven leader. And character-driven leaders believe that Paul’s words to the Colossians are defining targets for their leadership.
+
+Put on then, as God's chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience, bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive. And above all these put on love, which binds everything together in perfect harmony. And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful. Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God. And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him. (Col. 3:12-17)
+''');
+
+final _ld_Lesson1 = Lessons(
+    lessonNumber: 1,
+    lessonTitle: 'Embracing The Vision',
+    lessonBody:
+        '''Welcome to our First Session. Before we go into the fundamentals of discipleship, it is best that we know where we are heading; where the Lord wants His church to go and bear fruit for Him.
+
+This is called VISION. Webster’s defines vision as something seen in a dream, especially a supernatural appearance that conveys a revelation; a thought, concept, or object formed by the imagination.
+What does the Bible say about vison?
+
+Let’s read Proverbs 29:18 “Where there is no prophetic vision, the people cast off restraint, but the one who keeps the law, blessed is he!”
+
+Vision in this verse is from the verb “khaza” in Hebrew which means “to see”- this refers to a divine communication to prophets and NOT to individual goals or plans.
+Restraint is from the verb “para” in Hebrew which means “to let go, let alone”. The New Living Translation says “run wild”.
+The law here refers to scripture which is the concrete form of revelation.
+So taking the first half of the verse, we now understand that “where there is no prophetic revelation, there is chaos but those who keep the revelation contained in scripture finds blessing.
+In other translations, blessed is rendered as “happy” or “ashrehu” in Hebrew which means an inner joy or heavenly bliss that comes from knowing one is right with God and experiencing his blessing.
+Mission, on the other hand, is defined as a job or task that someone is given to do. Mission helps in the realization of the vision.
+
+At ROL, God gave His vision to our pastor. The leaders, together with the pastor, prayerfully sought God who is the author and divine master planner of His church. God then spoke to their hearts and now we have the Vision, Mission, and Core Values of ROL.
+
+It is needful for all leaders and members of ROL to know by heart this VMC so that in all the things we do in our various ministries, we are able to align these in the light of our Vision and Mission.
+
+
+The International Family Ministries of River of Life, Inc.
+
+- is a congregation of loving and God-fearing people, whose passion and faith is centered on the Lord Jesus Christ, whose teaching is based in the Bible and depends on the Holy Spirit.
+
+
+OUR VISION
+
+We see people coming to the knowledge and SALVATION of the Lord Jesus Christ, enjoying the FELLOWSHIP of other believers, submitting to DISCIPLESHIP and are willing to engage in MISSIONS, joyfully WORSHIPPING God and SERVING the community.
+
+
+OUR MISSION
+
+We will bring the lost to the knowledge and intimate relationship with Jesus Christ.
+
+We will encourage every member to participate in the fellowship of the local church and help them develop Christ-like maturity.
+
+We will equip every member to live in fruitfulness for the ministry as the Lord leads
+
+We will encourage members to participate in missions work here and abroad
+
+We will honor God through a joyful and Biblically sound worship
+
+We will make ourselves relevant to this generation by using modern technology in the advancement of God’s kingdom
+
+
+OUR CORE VALUES
+
+Consecration – we value our relationship with God above all things, thus we seek to have an intimate,
+fresh, and growing relationship with Him
+
+Christian Home – we value our family, thus, we serve them next to God
+
+Call – we value God’s call and are committed to missions and evangelism program
+
+Care – we value life-support groups, thus, we always aim to fellowship and serve one another as a
+family of God.
+
+Character – we value integrity and preserve our testimonies in and outside the church
+
+Competence – we value progress as the Lord leads us into a deeper dimension of the ministry
+
+
+Assignment for Next Week: Memorize by heart the Vision and Mission of ROL
+''');
+
+final _ld_Lesson2 = Lessons(
+    lessonNumber: 2,
+    lessonTitle: 'The Call To Discipleship',
+    lessonBody:
+        '''Welcome back! It’s our second week and we thank you for faithfully attending our sessions. Before we begin, let’s check how far we have memorized by heart our church description, vision, and mission. 1, 2, 3, here we go...
+Today, we shall be studying about the foundational truth of discipleship- “the call”. The call to discipleship traces back to the Old Testament where we see an example of God’s concept of discipleship.
+Exodus 18 talks about Moses and Jethro, Moses’ father in law:
+
+17 Moses’ father-in-law replied, “What you are doing is not good. 18You and these people who come to you will only wear yourselves out. The work is too heavy for you; you cannot handle it alone. 19Listen now to me and I will give you some advice, and may God be with you. You must be the people’s representative before God and bring their disputes to him. 20Teach them the decrees and laws, and show them the way to live and the duties they are to perform. 21But select capable men from all the people—men who fear God, trustworthy men who hate dishonest gain—and appoint them as officials over thousands, hundreds, fifties and tens. 22Have them serve as judges for the people at all times, but have them bring every difficult case to you; the simple cases they can decide themselves. That will make your load lighter, because they will share it with you. 23If you do this and God so commands, you will be able to stand the strain, and all these people will go home satisfied.”
+
+Jethro’s visit to Moses is a lesson every leader should learn. We learn some principles here in leadership.
+1. Delegation – “select capable men”
+2. Small group – “ ... thousands, hundreds, fifties and tens”
+3. Leadership empowerment – “ teach them the decrees and laws “
+In its entirety, these components form part of the concept of discipleship. Thus, we pattern our approach here because we see results. It became a relief to Moses’ leadership and an avenue also for his men to use and maximize their skills and talents.
+
+In the New Testament, we see Jesus giving His mandate for the church in Matthew 28:16-20
+16Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17When they saw him, they worshiped him; but some doubted. 18Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”
+Is this a command or a suggestion?
+This passage at the end of Matthew’s gospel is called the “Great Commission”. This is the main reason why the church exists. This is the main call of the church from our Lord and Savior and is the one thing most churches do not do at all- that is why this is also called “the great failure” of the Church.
+
+
+WHAT IS A DISCIPLE? (Matt 4:18-22)
+“Follow me, and I will make you fishers of men.”
+From the Greek word “mathetes”, a disciple means a learner, a student; not only a pupil but an adherent, hence he is spoken of as “imitator of his leader” (John 8:31). A disciple is one who grows in Christ and in so doing, teaches and models precepts of the Bible, prayer, doctrine, relationship, Christian living, service, and worship. A disciple literally means someone who pledges to be a learner.
+Moreover, submitting to discipleship involves COMMITMENT and PROCESS.
+
+WHAT IS EXPECTED FROM A DISCIPLE?
+1. Readiness and willingness to learn. (Matt 11:29)
+2. Commitment and trust (Matt 25:21)
+3. Willingness to sacrifice (Luke 9:23, 2 Tim 2:1-3)
+4. Submission to God’s authority (Heb 13:17)
+5. Becoming a leader of leaders (1 Tim 4:9-16)
+
+Questions for Group Interaction:
+1. What is a disciple?
+2. Why is discipleship called the great commission of the church?
+3. React to this statement: “Matthew 28:16-20 is Jesus’ ‘great commission to the church’; this is also called ‘the great failure of the church’.
+4. Give at least two things that you consider as price you have to pay to become a disciple (the cost of discipleship)
+5. How will you describe ROL when it fulfils the great commission corporately?
+
+Assignment for next week: Memorize Matthew 28:18-20
+''');
+
+final _ld_Lesson3 = Lessons(
+    lessonNumber: 3,
+    lessonTitle: 'The Servant Heart',
+    lessonBody:
+        '''“God is not looking for more stars; He’s looking for more servants”- Howard G. Hendricks
+
+Exciting journey again this week. This is our third lesson and today we shall be learning about one of the foundational truths of Discipleship, “The servant heart”.
+
+What is a servant? Or what is a slave?
+Webster – a person who is owned by someone.
+- One bound in servitude as property of a person.
+
+With this in mind, a servant has no right of his own. He does not have a position in his master’s household but simply a POSSESION of his master.
+
+The history of servanthood or slavery traces back to the OT and the famous one was the slavery in Egypt by Pharaoh. Thousands of Jews served Egypt out of slavery. It was this reason that God called Moses for a specific mission, and to deliver the Israelite from the bondage of slavery.
+
+Genesis 2:7 The Lord said “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers. And I am concerned of their suffering.”
+
+This passage is evident of the amount of slavery during the time of Moses.
+
+
+FIVE (5) TYPES OF A SERVANT OR SLAVE
+
+1. BONDSMAN, BONDMAN – a male slave.
+2. BONDMAID, BONDWOMAN, BONDSWOMAN - a female slave
+3. BOND SERVANT - someone bound to labor without wages.
+4. PUPPET, TOOL, CREATURE - a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someonelse.
+5. GALLERY SLAVE – a slave condemned to row in a gallery.
+Interestingly Paul in his book of Romans 1:1 mentioned one of these types, the “bondservant”.
+
+Romans 1:1 “Paul a bondservant of Jesus Christ, called to be an apostle, separated to the Gospel of God.” (NKJV)
+
+The difference between a mere servant and a bondservant is their commitment. During the Jubilee (year of freedom) period a servant is given a chance to go home as a free person. But if the servant decides to stay due to his Master’s kindness, he will tell his master that he will serve him all the rest of his life including his family and relatives. Therefore, looking at this, a bondservant is a kind of servant God is looking for His followers. That is what he expected from us.
+
+
+SIX (6) QUALITIES OF A BONDSERVANT
+
+1. FAITHFUL – Matthew 25:21
+2. HUMBLE - Philippians 2:7
+3. INDUSTRIOUS – Luke 22:27, Matthew 25: 26
+4. OBEDIENT– Luke 1:38
+5. WILLING TO SACRIFICE – Luke 16:13
+6. UNDERSTANDING AND LOVING – 2Tim. 2:24
+
+
+LIFE APPLICATION AND GUIDING QUESTIONS FOR THE GROUP
+
+1. What is a servant to you?
+2. Comment to this statement, “ not having a position to his masters household, but simply a possession of his master”
+3. Rate yourself 1-10, how is your commitment and obedience to our Master Jesus Christ? Why?
+4. Among the six qualities which of these do you think you are strong or weak?
+
+
+ASSIGNMENT FOR NEXT WEEK
+Memorize Matthew 25:21, Phil. 2:7
+
+God bless you today!
+''');
+
+final _ld_Lesson4 = Lessons(
+    lessonNumber: 4,
+    lessonTitle: 'A Submissive Heart',
+    lessonBody: '''“The best way to know God’s will is to say ‘I Will’ to God.
+( The Bible Friend)
+
+Welcome once again to our ONE Life Class. This is our fourth meeting. We have another interesting lesson which we will learn today- “A Submissive Heart”.
+
+What is submission?
+Webster – an act of submitting to the authority or control of another.
+( Syn.) – compliance, obedience and conformity
+
+Looking at this definition, we see the act of self sacrifice. Sacrifice in a sense that you have to surrender your right to another. Submission, in spiritual context, is a complete surrender of your will to God!
+
+
+SCRIPTURAL REFERRENCES ON SUBMISSION
+1. Romans 31:1 -Submission to authority
+2. Hebrews 13:17- Submission to church leadership
+3. Colossians 3:18/ 1Peter 3:1 – Submission to husband
+4. Ephesians 5:21 – submission to one another
+5. Ephesians 5:24 – Submission of the church to Christ
+6. Titus 2:9/1Peter 2:18 – Submission to masters
+7. Ephesians 6:1 – Submission to parents
+8. James 4:7 – Submission to God
+9. 1Timothy 2:11 – Ladies, a submissive spirit
+10. Matthew 26:39 – submission to God’s will
+
+These are some of the verses in the Bible that gives us the idea that submission is God’s design for His church. God must have the reasons why He did it this way. Here are some observations. (turn to next page)
+1. To establish ORDER. – if submission is absent in an organization, we can see chaos resulting to the breakdown of the group. This is also true to business, family and ministry.
+2. To practice HUMILITY and COMPASSION – submission is self sacrifice. It is taking off of your pride. It is also to develop compassion especially working with your subordinates.
+This is a good avenue to practice the fruit of the Spirit. (Gal. 5:22)
+3. To develop RELATIONSHIPS - submission is a good opportunity to express ourselves in building and creating harmonious relationships.
+4. To GLORIFY and HONOR GOD – as submission is God’s idea, to do it is to obey Him and therefore we are glorifying and honoring Him.
+5. To CREATE A STRONG STRUCTURE – submission is one of the foundational truths in leadership. If an organization will have this, there is a strong structure that will enable the organization to survive and succeed.
+There are many examples of SUBMISSION in the Bible- countless of great men and women of the Lord that have been mightily used by Him in terms of leadership, business, family and ministry. One of their secrets? Submission to God’s lordship and His will. This became their common denominator.
+But none could compare with the excellent example of submission that our Lord Jesus Christ has displayed. Let’s journey together as we look at how Jesus submitted Himself to the Father’s will.
+
+Matthew 26:36-46 (please read this passage together)
+Looking at the context of this scripture, this was when Jesus was about to be betrayed and crucified. Jesus’ mission was to save mankind (Matthew 1:21) and give freedom (Galatians 5:1). Our understanding in this passage is that, this is the climax and the most crucial moment of Jesus’ ministry. It was crucial in a sense that this was the time when He would decide to accept or refuse God the Father’s purpose of His mission. What if Jesus rejected the Father’s command, what do you think would happen to mankind? We are still living in our sins and all of us will be doomed to eternal suffering in Hell. The truth is that in our lives as disciples of our Lord Jesus Christ, there will come a time in our lives when we face our crossroad in life. This is the time when we have to make our decision. This decision is very crucial because this will determine our future, our DESTINY! We become what we decide. Our decision of following Jesus Christ as His disciples is the greatest decision we’ve ever made in life. You are indeed at the center of His will.
+Going back to the life Jesus, we thank the Father for sending The Saviour and giving Him the mission to save and deliver us from the power of darkness and for the Holy Spirit for anointing Jesus and for giving Him the power to say yes to the Father’s will.
+
+(v. 39) “...O My Father, if it is possible let this cup pass from me, nevertheless not as I will, but as you Will.” (NKJV)
+
+JESUS’ SUBMISSION OF HIS WILL IS BASED ON THE FOLLOWING PRINCIPLES
+
+1. LOVE, NOT FEAR - if submission is based on fear, sooner or later it will collapse and will not succeed. Jesus did the right thing; it was all founded with love.
+2. HUMILITY, NOT PRIDE – if submission is motivated with pride, it becomes the cause of our downfall. [Pride comes before destruction]
+3. WILLINGNESS, NOT OBLIGATION - submission that is based on the attitude of obligation will result into legalism. When this happens, submission by the followers is not genuine.
+4. LOYALTY, NOT TREACHERY – genuine submission is a result of a wonderful and deeper relationship of both persons.
+
+These are the principles that we learn from Jesus’ leadership. If this is the way we do our submission to God we believe we will have a lasting and fruitful ministry in Christ.
+
+
+APPLICATION/ GUIDING QUESTIONS FOR THE GROUP
+1. What is submission?
+2. Differentiate genuine and fake submission.
+3. Up to what extent should we submit to our leaders?
+
+
+ASSIGNMENT: Memorize Matthew 26:39
+''');
+
+final _ld_Lesson5 = Lessons(
+    lessonNumber: 5,
+    lessonTitle: 'Stretching My Prayer and Quiet Time pt. 1',
+    lessonBody:
+        '''“In prayer, it is better to have a heart without words than words without heart”
+-John Bunyan
+
+Prayer had been the common denominator of great men and women of God who, in one way or another became very successful in their journey with God. We can cite some examples from the Bible like Daniel when his faith was tested to worship the image of King Darius or to remain faithful to his God. Daniel became true to his word. His faithfulness resulted into the conversion of the king and news spread around the kingdom about the greatness of Daniel’s God. Today, the same God that delivered Daniel from the lion’s den is the same God that will deliver us as long as we stand on our ground and declare that Jesus is Lord!
+
+Today we shall be learning Rick Warren’s thoughts about “How to have a meaningful quiet time”
+
+This is how he defines quiet time;
+“Quiet time is simply a daily time of PERSONAL fellowship with God through the Word and Prayer. It is a time we deliberately set aside to meet with Him. The objective is that we might grow in our personal relationship with God, so that we can know Him, love him and BECOME MORE LIKE HIM.”
+
+WHY SHOULD WE HAVE A QUIET TIME?
+1. Because we need fellowship with God.
+2. Because it is our privilege as Christians
+3. Because we gain tremendous benefits from it.
+
+
+1. Because we need fellowship with God.
+The first reason we should have a quiet time is because we need fellowship with God. Because we are Christians, now rightly related to the eternal God of heaven and earth, we must have regular fellowship with Him so we get to know Him and love Him more intimately.
+
+Why is daily fellowship with God so important?
+a. We were created to have fellowship with God.
+We are the only creatures in all creation who have the capacity to have fellowship with the Creator.
+b. Jesus died on the cross so that fellowship could be restored.
+When Adam sinned, his fellowship with God was broken. And all of us sinners who have followed in Adam’s footstep cannot by nature have fellowship with a pure and holy God. But God considered that relationship important enough to send his son to the world to die for our sins so that we might have again have the privilege o a relationship with Him. (1Cor.1;9, 1Jn.1:3-4)
+c. The regular quiet time during Jesus ministry was a source of His strength.
+Personal fellowship with His Father in heaven was the top priority of Jesus’ life ( see Mark 1:35, Lk. 5:16; 22:39-44, He was not too busy for it; in fact, when His ministry was the busiest, that was when He made certain that he keep in touch daily with the Father). (see also John 5:30)
+If Jesus needed this time with God, how much more in our case?
+
+d. Every great man and woman of God throughout history has spent much time alone with God! The regular quiet time was one thing they have in common.
+“If you want to find out what a man is really like, find out what he is like alone with God”
+
+e. We cannot be healthy, growing Christians without daily fellowship with the Lord. Have you ever gone without food for a day? If you keep doing it, you would get weak and sick.
+-Job considered the word of God more necessary than his daily food. (Job 23:12)
+-Jesus, quoting the OT , declared that man needs to live by every word coming from God. (Matt.4:4, Deut. 8:3).
+- Peter called the scriptures nourishing milk. (1Pet.2:2)
+- Luke, the writer of Hebrews, thought of the Word as solid food. (Heb.5;14)
+
+The key to making time for the quiet time is your commitment to Christ and the kingdom of God. Jesus said, “Seek first His kingdom and his righteousness and all these things will be given to you as well’ (Matt. 6;33). Put God first in your life and you will have more time. Don’t let anything rob you of that time of fellowship with the lord. If Jesus Christ is the first in your life, you ought to give him the first part of everyday.
+
+
+GUIDING QUESTIONS FOR THE GROUP
+1. Why is prayer the common denominator of great men and women in the Bible?
+2. Describe your personal impression of Daniel?
+3. Explain how Jesus restored the fellowship?
+4. React to this statement, “ If you want want to find out what a man is really like, find out what he is like alone with God.”
+
+
+Assignment: Memorize Psalm 27;4-5
+''');
+
+final _ld_Lesson6 = Lessons(
+    lessonNumber: 6,
+    lessonTitle: 'Stretching My Prayer and Quiet Time pt. 2',
+    lessonBody:
+        '''“Prayer is our highest privilege, our greatest responsibility and greatest power God has put
+into our hands”
+- The Kneeling Christian
+
+God is so amazing in all of His ways. After man’s downfall, God, in His providential wisdom provided man a rescue. Sending the only begotten Son was indeed the ultimate solutions to man’s problem. One of the major tasks of Jesus is to restore man’s FELLOWSHIP back to God. In this relationship, man could express his faith and feelings through worship and prayer. Our new found faith and relationship with Him allow us to experience so many privileges and one of those is our QUIET TIME with God. Yes, this is one area of our lives that if we take seriously will give a positive Impact to us personally and to those who are around us. On the other hand, if it is taken for granted, this may be the beginning of our downfall. We have to understand that quiet time is our privilege as Christians.
+
+We’ll go back to our lesson last week and we will continue the second reason “Why we should have a Quiet time” - BECAUSE IT IS OUR PRIVILEGE AS CHRISTIANS.
+
+We should have a quiet time each day because it is a tremendous privilege that God granted us to have. The quiet time allows us four great privileges.
+1. We give devotion to God
+2. We get direction from God.
+3. We gain delight in God
+4. We grow more like God.
+
+What happens when we have a quiet time?
+(1.) WE GIVE DEVOTION TO GOD.
+The first privilege of the quiet time is to give, not to get!
+
+Psalm 29:1-2” Ascribe to the Lord the glory due his name…”
+Psalm 95:6 “ Come let us bow down in worship, let us kneel before the Lord our Maker…”
+Two (2) wrong emphasis on Devotion to God
+1. The over emphasis on GETTING.
+What will I get out of church, out of prayer, worship and service is a result of man’s selfishness.
+When carried over into spiritual matters, it becomes self-centered religion and is definitely unbiblical.
+
+2. The overemphasis on WORKING for God and neglecting the WORSHIP of God.
+Most of us are so much on the go, even doing fine Christian things that we don’t know the real meaning of worship.
+Jesus said “Worship the Lord your God and SERVE Him only”( Matt.4:10;Deut. 6:13)
+Worship comes before service.
+
+Two (2) very important reasons why we have to give our devotion to God.
+1. God deserves our devotion.
+John saw the multitudes of heaven singing praises to God (Rev.4:11, Rev.5:1)
+2. God desires our devotion.
+Jesus told the woman at the well (John 4:23) that The Father seeks our worship.
+Jesus himself desires our fellowship. (Rev.3:20)
+
+(2.) WE GET DIRECTION FROM GOD.
+The second privilege of the quiet time is for us to get direction from God for our daily lives. This was David’s attitude in life. (Psalm 25:4-5, Isaiah 42:16). The quiet time is a great opportunity to receive counsel from the Lord. Pascal once said, “All the troubles of man arise from his inability to sit still”. Jesus invited His disciples to “come apart” with Him for a while that they might recuperate physically and spiritually.
+Here’s what God does to us:
+1. He causes us to consider our ways. We take time to asses our lives.
+David the great king of Israel did this (Psalm 139:23-24)
+These are practical questions that would help us grow in the Lord.
+- Am I keeping on track for the Lord?
+- Am I growing daily in my spiritual life?
+- Did I allow sins to pile up in my life?
+2. He causes us to commit our day with Him.
+Solomon urged to trust the Lord and commit to Him daily everything. (Prov.3:5-6).
+Ask God to show you His will for the day, commit your schedule to Him and ask the Lord to guide you in the upcoming activities. It is only as you are in touch with the Lord daily that you will see life’s problems and opportunities from the right perspective.
+(3.) WE GAIN DELIGHT IN GOD
+The third privilege of the quiet time is to enjoy God and simply to bask in His presence.
+- David told God, “You have made known to me the path of life, You will fill me with joy in Your presence.” (Psalm 16:11)
+- The secret of real joy is knowing God personally (Phil.3:10,Psalm 34:8)
+
+Three (3) practical ways to know someone intimately and to enjoy him personally
+1. Spend quality time with him
+2. Communicate meaningfully with him
+3. Observe him in a variety of situations
+The same criteria apply in getting to know God and enjoy God too.
+
+(4.) WE GROW MORE LIKE GOD
+The fourth privilege of the quiet time is the opportunity to grow in our spiritual lives, becoming more and more like Jesus Christ. When God created man, “ He created man in His own image…”. His purpose for man was that he might become like God “in His likeness”(Gen.1:26). But man chose to be like the devil instead.(Gen.3) So in redemption God went back to His original purpose. He wanted his people to be like Him, Jesus Christ (Romans 8:29).
+How do we become like Jesus?
+1. We are made holy – like God – through the Word.( John 17:1) Jesus in His priestly prayer asked the Father that He would “sanctify all the believers by the truth”
+2. Daily growth comes as the Word builds us up. (2Tim.3:16-17)
+We grow in the nurture and admonition of God’s word.
+3. We grow as our minds are renewed daily from God’s word. ((Rom.12:2) We gain revelation and know His will for us.
+4. Through the promises of the Word we become more like God. (2Pet.1:3-4)
+5. We grow through the help given us by our Christian leaders, who teach God’s word. (Eph.4:11-12)
+6. Finally, we become like Jesus as we spend time contemplating on Him. (2Cor.3:18).
+The ultimate goal of quiet time is for us to grow to be like Jesus Christ.
+
+After learning these things, there’s one thing that we should always remember: our privilege as children of God. Practice these principles daily in your life and you will see the difference.
+
+
+GUIDING QUESTIONS FOR THE GROUP
+
+1. Explain the privilege of a Christian when he or she become a child of God.
+2. “Quiet time is not getting but it’s more on knowing Him personally”. State your comment on this statement.
+3. In what way do you think your privilege can bring impact to yourself and to those who are around you?
+
+
+ASSIGNMENT FOR NEXT WEEK
+Memorize Romans 5:1-2
+''');
+
+final _ld_Lesson7 = Lessons(
+    lessonNumber: 7,
+    lessonTitle: 'Stretching My Prayer and Quiet Time pt. 3',
+    lessonBody:
+        '''“You don’t tune up the instruments after the concert is over…it’s logical to
+Tune up before you start.” - Hudson Taylor
+“Hurry is the death of prayer” - Samuel Chadwick
+
+The problem of busyness has been the common reason why Christians do not find time in praying to the Lord. We forget to remember the reason of our existence. Understanding the Bible with regards to quiet time is simple- we are created for intimacy, fruitfulness and stewardship. This is for everybody; we believe none is exempted. All of us are mandated to spend quiet time before the Lord (Ps.150:6).
+This week, we will continue our lesson on the third legitimate reason “why we should have quiet time”. Let’s have some review of the two reasons:
+1. Because we need fellowship with God.
+2. Because it is our privilege as Christians.
+
+Let us explore together the third reason for a meaningful quiet time.
+
+BECAUSE WE GAIN TREMENDOUS BENEFITS FROM IT
+The final reason we should have daily quiet time is because of the tremendous results it brings to our lives. God has promised many things to those who take the time to get to know Him through the Word.
+What are the results of having a daily quiet time?
+1. JOY (Ps. 16:11; 119:47, Jer. 15:16) The most joyful Christians are those who meet with God daily.
+2. STRENGTH ( Isa.40:29-31) As we meet with the Lord daily, we get our spiritual “batteries” recharged and gain the perspective of an eagle, seeing things as they really are.
+3. PEACE (Ps.119:165; Isa.26:3; Rom.8:6) We get peace of heart only when we have the assurance that God is in control of all things. This comes only through His Words.
+4. STABILITY ( Ps.16:8-9; 46:1-3;57:7) When we have a regular time of Bible reading, prayer and worship, our lives become stable; the quiet time eliminates the “spiritual roller coaster” type of living.
+5. SUCCESS (Josh. 1:8) The only promise of success in the Bible is connected to the condition of daily meditation on the Word of God..
+6. ANSWERED PRAYER (John 15:7) As we “remain” in Christ spending quality time with Him, we can claim this promise and be assured that our prayers will be answered.
+7. OTHERS WILL NOTICE THE DIFFERENCE IN OUR LIVES (Acts 4:13). People will know that we have been with Jesus; it is going to show in our lives.
+
+
+HOW TO HAVE A MEANINGFUL TIME WITH GOD
+If we are convinced that quiet time is needed in our lives, then how do we go about having one? We may become motivated to do it, but may not know how.
+We need to consider (4) four essential elements of a good quiet time:
+1. Start with the proper attitudes.
+2. Select a specific time.
+3. Choose a special place.
+4. Follow a simple plan.
+
+
+START WITH THE PROPER ATTITUDES
+In God’s eyes, why do you think you do something is far more important than what you do. On one occasion God told Samuel, “The Lord does not look at the things man looks at. Man looks at the outward appearance, but the Lord looks at the heart” (ISam.16:7). It is quite possible to do the right thing but with the wrong attitude. This was Amaziah’s problem, for “he did what was right in the eyes of the Lord, but not wholeheartedly” (2Chron.25:2).
+When we come to meet with God in the quiet time, we should have these proper attitudes.
+
+1. EXPECTANCY. Come before God with anticipation and eagerness. Expect to have a good time of fellowship with him and receive a blessing from your time together. That was what David expected:
+“O God, You are my God, earnestly I seek You” ( Ps. 63:1;Ps.42:1)
+2. REVERENCE. Don’t rush into God’s presence, but prepare your heart by being still before Him and letting the quietness clear away the thoughts of the world. Listen to the prophet Habbakuk:
+“The Lord is in His holy temple, let all the earth be silent before Him” (Hab.2:20; Ps.89:7).
+
+3. ALERTNESS. Get wide awake first. Remember that you’re meeting with the Creator, the Maker of the heaven and the earth, the Redeemer of men. Be thoroughly rested and alert. Go to bed early as you will be in good shape to meet God in the morning, for He deserves our full attention.
+4. WILLINGNESS TO OBEY. This attitude is crucial. You don’t come to your quiet time to choose what you will do or not do, but with the purpose of doing anything and everything that God wants you to do. Jesus said, “If anyone chooses to do God’s will, he will find out whether my teaching comes from God or whether I speak on my own” (John 7:17) So come to meet the Lord having already chosen to do His will no matter what.
+
+SELECT A SPECIFIC TIME
+The specific time has to do with when you should have your quiet time and how long it should be. The general rule is this: The best time is when you are at your best. Give God the best part of your day – when you are the freshest and most alert. Don’t try to serve God with your leftovers. Remember, too, that your best time may be different from someone else’s. For most of us, however, early in the morning seems to be the best time. It was Jesus’ own practice to rise early to pray and meet with the Father (Mark 1:35). In the Bible, many godly men and women rose early to meet with God. Some of these were:
+1. Abraham – Gen.19:27
+2. Job – Job 1:5
+3. Jacob - Gen.28:18
+4. Moses – Exo. 34:4
+5. Hannah and Elkanah – 1Sam.1:19
+6. David – Psalms 5:3; 57:7-8
+SOME PRACTICAL SUGGESTIONS FOR A SPECIFIC TIME (quiet time)
+a. Don’t try for a two-hour quiet time at first. You’ll only get discouraged. You must grow in this relationship as you do in any other. So begin with a consistent seven minutes and let it grow.
+b. Don’t watch the clock. Clock watching can ruin your quiet time faster than almost anything else and sometime less time.
+c. Emphasize quality, not quantity. There is nothing super spiritual about having a 2-hour quiet time. It’s what you do during your time – 15 minutes or 2 hours or anything in between – that’s important. Aim for a quality relationship with the Lord.
+
+
+CHOOSE A SPECIAL PLACE
+The location where we have our quiet times is also important. Examples from the Bible are:
+1. Abraham (Gen.19:27)
+2. Jesus (Luke 22:39).
+
+ your place should be a SECLUDED PLACE. – This is a place where you can be alone, where it’s quiet and where you will not be disturbed or interrupted.
+ your place ought to be a SPECIAL PLACE. – Wherever you decide to meet with the Lord, make it special place for you and Him. As the days go by, that place will come to mean a lot to you because of the wonderful times you have there with Jesus Christ.
+ you place ought to be a SACRED PLACE. – This is where you meet with the Living God.
+Where you meet the Lord can just be as holy as the place where Abraham met God.
+
+
+FOLLOW A SIMPLE PLAN
+The following six point- plan is workable for a quiet time of any duration. You will need the following three items for your planned quiet times.
+1. A Bible. A contemporary translation (not a paraphrase) with good print, preferably without notes.
+2. A notebook (journal). For writing down what the Lord shows you and for making a prayer list.
+3. A hymnbook or songbook. Sometimes you may want to sing in your praise time. (Col.3:16).
+
+SIX (6) SUGGESTED PLANS
+1. RELAX. Wait on God. Be still for a minute, don’t come runninginto God’s presence and start talking immediately. Follow God’s admonition. (Isa.30:15,Ecc. 5:1-5, Ps.46:10) Be quiet for a short while to put yourself into a reverent mood.
+2. REQUEST. Pray briefly. This is not your prayer time, but a short opening prayer to ask God to cleanse your heart and guide you into the time together. (Ps. 139:23-24, 1Jn.1:9,Ps.119:18)
+3. READ. Read a section of Scripture. This is where your conversation with God begins. He speaks to you through His words and you speak to Him in prayer. Although there are some other ways how God will speak to us but the most concrete way is the Bible. Here’s how you read your Bible;
+a. Slowly. Don’t be in a hurry. Don’t try to read too large.
+b. Repeatedly. – read the passage over and over until you start to picture it in your mind.
+c. Without stopping. Don’t stop in the middle of a sentence to do a doctrinal study. Just read the section for the pure joy of it, allowing God to speak to you.
+d. Aloud but quietly. Reading it aloud will improve you concentration. Read softly enough, however, so that you won’t disturb anyone.
+e. Systematically. Read through a book at a time in an orderly method. You’ll understand the Bible better if you read it as it was written – a book or letter at a time.
+4. REFLECT AND REMEMBER. Meditate and memorize. In order to have the Scriptures speak to you meaningfully, you should meditate on what you are reading and memorize verses that particularly speak to you.
+5. RECORD. Write down what God has shown you. Writing it down will enable you to remember what God revealed to you and to check up on your Bible discoveries.
+6. REQUEST. Have your time of prayer. After God has spoken to you through His words and Spirit, speak to Him in prayer.
+
+The principles that we have learned from lesson 5 are just but theories and guide. But the truth of the matter is that theories without application are useless and they are of no value. What we want from this One Life is to have an experiential learning wherein we see a step by step transformation in our character, attitude and temperament. It is our goal by His grace to produce Christlike character and to be able to manifest the fruit of the Spirit. May we grow in our intimacy with God as we practice these wonderful truths from lesson 5. Enjoy your journey with God! Amen.
+
+
+GUIDING QUESTIONS FOR TODAY
+
+1. Explain why Quiet time is important to a believer?
+2. Share your thought about intimacy, fruitfulness and stewardship as our primary reason of our existence.
+3. React to this statement “Hurry is the death of prayer.”
+4. Discuss what is “experiential” learning
+
+ASSIGNMENT: Memorize Psalm 138:23-24
+''');
+
+final _ld_Lesson8 = Lessons(
+    lessonNumber: 8,
+    lessonTitle: 'Walking With My Bible and Journal',
+    lessonBody:
+        '''“I never saw a useful Christian who was not a student of the Bible.”
+-D. L. Moody
+
+“The Bible should be bread for daily use, not cake for special occasions of need.”
+-Pulpit Helps
+
+“If all the Christians were to dust their Bibles at the same time, we would have the greatest dust storm in our history”
+-J. H. Smith
+
+Welcome back everyone! This week, we are again excited to exhaust more of what God has in store for us. Praise God! His covenant for us is very clear. “ increase, multiply, multiply and GO! GO! GO!”- this really excites everyone. As far as our “HOSHIN” is concerned, our church council decided that ONE Life is one of our priorities this year. Yes we will continue to embark for all of our members to grow and deeply rooted in God’s word.
+
+The reason we chose this subject today is because we want to assess our understanding and knowledge of the Scripture. We would like to know how far and how deep is our love for the Word of God.
+
+Let’s take a look of the quotations above. Do you see the burden and the importance of the Bible to a Christian life? Will you agree to those statements?
+
+We believe and we all agree that the Bible is important, it is actually the breath and ultimate food to a believer’s life. There’s only one message here and that is the Bible is the Word of God. A person, church or country cannot survive without it.
+From the book “Foundations of Pentecostal Theology”, let us learn some of these important lessons.
+
+
+I.THE NAMES OF THE SCRIPTURES
+1) The Bible – our English word “Bible” comes from the Greek word “biblos” meaning “ a book”. “The book (biblos) of the generation of Jesus” (Mt.1:2). And also from “biblion”, a diminutive form of “biblos”, meaning “ little book”. LK. 4:17 “And there was delivered unto Him the book (biblion)…. And when he opened the book (biblion).”
+The word “biblos” comes from the word given to the inner pulp of the papyrus reed on which ancient books were written.
+
+2) Other Names.
+The Bible is also called “The Scripture”(Mark 12:10, Lk. 4:21, Jn.2:22)
+The “Scriptures” ( Mat. 22:29, Mk.12:24, Acts 17:11, Rom. 1:2)
+“Sacred writings” (Rom. 1:2, 2Tim.3:15
+“Oracles of God” ( Rom.3:2).
+“The Word of God” (Mk.67:13, Rom 10:17, 2 Cor. 2:17, Heb.4:12)
+
+
+II. THE DIVISION OF THE SCRIPTURES
+A. The Two Testaments.
+The Bible is divided into two sections known as Old and New Testament. The word “testament” was originally translated ‘COVENANT” and signifies the thought that each is a covenant which God made with his people.
+Books of the OT – 39
+Books of the NT – 27
+Total number of books – 66
+Chapters in the OT – 929
+Chapters in the NT – 260
+Total number of chapters – 1,189
+Verses in the OT – 33,214
+Verses in the NT – 7,959
+Total number of verses – 41,173
+Words in the OT – 593,393
+Words in the NT – 181,253
+Total number of words – 774, 646
+
+B. DIVISIONS IN THE OLD TESTAMENT
+The Hebrew OT was commonly divided into three sections:
+1. The Law (Torah) 5 books: Genesis,Exodus, Leviticus, Numbers, Deuteronomy
+2. The prophets (Nebhiim) 8 books
+Former prophets; Joshua, Judges, Samuel, KINGS,
+Latter prophets: Isaiah, Jeremiah, Ezekiel, The twelve (Hosea to Malachi are considered 1 book),
+3. The writings (Kethbhim) 11 books
+Poetical books - Psalms, Proverbs and Job.
+Five Rolls of (Megilloth) Song of Songs, Ruth, Lamentations, Esther, Ecclesiastes
+4. Historical books – Daniel, Ezra, Nehemiah and Chronicles
+
+In Luke 24:44 Jesus is talking about the divisions of the Bible.
+
+C. DIVISIONS IN THE NEW TESTAMENT
+1. Biographical (Gospels)( 4 books) – Matthew ,Mark , Luke and John
+2. Historical (Epistle) ( 1 book )- Acts
+3. Pedagogical (General Epistles) (21 Books) Romans, 1&2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1&2 Thessalonians , 1&2 Timothy, Titus, Philemon, Hebrews, James, 1-2 Peter, 1-3 John, Jude,
+4. Prophetic ( The book of Revelation)(1 book ) Revelation.
+
+
+III. THE WRITERS OF THE SCRIPTURES
+The bible is one Book, but it is also many books written by at least forty (40) different authors, over a period of not less than 1,500 years, many of whom never saw each other. Yet its unity and continuity are so apparent it is easy to think of it having just one author – and none other than God Himself.
+It is most interesting to note the variety of occupational backgrounds which are represented by those authors who are known:
+Two of the writers were Kings – David and Solomon
+Two were priest – Jeremiah and Ezekiel
+One was a physician – Luke
+Two were fishermen – Peter and John
+Two were shepherds – Moses and Amos
+One was a Pharisee and a theologian – Paul
+One was a statesman – Daniel
+Matthew was a tax collector
+Joshua was a soldier
+Ezra was a scribe
+Nehemiah was a butler
+The background and occupations of the others are largely unknown.
+
+
+IV. THE CANON OF THE SCRIPTURES
+A. The Canon of the OT
+The word “canon” comes from the Greek word “Kanon” meaning “a measuring rod or reed” and signifies a rule, a standard, hence, the canon of the Bible consists of those books considered worthy to be included in the Holy Scriptures. In our Christian bibles, there are thirty nine (39) books in the OT, while the Jewish OT counts only (24). This is explained by the facts: the twelve books of the minor prophets (Hoshea through Malachi) are only one book.
+The following are only one book each: 1&2Samuel, 1&2 Kings, 1&2Chronicles. Hebrew OT lists nine fewer titles. Josephus ( great Jewish Historian) counted 22, because he joined Ruth to Judges and Lamentations to Jeremiah.
+
+B. The APOCRYPHA
+The word “apocrypha” as usually understood means “apocryphal Books” and refers to the fourteen books which have been added to the OT and held to a part of the sacred Canon, particularly by the Roman Catholic church.. Protestants generally do not include these in the Septuagint (LXX) the translation to translation of the OT into Greek made between 280BC and 180 BC, contained the apocryphal books. Bishop Jerome included them in his Latin Vulgate. The books are not part of the Hebrew Bible. The reformers were largely responsible for eliminating the Apocrypha from the Bible, because they contain things which are inconsistent from the biblical doctrine ( e.g. the doctrine of prayer for the dead and intercession to the saints)
+
+So much with our information about what and how the Bible came to us. This time we will explore how to study the Bible in a systematic way.
+In 2 Tim. 3:16-17, Paul give us two reasons why we should know the Scriptures.
+1. We might come to know Jesus Christ and receive His salvation. (v.15) We learn about Him and redemption through His Word.
+2. To help us Grow spiritually that we might be equipped for whatever God wants us to do. (v.17)
+
+These two purposes prompt us to become a serious student of God’s word.
+
+There are Five (5) Basic Steps for a serious Bible student when he approaches the Word of God.
+
+1. Observing – seeing the basic facts contained in the text under study.
+2. Asking Questions - discovering additional facts by more intense observation.( you may apply the SAFE PACK approach here)
+3. Interpreting – analyzing what the text means.
+4. Correlating – comparing scripture with scripture.
+5. Applying – obey what God says and see great results in your life. You may answer these questions;
+Who is God in this passage?
+What would God want me to do today?
+
+You will, of course, need your journal to write down the things which God revealed to you through His Word in addition to writing His promptings in your heart.
+
+With this simple approach you can learn many things from the Word of God that would help you in your passion for His Word. Follow these simple steps. Don’t forget to pray before you read and study. Always remember the elements of meditation ( intimacy ) worship, word and witness! Witness because we want that our learning would bring fruits in the Kingdom and will bring Glory to Jesus. We hope that this lesson will help your love for God and His Word. God bless.
+
+
+ASSIGNMENT:
+1. Do a simple study of this passage Psalm 1:1 – 6 0r Psalm 23:1-6 using the simple steps above.
+2. Memorize 2Tim.3:16-17
+3. As we meet each week for One Life, kindly bring along your journal and share your discoveries. This is exciting!!!
+''');
+
+final _ld_Lesson9 = Lessons(
+    lessonNumber: 9,
+    lessonTitle: 'Running With Faith pt. 1',
+    lessonBody:
+        '''“ Faith puts God between us and our circumstances “ DANIEL WEBSTER
+
+“ Faith enables the believing soul to treat the future as present and the invisible as seen. “
+J. OSWALD SANDERS
+
+“ Faith does not operate in the realm of the possible. There is no glory for God in that which is
+humanly possible. Faith begins where man’s power ends.”
+GEORGE MULLER
+
+Welcome back to our ONE Life. Today we shall be learning one of the most important subjects that every child of God should know and that’s “FAITH”. Yes, we consider this as vital for some reasons-
+We are saved by faith, we walk by faith, we overcome life’s challenges by faith and God formed the world by faith, making the visible out of the invisible.
+We will explore today how faith will work in a believer’s life as we connect to the great source of power in this universe, The Holy Spirit.
+The first part of this series is dealing with “THE POWER OF FAITH”, from an article of the Running with Fire magazine, Tak Bhana , pastor of the Church Unlimited of New Zealand. Let us learn together as he shared his thoughts about Faith.
+
+
+FAITH IS THE ESSENTIAL KEY
+It’s been said that faith is the greatest power in the universe and it’s the quality that will cause us to please God and accomplish beyond our human ability. Faith is the one essentially key that unlocks the door to victory, to answered prayer and to bring the power of God into every situation. That’s why we need to live and talk and preach faith, constantly telling ourselves and our people that God can help us through every challenge in life no matter how difficult it is.
+
+1 John 5:4 “ For everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith.”. When God listed His champions in Hebrews 11, the one common denominator and the one quality He focussed on was their faith, not love, not holiness, not prayer, BUT faith.
+
+TWO IMPORTANT PREREQUISITES OF FAITH
+1. We need a strong relationship with God and to be constantly reading and studying His word.
+2. We need to have a hearing ear that is tuned in to Him will help safeguard us from seeking faith to fulfil our own carnal and selfish desires.
+
+
+SATAN WANTS TO ROB US OF OUR FAITH
+Our faith is our great treasure in this life.
+1. Habbakuk 2:4
+2. Galatians 3:11
+3. Hebrews 10:38
+4. Romans 1:17
+ALL tell us , “ The righteous live by Faith”. When something is to be repeated so many times in the Bible it has to be important. Everything depends on Faith, so it comes as no surprise that Satan tries to severe the faith connection then we will be defeated.
+
+
+WHAT WILL FAITH DO FOR US?
+1. Faith will help us turn our adversity into Advantage.
+Romans 8:28 “ And we know that in all things God works for the good of those who love him, who have been called according to His purpose.”
+We can take courage and have confidence that whatever we go through He will be with us and will bring good out of it.
+
+2. Faith brings answers to prayer.
+Faith is the trigger that releases divine Power. Oftentimes we think our prayers are weak and powerless and we don’t really believe we’ll see the answers. That’s not praying in faith, we need to add the ingredient of faith to our prayers and all that will change.
+
+Mark 11:23 -24 “ …. What ever you ask in prayer, BELIEVE that you have receive it, and it will be yours.”
+
+Matthew 9:29 – “ According to your faith will it be done to you…”
+
+3. Through Faith we can overcome failures.
+Untold people, including many of the greatmen of the bible, have had to overcome FAILURE. Peter denied that he knew the Lord, not once but three times he said, “ I don’t know the man” . But PETER recovered from that painful failure and became a great apostle. No matter how badly we’ve failed we can overcome.
+
+
+HOW CAN WE HAVE MORE FAITH?
+1. Faith comes by the word of God.
+
+ROMANS 10:17 – “ Faith comes from hearing the message, and the message is heard through the word of Christ.”
+We see here that “faith comes”. We might not have it right now but it’s on the way and it comes as we read and study and meditate on God’s word, on faith verses, or healing verses if that’s our need.
+
+2. Pray for faith as a gift and grow faith as a fruit of the Holy Spirit.
+Faith grows as we exercise. (Luke 17:5)
+Jesus’ disciples asked Him to increase their faith; His reply was along the lines that they only needed a tiny amount. The key was not how much faith they had but how much they used and developed what they had. Exercise is important to have a healthy lifestyle ; we need also to exercise our Faith.
+
+3. Walk with Faith people.
+The people whom we spend our time with influence our lives, so why not spend time with people who are strong in faith? As we hang around with people of faith, it helps us to reach out for faith, to grow in faith and to speak words of faith. Be careful with people that you hang around with everyday. They might help you build up your faith or break your faith apart.
+
+4. Read about faith.
+Books by men of God are good tools for our faith to grow. In this case we have to be careful at the same time, because there are also books that are not Christ-centered and anti -scriptural.
+
+5. Talk faith
+This is not about denial or about being false, but we can help our faith along by agreeing with and confessing, what God says.
+
+After pondering these powerful thoughts, we believe that as we apply and share it to others, our faith will grow. We will become a people of POWER. Yes people that are OVERCOMERS, people that will flow according to God’s anointing and eventually will result to spiritual awakening of the body of the Lord Jesus Christ, The CHURCH. Let us continue to walk in Faith and be a blessing. God bless.
+
+ASSIGNMENT:
+Memorize 1 John 5:4
+''');
+
+final _ld_Lesson10 = Lessons(
+    lessonNumber: 10,
+    lessonTitle: 'Running With Faith pt. 2',
+    lessonBody:
+        '''“When I try, I fail. When I trust, God succeeds. “ JOHN C. SALAK
+
+“When Faith goes to the market, it always takes a basket” BERNARD RAMM
+
+“God isn’t looking for great people, but He is looking for people who will realize the greatness of God “ D. L. MOODY
+
+Looking at these quotations we learned so many important lessons about the value and the power of faith. If every child of God understands his right and his authority in Jesus he could have lived a life of fruitfulness and significance. Faith is the very foundation of everything. Our last lesson taught us some very valuable principles. We are saved by faith, we walked by faith, we overcome our life’s battle by faith and we’ve experienced healing by faith.
+In this part 2 of Lesson 7 we will explore once again how we will grow in our faith and use this for our personal growth; and learn the impact of faith to His church and the people around us.
+From this topic, “ DEVELOP THE VISION OF FAITH”, an international motivational speaker, Dr. Myles Munroe, President and Founder of Bahamas Faith Ministries International, shares his thought:
+
+The greatest gift that God gave humankind is not the gift of sight, but the gift of vision. Here is a life testimony of a great woman, author and wonderful entrepreneur Helen Keller, who became blind, deaf, and mute as a result of an illness when she was only eighteen months old. She was a powerful, remarkable woman who impacted her whole generation and she still influences people today. In her old age, she was interviewed by a news anchor about her life. Part of the conversation went something like this: Communicating his questions to her through Braille, he asked, “ Miss Keller, is there anything worse than being blind?” She paused for a moment and, in her unique way of talking said, “ What’s worse than being blind is having SIGHT without VISION.”
+
+What a perceptive woman! This woman, who could not see physically, had more vision and accomplishments than the majority of those in her generation who had sight. Her books are still read today, and her poetry is wonderful. Helen Keller didn’t spend years being angry and blaming God for her blindness and deafness. No, she was able to live a full life because she had vision in her heart. As the saying goes, “Eyes that look are common, but eyes that see are rare.”
+
+
+VISION SEES THINGS AS THEY COULD BE
+
+Most people have sight but NO VISION! Physical sight is the ability to see things as they are. Vision is the capacity to see things as they could be, and that takes FAITH! The Bible says, “ As a person thinks in his heart, so is he” (Prov. 23:7 NKJV). We must never let what our eyes see determine what our hearts believe.
+
+2 Cor. 5:7 “ For we walk ( “live” NIV) by faith, not by sight”. In other words, we are to walk according to what is in our hearts. We are to let what is in our hearts dictate how we see life. God told Abraham something that could be seen, believed, and achieved only through the eyes of vision: He told him that inside of him was a nation. He and Sarah were already elderly and Sarah had been barren throughout their marriage. However, God says, in effect, “ I see a nation in you. Everyone else is looking at your barrenness, But I see a nation of descendants as numerous as the stars in the sky and the sand on the shore.” ( Gen. 11:29-30, 12:1-3, 17:1-19)
+
+When we have vision, we are governed by the faith God has put in our hearts. Hebrews 11:1 says that, “ faith is the substance of things hoped for, the evidence of things not seen ( that you cannot see ) NKJV. Therefore, we would define faith as a vision in the heart. FAITH IS SEEING THE FUTURE IN THE PRESENT. When you have faith you can see things you hope to have and achieve.
+
+
+SEEING BY FAITH
+
+If you are operating by sight, you see the problems and challenges all around you. You see how many bills you have to pay…. You see things that threatens your security. SIGHT WITHOUT VISION IS DANGEROUS because it has no HOPE.
+
+Many people have been living by sight alone, and that’s one reason they have all kinds of medical problems – muscle tensions, migraines, high blood pressure, heart disease, ulcers, tumours, and so on. LIVING BY SIGHT CAN KILL YOU!. Life is so full of depressing things that you need to learn to live by vision and see with the eyes of faith…. Our spirits were designed to operate as GOD operates!
+
+In Gen. 1:26, God said, “Let us make man in our image, in our likeness”.
+
+The word image refers to moral and spiritual characters, while the phrase “ in our likeness” means, “ to function like”. In other words , we were created to live according to the nature of God and to function as He ‘functions in the world”. The Bible is very clear that “ without faith it is impossible to please God” ( Hebrews 11:6 ). If you try to function in any other way than faith, you will MALFUNCTION!. That is why worry is ungodly and fear makes your vision SHORTCIRCUIT. YOU WERE NEVER MEANT TO BE AFRAID. Jesus was filled with faith and he was the calmest person on earth. He slept soundly in the middle of the storm. When His frightened disciples woke Him up, He asked them, “ Do you still have no faith?” (Mark 4:40). He was telling them, “ If you have faith, you’ll be able to sleep during a storm as well”.
+
+
+THE CREATIVE POWER OF FAITH
+
+How does FAITH work? To understand the answer to this question, we need to examine more closely how God functions. ( Jeremiah 1:2 ) God declared “ I am watching to see that my word is fulfilled”. The New American Standard Bible says it this way “ I am watching over My word to perform it.”. As this verse – along with many others throughout the Bible demonstrates, God always brings His words into being. What did God use to create the universe? He used WORDS!. In creation, we read, “God said” (Genesis 1:3,6,9,11,14,20,24,26) God had an idea for the universe, and then He saw or visualized it. Finally, he SPOKE His idea into existence. The result was that everything God saw in his mind’s eye for the earth and the rest of the universe became visible reality in the physical world. GOD CREATED EVERYTHING BY SPEAKING HIS THOUGHT INTO BEING.
+
+Nothing on earth is more important than a thought. Thoughts are more important than words because words are produced by thoughts, Yet while thoughts are the most important things on earth, WORDS ARE THE MOST POWERFUL. Thoughts ( as long as it is in line with the thoughts of God ) design the future, words create the future. Nothing happens until you start talking about it. You can think of something for twenty years, but that will not bring it to pass. Creative power is not in thoughts alone. It is the words (and actions) that come from them. Whether those words ere spoken or written , they are full of creative power.
+
+Therefore, when you speak words expressing what you see in your vision, your words become creative power to help bring that vision to FRUITION! However, there is a negative aspect to this truth, as well . You can undermine your vision by what you continually say about yourself, such as “ I am fat,”, “ I am slow”, I’m not intelligent”, “I’m a failure”. YOU WILL BECOME WHAT YOU CONSTANTLY DECLARE!
+
+Compounding this problem is the fact that the devil knows God and His ways very well. Satan knows that the key to creating anything is having a clear vision of it and speaking it into existence. He wants you to SPEAK NEGATIVE rather than positive things so that your effectiveness for God’s kingdom will be negated. WE CAN HELP PROTECT OUR VISION BY GUARDING WHAT WE SAY.
+
+If you want to fulfill your vision, you must speak differently than you have been. Instead of saying, “ I’ll always have a mortgage, “ say ‘ I’m going to be debt- FREE!”. You have been imagining that you don’t owe any bills, but you have to start saying it as well. Say “My God will meet all my needs according to His glorious riches in Christ Jesus.” (Phil. 4:19). Then pray “ Lord please perform Your Word.” You have to speak. A vision doesn’t have any power until you talk about it…
+
+
+GREAT THINKING PRECEDES GREAT ACHIEVEMENT
+Successful men and women who have influenced and impacted their generations weren’t “lucky”. They didn’t just stumble on greatness. They thought great things and expect great things, and greatness found them. You don’t need to be big to think great thoughts. You need to think great thoughts ( according to God’s design ) to become BIG. That is the faith of the vision.
+
+
+DO YOU HAVE SIGHT OR VISION?
+
+You success or failure is determined by how you see. Jesus continually dealt with the sight of the disciples because their sight got them into trouble so often. He wanted them to MOVE FROM SIGHT TO VISION. And that is why He taught them about faith through life illustration such as the fig tree, the feeding of the five thousand, and the raising of Lazarus. The faith of vision is crucial because the way you see things determines how you think and act and, therefore, whether or not your vision will become reality. Proverbs 23:7 says, “ As a person thinks in his heart, so is he” (NKJV). Do you have eyesight or vision?
+
+Praise God from this article. We know that there are many things that somehow have changed our perspective of faith. We see how powerful our words are and how important are our thoughts. From this lesson we would like to summarize our learnings.
+
+1. As a child of God, unfavorable circumstances and infirmities are not a hindrance to God’s wonderful plan for us as long as we walk and grow in faith.
+2. We have to be careful of what we say, because we become what we thought and what we speak.
+3. It is very important to seek and to know God’s thought and begin to live out what God expected from us and the end result- we become people with positive impact.
+4. We are able to understand how Jesus overcame the storms of life by trusting the Father.
+5. We also learned the power of God’s Word when it is operated in faith by having positive declarations.
+6. We learned that success does not come as a surprise; it is when you begin to decide or think about it according to God’s design and begin to speak and tell about it.
+7. Lastly, this opportunity to experience greatness and success is given fairly by God to all of His children.
+
+May we walk by faith and not by sight. Our prayer at ONE Life is that we will grow in faith and become an encouragement to those that follow us. God bless you.
+
+
+ASSIGNMENT:
+1. Memorize Hebrews 11:1
+2. Prepare a testimony of your Faith Journey next week
+''');
+
+final _ld_Lesson11 = Lessons(
+    lessonNumber: 11,
+    lessonTitle: 'Pushing Out the Enemy in Spiritual Warfare - Part 1',
+    lessonBody:
+        '''"The only way a Christian can defeat his enemy, Satan, is by rising spiritually in his Christian life.
+SPEAKER'S QUOTE BOOK
+"The Devil found defeat in victory at the cross, the Christian find victory in defeat at the cross"
+SPEAKER'S QUOTE BOOK
+
+Welcome back to ONE Life. Today we shall be learning about how to push the enemy in spiritual warfare. First of all, let us be reminded that we are serving a great and powerful God. He is The Holy One, The Beginning and the End. Secondly, the death and the resurrection of our Lord Jesus is our victory. Yes, we are on the winning side. Every child of God is under His protection and is assured of victory! Thirdly, the coming of the Holy Spirit is the source of power. We are equipped with a Divine power that no amount of power in this world could surpass. This power is always available depending on how we use it and how we also understand our authority and identity as a child of God.
+Understanding spiritual warfare is a foundational teaching that we have to know and practice as believers of the true God. Why do we say this? Because there are many misconceptions and misuse of God's power in defeating the enemy; this is due to ignorance and lack of teaching from God's word. What we need to do is to study this subject step by step so we can have a better grasp of God's word.
+
+
+UNDERSTANDING THE ORIGIN OF SPIRITUAL WARFARE
+The first step that we have to understand is the origin of spiritual warfare. Where does this spiritual warfare originate? An article from the Bible. Org by Bob Deffinbaugh on Spiritual Warfare states:
+" It should come as no surprise to the Christian to read here that we are engaged in a great spiritual battle. From the early chapters of the OT, it is apparent that Satan is the enemy of God, and that he actively seeks to oppose God, His purposes, and His people…. We would probably turn first to the third chapter of the Book of Genesis to find Satan striking what appears to be the first blow of the spiritual war. Actually, the battle began long before the creation of Adam and Eve. Satan's rebellion against God is described in two OT prophecies…"
+1. Isaiah 14:12-14
+2. Ezekiel 28: 12-15
+It is clear from these verses that the prophets are not speaking only of an earthly ruler, but someone possessing much greater power. They are speaking of none other than Satan. He was the angel who was created by God (Ezek. 28:13), given the highest authority under God but who was not content with this. He was the one who was in Eden, the garden of God ,( Ezek. 28:13). He was once blameless at the time of creation, but then was found with sin (Ezek. 28:15). He possessed beauty, power, and authority, but he had to have more. He wanted to exalt himself further; he wanted to become like God (Isaiah 14:14). When Satan rebelled against God, others joined him in opposing God and His purposes. And so we find Satan making his first public appearance in Genesis chapter 3, not as Satan, but as a creature which God has made. Satan comes to Adam and Eve as fellow –creature, under God's authority and that of the man and his wife. His temptation is heeded, and God's word disobeyed, leading not only to the downfall of Adam and his wife, but of all their offspring."
+
+Looking at this article we see how spiritual warfare started. We learned that this all started to the one creature that made himself equal with God. Pride is the source of everything. (Prov. 16:18) " Pride goes before destruction".
+
+
+WHO IS SATAN?
+We will continue to explore who is really our enemy. The best way to defeat the opponent is to know him personally and his ways. From one of the sections of the book The Shepherd's staff, "Cast out demons" by Ralph Mahoney, we will be taught how to deal with the adversary and how to completely defeat him.
+"Satan is the god of this world ( 2 Cor.4:4). He was the prince of the nations (Matt.4:8,9). He is the author of all miseries and sorrows, of our diseases and pains, of death itself. He is the king and the ruler of all demon spirits. He rules the dark hosts of Hell. His chief desire and design is to destroy human life (John 10:10a) and therefore to bring sorrow to the heart of God, our heavenly Father.
+
+We can better understand who Satan is by the names given to him in the Bible.
+
+1. The Devil (Matt. 13:19) he is called the "wicked one". In verse 39, he is called "the enemy”
+And the "devil". The devil means "accuser", "defarmer" or "slanderer".
+2. The Accuser (Rev. 12:10) " The accuser of believers"
+3. The Adversary (1Pet. 5:8 ) he is called " the adversary" and is compared to a "roaring lion, seeking to devour".
+4. The Dragon (Rev. 20:2) he is described by a group of names almost too hideous to contemplate. " the dragon that old serpent, which is the devil, and satan."
+5. The Father of Lies. (John 8:44) he is called by Jesus as a " a murderer, a liar, and the father of it "
+6. The Tempter ( Matt.4:3) he is called " the tempter"
+7. The Prince of the devil's (Matt. 12:24). " the prince of the devils"
+8. The Prince of the power of the air (Eph. 2:2)
+9. The prince of this world (John 14;30)
+10. The corrupter of minds (2Cor.11:3)
+
+
+WHAT IS SATAN LIKE?
+
+Satan is your adversary.
+1. He is Evil.
+Everything evil, destructive, discouraging, malicious and binding is of Satan. The works of the devil have always been to "steal, and to kill and to destroy" (John 10;10) the spirits, minds and bodies of God's creation in whole or in part.
+2. He Opposes God and His Family
+He opposes us. He despises us. But we have been warned to be on the alert. Satan, your adversary, is always present to challenge your faith, your integrity and your covenant rights. Satan always leads an open rebellion against God and His Family. But Jesus Christ " was manifested that he might DESTROY the works of the devil" (1 John 3:8)
+
+Let us learn to recognize our enemies. They resent our legal rights over them and are jealous of our heritage. Before we proceed to our topic next week we will learn some of these verses that inspire us to not be afraid of Satan and his cohorts.
+
+1. (2 Cor. 10:4) ' The weapons of our warfare are not carnal, but mighty through God to PULL DOWN the strong holds of Satan"
+This verse tells that we are at war, and have spiritual weapons that are empowered by the Spirit to enable us to pull down the fortresses in the minds blinded by the devil or demons (2Cor.4:4)
+
+2. (Eph. 6:12) ' For we wrestle not against flesh and blood, but against principalities….against spiritual wickedness in high places"
+3. (Luke 10:19) Jesus our captain says' Behold I give you power over ALL the power of the enemy… and NOTHING will harm you."
+4. ( Luke 9:1) "He gave then power and authority over all devils"
+5. (Mark 16:17) " In my name they shall cast out devils…)
+
+There are still many more verses that could prove our identity and authority in Jesus as we continue to go deeper in our learning. Next week we will discuss another interesting topic on the area of understanding the demons and their activity and to cast them out in the Name of Jesus. God bless you today and may we walk in victory as Jesus is our VICTORY!
+
+
+ASSIGNMENT:
+Memorize Luke 10:19
+''');
+
+final _ld_Lesson12 = Lessons(
+    lessonNumber: 12,
+    lessonTitle: 'Pushing Out the Enemy in Spiritual Warfare - Part 2',
+    lessonBody:
+        '''” Prayer is a shield to the soul, a sacrifice to God, a SCOURGE for Satan. "
+-The Speaker's Quote Book
+" Satan trembles when he sees the WEAKEST saint upon his knees."
+-The Speaker's Quote Book
+
+Today we will continue our lesson on Spiritual Warfare. Our last lesson taught us of many insights: when the Spiritual war actually started, who is our enemy and what are God's promises to His children during the spiritual battle. In this lesson, we will be learning who the demon spirits are, what are demon spirits, what demons are like, symptoms of demonic bondage, what demons can do, and the most exciting is how we prepare ourselves to cast them. Part 3 three of this lesson will be focusing on how we train the Deliverance Team in delivering a demon possessed person and the proper follow up after the deliverance. So with the help of the Holy Spirit let us now begin our study in Part 2.
+
+WHO ARE DEMON SPIRITS?
+Some say there are no such things as demons today; that the title is merely a figure of speech, but this is not TRUE. The Bible is as clear and definite in its teachings about demons as it is about angels. Both are actual and real today. Both should be understood.
+Demons are wicked, hateful and destructive. Demon spirits are personalities, just like human spirits are personalities. Demons are spirits without bodies in which to dwell. We are spirits with bodies. Our spirits are from God. Demon spirits serve Satan and are sent from him.
+
+1. They belong to the Devil.
+Demons belong to Satan, who is the ruler of the demons. Jesus speaks of them as " …the devil and his angels" (Matt. 25:41). The Gk. Word "diabolos" (devil) means "accuser" or "slanderer". It is always used in the singular in the New Testament. The words "daimon" and "daimonion" are used both in the singular and the plural and are not interchangeable with "diabolos". Thus, there is but one "diabolos", the devil, but many "daimonion" or "daimon" or demons.
+
+2. They are Fallen Angels.
+Demons are fallen angels, "who did not keep their proper domain, but left their own abode" (Jude 6). When created, they were perfect and were given the power of choice. Demons are angels who chose to disobey God and do the will of Satan.
+a. Some are imprisoned.
+- those who sinned and are now imprisoned in "chains of darkness" (2 Pet.2:4)
+- waiting for the judgment of angels ( 1Cor.6:3).
+
+b. Some are Free.
+- those who fell, and whom God has allowed to continue to serve Satan and his kingdom. The reason for this is one of God's secrets (Deut. 29:29). Satan is not omnipresent (i.e., everywhere at once – like God), but he has a multitude of demons or disembodied spirits, who do his will so thoroughly that it seems as though he is present everywhere.
+
+
+WHAT ARE DEMON SPIRITS?
+1. Difference Between Body and spirit.
+I have a body, but I am a spirit. My spirit dwells in my body. I express myself (my spirit) with the faculties of my body. You can see my body, but you cannot see me because the REAL ME is a spirit living inside of me. My body is simply the house my spirit lives in. Someday my body will die and return to the dust. I shall return to God from where I came. "… the spirit shall return unto God who gave it" ( Ecc. 12:7- even though my eyes would be blind, my ears deaf and my tongue removed, my spirit would still be there; but it could not see, hear or speak.
+2. Spirits Without Bodies
+Demons are evil spirits without bodies with which to express themselves in this world. Since they have no bodies of their own, they must wander through the land, seeking a body into which they can enter and carry out their mission of evil ( Matt. 12:43).
+Since demon spirits are actual personalities, they manifest their own personalities in the persons whom they enter. There are various classes, or types, of demon spirits just like there are different types of people.
+
+
+WHAT ARE DEMONS LIKE?
+1. Demons Talk.
+They talk through a person's mental and speech faculties, in the same way that your spirit (the real you) talks through your own tongue and vocal chords. The following scriptures proved to this truth.
+1. Mark 3:10-11
+2. Luke 4:40-41
+3. Mark 1:22-25
+These scriptures show us how demons spoke and talked to those who had come to cast them out.
+
+2. Demons Know Their Future
+Jesus met two demon- possessed men coming from among the tombs. When he was about to cast them out, they cried out, " What have we to do with you, Jesus, Son of God? Are you come to torment us before the time?" (Matt. 8:29) What did the demons mean by saying, " are you come to torment us before the time? " Of what time were they speaking?
+Demons know that Hell was prepared for the devil and his angels. They know the day will come when the devil will be "cast into the lake of fire and brimstone, where the beast and false prophet are, and shall be tormented day and night forever and ever" (Rev.20:10). "…together with the fearful, and unbelieving and the abominable, and the murderers, and whoremongers, and sorcerers, and idolators, and all liars ( Rev. 21:8) and "…whoever was not found written in the book of life" (Rev. 20:15). Demons know that the day is coming when they shall be tormented, day and night, forever and forever. They know that then they will no longer be able to torment humanity, because their time will have come.
+Therefore, knowing this, they trembled before Jesus and cried out, "are you come to torment us before the time?"
+
+3. Demons Resist to Surrender
+The eighth chapter of Matthew, the fifth chapter of Mark, and the eighth chapter of Luke set forth the story of Jesus casting out the legion of demons from the maniac.
+The context of these scriptures reveals the following:
+FIRST: The demons actually professed to worship Christ, evidently seeking to prevent the Lord from being stern with them. (Mark 5:6)
+SECOND: Jesus commanded them to come out of the man (Luke 8:29; Mark 5:8)
+THIRD: The Demons begged Him that He would not torment them. But when Jesus spoke to them, the demons became fearful (Luke 8:28)
+FOURTH: Christ demanded of them "What is your name?"(Luke 8:30)
+FIFTH: The demons responded, " My name is Legion, for we are many" (Mark 5:9)
+SIXTH: When Jesus insisted that they depart, the demons, shocked at being expelled from their habitation in man's body, " begged him much that he would not send them away out of the country" (Mark 5:10).
+Then the legion of demons, which had possessed the maniac, tried to bargain further. If they were to be forced out of their human possession, the next best place to settle would be the herd of swine which was feeding nearby.
+"all of the demons begged him, saying 'send us into the swine, that we may enter into them" ( Mark 5:13).
+SEVENTH: " Immediately Jesus gave them permission. And the unclean spirits went out and entered into the swine and the herd violently down a steep place into the sea (they were about two thousand), and were choked in the sea."
+
+This remarkable story shows demons resent surrendering their place of possession, yet how they must yield to the authority of God's servants. To us Christ has said, " I GIVE YOU AUTHORITY OVER ALL DEVILS" and "IN MY NAME YOU SHALL CAST OUT DEVILS" (Mark 16:17, Luke 9:1, Luke 10:19)
+
+4. Demons May Call for Reinforcements
+Jesus taught a most revealing lesson about demons in the twelfth chapter of Matthew:
+Matthew 12:43-45
+It is possible for demons, which have been cast out, to call other demons for reinforcement and to re –enter the person out of whom they have been cast. This happens when the person delivered fails to FULLY CONSECRATE his life to Christ.
+Therefore, the demon called on other spirits, more wicked than himself; they entered and settled there, " and the last state of that person was worse than the first." Jesus said to the crippled man who had been healed, " Sin no more, lest a worse thing come to you". (Jn.5:14)
+
+5. Demons Recognize And Obey Those Have Power Over Them
+When Jesus was met by those who were demon possessed, the demons would often cry out, " We know who you are. You are the Son of God."
+Demons have never changed. Instances such as these happened in Paul's ministry (Acts. 19:13-16). Demons know who have power over them. They knew Jesus and they knew Paul. The demons mocked and completely overpowered those seven sons of Sceva who tried to cast them out just for the money they would receive. "God anointed Jesus of Nazareth with the Holy Ghost" (Acts 10:38). It was the Holy Spirit who said " Separate me Barnabas and Saul for the work to which I have called them" (Acts 13:2). The two persons whom the devils acknowledged were both anointed with the Holy Spirit, the power of God. The devils know such and obey them. BUT this case is a clear warning to unbelievers not to PLAY with devils. Every believer has been given power and authority over all devils and should never fear nor hesitate to execute this authority. (Mark 16:17)… the devil is helpless before one believer who is anointed of God.
+
+
+WHAT ARE SYMPTOMS OF DEMONIC BONDAGE?
+
+1. PHYSICAL
+A. Vacant Look. A person who is under the power of the evil spirit often has a glazed, vacant look about him.
+B. Trance State. Sometimes people fall into trance. Their eyes are closed and when you open their eyelids their eyeballs rollback and white parts show.
+C. Extreme strength. As with the demon possessed man of the Gadarenes (Mark 5:3-4), even the most timid and harmless housewife can become as strong as an ox and act violently if demonic power is in her life.
+D. Intestinal Disturbances. Some people suffer form organic disturbances – especially in the stomach region. For example, "something" will move strongly up and down in the person's stomach.
+E. Strange Reactions. Small children react under the influence of a demonic force. There is a case of children under the power of the 'monkey god" screw up their faces to look like a monkey and jump up and down on the tables and chairs.
+F. Heightened Sexuality. Many people with demonic bondage experience heightened sensuality.
+G. Feeling of Suffocation. When an unclean spirit is active, the victim may feel as if he is being strangled or suffocated or feel a tightness around his chest.
+H. Vocal Noises. Evil spirits can cough, sneeze, speak, laugh, threaten, cry, plead, lie etc. (see Mark 5:5,7,10)
+I. Active/ Passive Resistance. The evil spirit in the person may cause him to fall down and act as if he is dead. The spirit may also swear, shout, or laugh at the believer.
+Note: This is an attempt of Satan to discourage you and to make you doubt your authority in Christ over his power (see Luke 4:35, Luke 9:39 and Mark 9:18, 20,26) IGNORE this and use your authority in Christ!
+J. Violent Actions. They may also try to bite, scratch, kick or hit you. One person learned the hard way not to cast out devils with his eyes closed. He got an unexpected blow full in the face!
+K. Bad Odors. At times a bad odor, like sulfur, will come from the person that is under demonic bondage.
+
+2. Emotional.
+1. Depression. A person who is under the power of an evil spirit is often depressed and driven by thoughts of suicide. (1Sam.16:14)
+2. Guilt. These people are also usually filled with thought of guilt, unforgiveness and bitterness. Note Simon, who had a spirit of sorcery: " For I perceive that thou art in the gall of bitterness" (Acts 8:38).
+3. Violent temper. Some of them also have a violent temper and are easily upset. (1Sam. 19:10)
+
+3.Intellectual Conflict and Confusion
+People with demonic bondages often suffer from mental conflict and confusion.
+" In whom the god of this world hath blinded (greek= poroo, to render stupid) the minds of them which believe not…" ( 2 Cor. 4:4).
+
+4 Spiritual.
+a. Resitance to God's word. There is usually a resistance present in the person against God's word and prayer.
+b. Seeing Demons. Some people in Africa say they see " the small little man" the so- called "tikolose".
+
+
+WHAT CAN DEMONS DO?
+(Read Mark 5:1-20)
+
+1. Demons Can Give Great Physical Strength to Men. ( vv.2-4)
+This demon- possessed man had the physical strength of many men. When Jesus asked the demon his name, he replied," My name is Legion, for we are many" (v.9)
+A Roman Legion consisted of three to six thousand troops, and this man had the strength of a legion of demons.
+
+2. Demon Can Work Miracles
+John wrote, " And I saw three unclean spirits like frogs… they are spirit of demons, performing signs" (Rev. 16:13-14). Satan and his demons can thus deceive 'sign seekers' (2Thess.2:9). Don't follow signs. Let signs follow you. (Mark 16:16).
+a. They Are Lying Wonders
+We must be like Moses and Aaron. When the powers of darkness are on display, we show that God's power is greater. (Exo. 7:11,12)
+"Greater is He that is in you, that he that is the world." (1 John 4:4).
+
+3. Demon Can Inspire and Control Men.
+Do not be intimidated by occult groups, false religions, or even merely professing Christians. They all have one thing in common: they deny the Deity of Jesus Christ. You can identify false teachers. All you need to do is ask them if they believe that Jesus is God. (Jn.1:1,14)
+
+4. Demons Can Give Supernatural Power to Men
+Do not seek or accept the services of witch-doctors, sorcerers, or fortune tellers.
+Our Lord calls all the believers to " Come out from among them and be separate… Do not touch what is unclean" (2 Cor.6:14-18). God says we are not to touch the following:
+A. Divination - Those who claim to have secret knowledge of the future ( fortune tellers). This practice is demon controlled. (Ezek. 13:6-8).
+B. Witchcraft - witches will be on the increase in the last days. During Saul's reign one even had spirits with the ability and permission to bring up the dead. (1Sam.28:7-20)
+C. Mediums – those who claim to have familiar spirits (demons). " For all who DO these things are an ABOMINATION to the Lord." (Deut. 18:12). God warned Israel, as they entered the promised land, to be aware of spirit medium, saying: "You shall no learn to follow the ABOMINATIONS OF THOSE NATIONS." ( Deut. 18;9-14)
+D. Idolatry – They were not to worship Molech, who required human sacrifice of young children; the Lord called this demon religion an "abomination". Even Solomon sinned in erecting an altar to Molech. (1Ki. 11:7)
+
+
+WHAT DO DEMONS DO TO PEOPLE?
+The Greek word "daimonizomai" is translated in English Bible " to be exercised by a devil, haa a devil, be vexed with devil. Some feel the English word" Possessed" is too strong a word to accurately convey the meaning of the Greek word "daimonizomai". A more accurate rendering would be "demonized".
+1. They Torment and harass.
+To be demonized is to be vexed (tormented emotionally, mentally or morally).
+a. Emotional torment. "my daughter is grievously vexed ( Gk. Daimonizomai) with a devil
+( Matt. 15:22).
+b. Mental vexation. ' Lord have mercy on my son for he is lunatic and sore vexed (Gk. Pascho- painful sensation) for often he falleth into the fire and often into the water… and Jesus rebuked the devil and he departed out of him.." ( matt.17:15,18)
+c. Emotional Harassment. " and they that were vexed ( Gk .ochleo – to harass) with unclean spirits…were healed (Lk. 6:18).
+d. Moral vexation – " Their came a multitude out with unclean of the cities…. Bringing them which were vexed ( Gk. Akathartos – impure,lewd, foul) spirits and they were healed everyone" (Acts 5:16).
+
+2. They Cause Disease and Affliction.
+Demon can cause blindness.( Matt. 12:22)
+Satan can cause deafness and dumbness to a person. ( Mark 9:25).
+We will end our Part 2 of lesson eight here. We will continue next week on How to Prepare Ourselves in Casting Out Demons. We believe that with so many insights we have learned from this subject, we hope that we will be no longer be overcome by our fears and be intimidated with the forces of darkness. Let us always remember WHO WE ARE in the Lord. We are on the winning side. We are His children, We have been freed from bondage and now been EQUIPPED with the great AUTHORITY , our power against the enemy. God bless you. Walk in victory and see you next week.
+
+
+ASSIGNMENT:
+Memorize 1 John 4:4
+''');
+
+final _ld_Lesson13 = Lessons(
+    lessonNumber: 13,
+    lessonTitle: 'Pushing Out the Enemy in Spiritual Warfare - Part 3',
+    lessonBody:
+        '''An Indian said a black dog lived in his heart, but when Christ became his Saviour a big white dog came to live in his heart, and two dogs were then fighting all the time. After the meeting someone approached him and inquired, “which dog wins, the white one or the black one?” The Indian replied,“ The one I feed the most”. ( The Speaker’s Quote Book )
+
+Welcome back to One Life. We have come to the most exciting part of this subject and that is preparing ourselves in Casting Out Demons. In this section we will continue to learn some very important principles. These principles are balanced. It’s a combination of practical, personal experiences and more importantly it is Bible based.
+
+
+A. SELECT THE DELIVERANCE TEAM
+In the Bible, demons were cast out by Jesus and by anointed empowered disciples chosen by Him to help in this ministry. An OT example of ministering to a demonized person is Saul and David. After David was anointed by Samuel the prophet ( 1 Sam. 16:13), his MUSIC drove the evil spirits from king Saul. (1 Sam. 16:14,23)
+In the NT, many were casting out demons. In the four gospels these included Jesus, the twelve apostles, the seventy and others ( Luke 9:1, 10:17, 9:49).
+In Acts, we see the apostles Peter and Paul and the evangelist Philip involved in demonic encounters resulting in the demons leaving. (Acts 5:16, 8:7, 16:18, 19;12). Peter was a fisherman, Paul was a Theologian, and Philip started out serving tables. This leads one to conclude that since most leaders in the early Church were laymen – this ministry is for ALL who believe.( mark 16:17)
+It is usually wise to follow the example of Jesus in Mark 6:7 “Calling the twelve to Him, he sent them out TWO BY TWO and gave them authority over evil spirits.”
+There is power in spiritual agreement (Matt. 18:19). Deliverance teams ( two to six) may have
+more success than one person alone. When the Lord is with you “ one will chase a thousand, and two put ten thousand to flight…” (Deut.32:30). This indicates two are ten times more powerful than one.
+
+1. Select A Team Leader.
+The team leader is one of the most important aspects of a successful deliverance ministry. In many cases, it is best to use a team of women to deal with women’s problems and a team of men to deal with men’s problems. Deliverance teams frequently have to exercise unclean spirits that drive the demonized persons to deviant or abnormal sexual behaviour. There maybe occasional exceptions, but it is usually more fitting in such cases to use persons of the same sex to help the demonized.
+
+2. Select Team Members.
+The team leader’s most important task is to find men and women who meet qualifications similar to his own. The following qualifications are based on 1 Timothy 3:1-12
+
+
+QUALIFICATIONS FOR LEADERS AND MEMBERS
+
+A. Must Be above Reproach.
+He must not be a polygamist. He must be temperate, self-controlled, respectable, hospitable, not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money. He must manage his own family well and see that his children obey him with proper respect. He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil he maybe trying to cast out. He also have a good reputation with outsiders, not pursuing dishonest gain, so that he will not fall into disgrace and into the devil’s trap.
+
+B. Must Have Faith.
+Choose team members who have demonstrated they have faith. One of the first evidences of faith is one who consistently and persistently seeks the Lord in prayer ( Heb. 11:6). If there is lack of faith on either the part of the person praying for the deliverance or the one desiring deliverance (even though they’re believers), the person will not be set free ( Mark 9:18b, 19,23,24; Matthew 17:19,20)
+
+
+B.TRAIN THE DELIVERANCE TEAM
+
+Once you have selected candidates for your team (s), you must train them. Here are few practical points.
+1. Put on the Armor of God. (Ephesians 6:13-18).
+Without the full armor, you are powerless. Have the trainee open his Bible to Ephesians 6 and read verses13 through 18. As he comes to each piece of armor he should say, “ Lord, I Put on this piece of armor.” Then he should visualize doing just that.
+A. Truth. Read the first verse aloud;
+“ Stand therefore, having your loins girded with truth…” This means you bring your sensual desires under the rule of the Holy Spirit- self-control. The trainee then says, “ Lord, I gird up my loins with the truth of Your Word which says, “ Let no sin therefore reign (rule) in your mortal body, that ye should obey in its lust thereof.” (Ro. 6:12) The verbal declaration is armor against the demons who may seek to use their influence to cause heightened sensuality when you start to cast them out. Your armor protects you from yielding to this temptation and demonic influence. The verbal declaration appropriating each piece of armor is vital. Otherwise the team is not ready for battle.
+
+B. Righteousness
+“ The breastplate of righteousness”. The breast is the seat of the emotions. The emotions of love, affection, anger, etc. must all find righteous expression for reasons explained in the section about selecting team members.
+
+C. Gospel of Peace
+“And the readiness to announce the Good News of peace as shoes for your feet’. If the team member is not ready to share the gospel, he is not ready to be involved in exorcism.
+
+D. Faith.
+“The shield of faith.”The purpose is explained,” to stop the fiery arrows aimed at you by Satan.” This is particularly essential in exorcism.
+
+E. Salvation. “ and take the helmet of salvation”
+Salvation comes from a root Gk.word ‘soteria” from which can be translated DELIVERANCE!
+
+F. Word of God.
+“The sword of the Spirit, which is the Word of God.” This is the only offensive weapon given. The sword of the Spirit , The word of God, means the word of command or the word of authority.
+
+2. Use The word Of Command
+“ and they were astonished for his word of power’ (Luke 4:32) “ and they we’re all amazed … saying. What a word is this! For with authority and power he commandeth the unclean spirits, and they come out”
+(Luke 4:36, Mark 9;25). Use the word of Command with faith. Faith is your shield and protection against the onslaught from the evil one… and he (Jesus) drove out the spirits with a word (Matt.8:16).”What is this teaching? With authority and power he gives orders to evil spirits and they come out” (Luke 4:36).
+
+3. Have The Anointing Of The Holy Spirit.
+For the word of command to bring deliverance to demonized people, you must have the anointing of the Holy Spirit. (Luke 4:18,Matt.12:28)
+The anointing of the Holy Spirit works closely with us as we use our authority in Jesus Christ. (Acts 10:38)
+
+4. Be Flexible in Method
+Note that although there are many lessons we can learn from the ministry of Jesus about deliverance, no specific methods have been put down. The reason for this is summarized in 1 Cor. 12:11. We need to be governed and guided by the Spirit’s actions and impulse upon us when involved in exorcism.
+
+5. Watch out for pride
+Luke 10:20 is a warning that will keep the trainees from stumbling into pride as a result of success in exorcism.
+
+6. Know When To use Prayer and Fasting
+Trainees should remember that some demons can be driven out by prayer and fasting ( matt. 17:21, Marl 9;29) fasting and prayer are only applicable to special stubborn cases or where there is undeveloped faith, to solve the little faith problem.
+
+7. Seek The Lord’s Guidance
+The team must pray and seek the Lord’s guidance before praying for the person in need of help. The Holy Spirit will give you insights to help in casting the demons out. ( John 8:47, 1Co. 12;1-11)
+
+
+C. CONDUCTING THE DELIVERANCE SESSION
+
+1. WHERE?
+Room or Location
+a. Away From Crowds. Do not cast out demons where a crowd is present ( especially if they’re non-Christians). Jesus quickly rebuked the evil spirit and cast it out when He saw an inquisitive crowd approaching. ( Mark 9:25)
+b. Physically safe. There are cases where an unclean spirit has left one person and entered into an inquisitive unbelieving onlooker. Some church leaders prepare a room with carpet or quilts on the floor and pillows around the wall. This padding prevents the demonized person from physically injuring themselves . Often the demonized writhe and flail as demons are about to depart.
+
+2. HOW?
+a. Start with Praise and Worship
+When involved in deliverance, it is good to start with praising and then worshipping God in the Spirit. (Jn.4:23,24). Praising God BUILDS your faith ( Rom.4:20). Declare the victory you have over Satan. “ And they overcame him (the Devil) by the blood of the lamb, and by the WORD of their DECLARATION ( TESTIMONY – CONFESSION) “ Rev.12:11.
+Worship brings the manifest presence (the anointing) of the Holy Spirit into the situation. Anointed musicians playing their instruments and singers worshipfully adoring Jesus can create an atmosphere where the Holy Spirit’s will can be more readily implemented. (2Ki.3:15)
+
+b. Declaration of Faith By the Demonized Person.
+Have the demonized person kneel and acknowledge (say it with his mouth): “ My deliverance comes only through Jesus and His victory over the devil and his angels. I believe Jesus is Lord! I bow my knee and I confess this with my mouth and I declare: “ That at the Name of Jesus every knee shall bow , in heaven ( the angels and saints), and on earth (those that believe on Jesus), and under the earth (the demons) (Phil.2:10.)
+“… I know the truth, and the truth will set me free… So if the son sets me free, I will be free indeed” ( Jn. 8:32,36).
+
+c. Use The Name of Jesus Christ
+Use the Name of Jesus Christ to enforce the victory He gained over Satan and his forces: “ ….God exalted him to the highest place and gave him the name that is above every name….(Phil.2:9). Mark 16:17 says,”… In my name they will drive out demons…”
+
+d. Speak With Authority
+It is the result of the shedding of the blood of Jesus on the cross that you have the victory over Satan and his forces (Rev.12:11). With this in mind, talk to the demons with words of command ( authority) and tell the demon exactly what it must do. BELIEVE that your words will result in the devil’s releasing their grip of bondage on the person concerned, and leaving. The grip is ”on” the person when the devil is oppressing him from the outside, and “in” the person when the evil spirits has come into his body, soul and spirit and bound him physically, emotionally, mentally or spiritually. Do not ask God to deliver the person. All His authority has been given to you ( Luke 10:19; Eph. 1:19-23). You are now the one to ACT in the place of Christ.
+
+e. Rebuke And Command spirits To Leave
+Rebuke the devil and command the unclean spirits to leave the person. ( Mark 9:25, Acts 16;18)
+
+f. Keep Sessions Short
+When a person falls into a trance, it may be more difficult to drive out. You can spend hours and tire yourself out. This may be because the evil spirit is not prepared to leave his victim. However, if a person is prepared for deliverance (by proper teaching and following the steps outlined above), everything can be over within minutes.
+
+g. Do Not Lay Hands On The Demonized Person.
+Remember, unless directed explicitly by the Holy Spirit to do so, do not lay hands on a person when you drive out demons. Jesus and Paul drove out demons. Jesus and Paul drove out demons with a command word of Authority.
+You lay hands on people to bless them ( Gen. 48:14-16, Matt. 19:14,15;)., to heal the sick (Mark 6:2,5; Lk.4:40;Acts 19:11,12), to impart the gift of the Holy Spirit, (Acts 8;17, Ac. 9:17,.19;6) and to put a public seal of approval o faithful servants of God (Nu.27:18-23). But you normally do not lay hands on demonized people. While there is no direct scriptural
+command against this, 1Tim. 5:22 says “ Do not be hasty in the laying on of hands…” Sometimes by laying hands on a person who comes to be delivered, you may be catering to the demon’s demand for attention and acceptance. Identifying with a demon in that way CONTAMINATES your spirit, especially if you are not walking in total uprightness in your own life.
+
+We have learned so much from this point. It is our prayer and desire that our learning would truly become an integral part of our system as a child of God. Let us always remember we are always on the winning side. Jesus came to destroy the works of the devil and our authority is NOW restored. Our understanding of who we are determines the success of our battle. Always remember WHO YOU ARE!
+Next week we will continue to learn one of the most neglected part of this ministry and that is the importance of follow up after the deliverance. We hope that our lesson today have strengthened your leadership skill and faith. May God bless all of us.
+
+
+Assignment:
+Memorize Luke 4:18, Acts 10:38
+''');
+
+final _ld_Lesson14 = Lessons(
+    lessonNumber: 14,
+    lessonTitle: 'Pushing Out the Enemy in Spiritual Warfare - Part 4',
+    lessonBody: '''“Prayer is our highest privilege, our gravest responsibility,
+and greatest power God has put into our hand.” ( The Kneeling Christian )
+
+“ Do not pray for easy lives. Pray to be a stronger person.
+Do not pray for tasks equal to your powers, but pray for
+Powers equal to your tasks.” (Phillip Brooks)
+
+Welcome back to ONE Life. After the four sessions of learning together about this interesting subject on Demonology, we hope that we have now a proper perspective on how the spiritual world operates in this physical world. We shall now seal this with the most important part of the Deliverance ministry and that is “Follow Up Ministry”. We consider this as vital because we have seen many of those that had been delivered yet became worse after the process because the Deliverance team forgot to make Follow Up!
+These are some important Reminders that we need to follow:
+1. Make Sure The Exorcised Person…
+a. Memorizes Scripture. It is important to give the exorcised person suitable portions of Scripture to memorize so he can resist the devil if and when he tries to return and attack him ( Luke 11: 24-26, Galatians 5:1 ). Teach the person to follow Jesus’ example when Satan tried to destroy him. Jesus quoted Scripture to defeat ( Matt.4:4, 6,7, 10 )
+b. Understand The Believer’s Authority. Teach the person about his authority as a believer and to put on the full Armor God ( Eph.6:10 – 18 and 2 Cor. 10:3 – 5)
+c. Affirms His Deliverance. Have the person read John 8:36 aloud. Encourage the person to verbally affirm ( speak with his own lips) that he has been delivered and Jesus has set him free, just as He promised. ( Ro. 10:9; 1 cor. 15: 57, Col. 2:15)
+d. Lives A Holy Life . Teach him that it is essential to live a clean, holy, separated life of of total commitment to God. ( Rom. 12:1-2)
+e. Forgives Those Who Wronged Him. It is very important that a person through his own free choice walk in a life of the total and continual forgiveness. Teach the person the importance of forgiving , and continuing to forgive anyone who has harmed him in the past.
+Satan will try to bring back the thoughts of wrong done to him, to induce an unforgiving spirit. IF Satan succeeds, this gives demons legal grounds to further oppress the person. Here is how to defeat Satan’s strategy and frustrate the devil ( teach the following to the demonized): Take every occasion of remembering a wrong to forgive. When you remember a wrong, say it aloud, “ Thank you Satan, for causing me to remember. I forgive (name the transgressor) for the wrong committed against me”( Matt. 5:21-26, Matt. 6;14,15)
+
+This will frustrate the Devil so much, he will quit harassing the person. Stress that if the newly delivered person fails to do this he has opened a door for Satan to come back in and torment him ( Matt. 18:21-35)
+
+2. Additional Sessions may Be Needed
+“Many years ago in Asia, a woman who had a spirit of adultery received Jesus Christ as he Lord and Savior. However, the demonic bondage was not broken. She was like Mary Magdalene in the Bible. She would have sex with up to six men a day. She was deeply distressed and wanted to be FREE!. During the first Deliverance Session, she went on the floor, hissing and writhing like a snake as the demons began to leave. After fifteen minutes she was physically and emotionally exhausted, so we sat her up. When she gained her composure, we set a time for her to attend to attend a second teaching session and gave her more scripture to memorize. After the first session, her obsessive sex drive was broken and she stopped her immoral lifestyle. However, she still had no natural affection for her husband. “Unto the woman God said,…your desire shall be for your husband…” (Gen.3:16). When she was ministered to the second time, the hissing and writhing continued, but not as severe as the first time. More demonic bondage was broken. She went home from the second session with freedom to love and live with her husband in a normal way, completely healed. It took two sessions, but her freedom was complete. If three sessions do not totally free the person, then either his desire for freedom is not strong, or you are lacking the spiritual authority and faith. In such cases, have the person and the deliverance team to commit themselves to seven days of fasting and prayer, then try again. Ask The Lord to show what the hindrance is. When He does, ask for a Word of Wisdom as to what is required to remove the hindrance. Then do what the Holy Spirit says.” – Ralph Mahoney
+
+3. DELIVERANCE IS NOT…
+a. Promoting Vomiting. Deliverance is NOT to give the person coffee, tea, or water to drink so he can vomit the devil.
+b. Giving Baths. Deliverance is NOT to bathe the person in icy cold water so that the unclean spirit must leave!
+c. Whipping or Beating. Deliverance is NOT to tie him to a tree and beat him with a stick or whip to drive out the evil spirit.
+d. Striking back. Do not assault the person or attack him if he gets violent with you. Remember, it is In reality not him, but the demon in him. Let others help restrain him.
+e. Verbal Torture.
+Deliverance is not to say to the devil,” I torture or torment you with the blood of Jesus Christ.”
+This five (5) practices may sound strange and comical, but many such unscriptural practices of deliverance take place around the world. Such can do more harm than good nd bring discredit to the Name of Jesus.
+
+4. BE ENCOURAGED
+When you involve yourself in spiritual warfare and deliverance, God says:” Be strong and courageous because you will lead these people to inherit the land I swore to their forefathers to give them ( Joshua 1:16).
+a. Christ has Won the Victory. Our salvation, our deliverance and our redemption from all works of Satan have been accomplished by Jesus for us. When He uttered those words “IT IS FINISHED,” It was like hoisting the flag of the victor over a liberated land where the battle had been fought, where the enemy has been conquered and forced to surrender. Christ, the “captain of our salvation and the author and finisher of our faith” ( Heb. 2;10; Heb.12;2) came to this world and defeated our enemy Satan!
+b. Demons Have No legal rights. But why, then, are so many still oppressed by spirits of infirmity, sickness and disease? Because, though our property has been liberated from the enemy, though satan’s reign has been destroyed by Christ, …there remains a host of demons who continue to resist our freedom and resent our victory. Demon spirits have no legal right to continue oppressing and afflicting believers with disease and infirmity but demons are aware that most people do not know that Satan has made a SURRENDER AND HAD BEEN DEFEATED! … SO DEMONS CONTINUE THEIR ILLEGAL OPPOSITION TO BELIEVERS’ HERITAGE in Christ!
+
+c. Demons Will Be Judged! ( 1Cor.6;3)
+God’s word says “we shall judge angels.” Satan and his angels have already been Judged and sentence has been passed. Some fallen angels are already chained in darkness, awaiting execution of the judgment (Jude 6). Others, including Satan have been allowed to continue their evil work of accussing the betheren, buffeting the saints and opposing the will of GOD!
+( Job 1:6-11)
+
+1) By Christ and His Bride. The Lord’s final act, executing judgment on Satan and his demons, will be shared with His bride, The Church. We will be implementing the sentence that has already passed on the devil and his angels. JUDE 6 tells us that the execution of the sentence will judicially be carried out at ‘THE JUDGEMENT DAY”. The ‘Great Day” is the “Day of the Lord” (Isa. 2:12-22, Matt. 25:41-46, 2Pet.3:8, Rev. 20:1-3,7-9; Rev. 20;10,Matt.25:41)
+
+We have learned so much of our learning and with this we are ending our study.
+
+However, we still believe that the study of Demonology is a continuous learning. Continuous, because it is supposed to be a day to day experience with the Holy Spirit. With the learnings that we have from our previous lessons It is our prayer that as we are now equipped to go to the battle, if the Lord would give us opportunities to exercise our legal rights over the forces of darkness, let us always remember our authority “ …to trample on snakes …” ( Luke 10:19, Acts 1:8) and the commands to “preach the good news… and these signs will accompany those who believe”, In Jesus Name “ the WILL DRIVE OUT DEMONS” (Mark 16:15, 17 NIV).
+
+May this lesson euip us to become effective leaders and to draw us more closer to Him. To God be the glory! Amen.
+
+
+ASSIGNMENT:
+Memorize the following verses.
+1. Mark 15:15 -17
+2. Hebrews 12:2
+''');
+
+final _ld_Lesson15 = Lessons(
+    lessonNumber: 15,
+    lessonTitle: 'I Am Empowered To Evangelize - Part 1',
+    lessonBody:
+        '''Every Saturday evening for over forty years, a servant of God stood on a certain street corner handing out gospel papers to the passersby. And then he stopped. Discouraged because he saw so little fruit, he abandoned his post. Some years later, he happened to drop by on the same spot and saw a young man standing there and gave him a gospel track. He stopped and addressing the young man, he said, " How is it that you are here tonight?" "Well, sir, it is like this. An old man occupied this corner for years; I was saved by means of a tract he gave me. Evidently the old man is in heaven now for I've missed him here, and so I am seeking to fill his place." Tears filled the eyes of the older Christian as the young man thus spoke. " I am the man who gave you that tract." And he said, " and by the grace of God I mean to stand my place until Jesus comes." (Peter J. Pell)
+
+Today we are going to study another interesting topic. For the past months that we are learning some basic facts about Christian leadership, we are trying to lay down some foundational teachings to be able to increase our leadership abilities that will eventually lead to ministry growth. The subject on Evangelism is as vital as other subjects that we learned from this One Life class. The aim of this learning is to open our understanding to the teaching and commands of our Lord Jesus Christ before He went to heaven and is seated at the right hand of God The Father.
+We would like to start by saying that WE ARE ALL EMPOWERED TO EVANGELIZE. The apostles were discipled by our Lord Jesus Christ to prepare them for a greater task and TO DO EXACTLY WHAT JESUS WAS DOING. The following verses are common and yet these are the most misunderstood scriptures in the Bible:
+Matthew 28:19-20
+Mark 16:15-17
+
+These are the two accounts in the Bible whereby The Lord Jesus himself commanded the disciples to go and do it before he returns on hHs second coming. As a church, we are also given this task to fulfill this great commission. The great challenge is HOW? Great evangelist Dr. T.L. Osborn and Dr. Ralph Mahoney, a missionary to China for several years shared their thoughts about this issue.
+
+
+WHY SHOULD WE EVANGELIZE?
+
+SEVEN (7) REASONS FOR WINNING SOULS
+1. Because Jesus Was A Soul Winner.
+" This statement is completely reliable and worthy of universal acceptance, Christ Jesus came into the world to rescue sinners…" (1 Tim 1:15)
+" For the Son of Man came to seek and to save that which was lost" (Luke 19:10)
+
+a. Jesus Came to Save People.
+That is His mission. The first group Jesus chose to follow Him received this challenge:
+" Follow me and I will make you fishers of people" ( Matt. 4:19)
+The last group who followed Him out to His ascension received this command:
+" Go therefore, and make disciples of all nations, baptizing them in the name of the Father, and the Son, and the Holy Ghost, teaching them to observe all things whatever I have commanded you…" (Matt. 28:19-20 )
+" But ye shall receive power, after that the Holy Ghost is come upon you and ye shall be my witnesses unto me both in Jerusalem, and all Judea and Samaria, and to the uttermost part of the earth" (Acts 1:8) The word CHRISTIAN means Christ – like. Christ came to save people, to seek out of the lost; so if we are to be like Christ, we are also to be soul – winners.
+
+b. Jesus Went Where The people Were.
+Jesus took his message to the people. He went wherever the people were – in the market places, on the street corners, on the mountainsides, by the seashores, in the homes.
+He was criticized by the religious leaders for identifying with people where they were. "This man receives sinners and eats with them" (Luke 15:2 rsv). He encourages us to " go out into the highways and hedges, and compel them to come in that my house maybe filled" (Luke 14:23). He never said ” go to a church building and pray for God to send people in". He said, " go out and compel them to come in, that my house maybe filled." After his ascension, Jesus’ followers acted just like Him. They were busy witnessing in the markets, on the streets, in houses, around the public wells, talking, reasoning, witnessing, persuading, preaching, winning souls, compelling people to believe the gospel – JUST LIKE JESUS DID!
+The Bible says, "DAILY in the temple and in every house, they never stopped teaching and preaching Jesus Christ (Acts 4:2). Take a moment to circle the word "daily" in your New Testament. While churches seldom have more than two or three meetings a week, the gambling casinos, the cinema theaters, the bars that serve liquor, amusement parks and dance halls are doing business DAILY! New Testament Christians were daily in the temple and in every house, teaching and preaching Jesus Christ.
+
+c. Jesus Commissioned The Church " Go Out And Get Them".
+We pray for people to be saved. Jesus said, "Go out and get them" They will be lost if all we do is pray." God has reconciled us to Himself By Jesus Christ, and hath given to us the ministry of Reconciliation. (2 Cor. 5:18,19) God has given to us both the ministry and Word of Reconciliation to reconcile men to God. God has done all He can do. (John 3:16). Christ has done all he can do. (Col.1:20). Now He commissions us to tell this good news to all people everywhere. " For whosoever shall call upon the name of the Lord shall be saved…." (Rom. 10:13,14)
+Our part is to tell people, to let them know the good news of what our heavenly Father and his Son have done to us. WE SHOULD ALL BE SOUL – WINNERS BECAUSE JESUS WAS.
+
+
+2. BECAUSE THE HARVEST IS GREAT
+"Then saith he unto his disciples, the harvest truly is plenteous, but the laborers are few" (Matt. 9:37) "…When he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd" (Matt. 9:36).
+
+a. Jesus Sent Laborers Into The Harvest Fields.
+When Jesus pondered on these needy multitudes, what did He do? He called the twelve disciples, gave them power to cast out, to help the sick and sent them out to help reap this harvest. Because of the great harvest, He chose seventy others also (see Luke 10:1-3). To them He said, "behold I give unto you power to tread on serpents and scorpions, and over all the power of the enemy and nothing shall by any means hurt you" (Luke 10:19).
+Jesus did something about this ripened Harvest. He did not just sit and ponder upon it and pray about it. He set about getting laborers out into these Harvest fields. We also can be moved with compassion toward those who are untouched by the gospel. If we are "Christ – like" – we will become involved doing something about sharing the gospel with them.
+b. We Must Go Out.
+Soul winning is done where the people live, work and play. It is vital we re-emphasize this basic principle in soul winning. We do not go fishing in our bathtubs. If we expect to catch fish, we cast our net out in the ocean or lake. We put our fish bait and hook into the river or stream – OUT WHERE THE FISH ARE. We reap our harvest in the fields, out where the grain stands ripe and ready to be harvested. We seldom win souls by staying inside our church building. To reap the unconverted, we carry our witness away from our sanctuaries, out into the markets, onto the streets, in jails, hospitals, in the homes of people, OUT AIMING THEM. THIS IS EVANGELISM. Hindus do not go to church. Moslems do not enter a Christian temple. Shintoists and Buddhists do not attend Christian worship. The unchurched do not come to church. WE MUST GO OUT "…. Into the highways and byways and compel them to come in.." ( Luke 14:23) There is an ELEMENT OF URGENCY when harvest comes. If the fields are not quickly reaped, the harvest may perish in the field. Storms may come and damage the wheat or corn. If not harvested quickly, fruit can over ripen and spoil. Paul urged his own sense of urgency on others- "But this I say, brethren, the time is short…" (1 Cor. 7:29). If we really want to reap the harvest of our generation, the secret is to rediscover the urgency, passion and zeal of the early church. Those Christians went out across cities and villages and in constant pursuit of souls – even at the risk of their lives. This is being Christ-like. THIS IS TRUE CHRISTIANITY!
+
+c. Mobilize To Evangelize.
+As church leaders, it is our place to start the process of praying, mobilizing and planning soul winning. The order in the ministry of Jesus was this:
+
+1. SEE. Jesus saw the Harvest and was moved with compassion.
+2. PRAY. He then went to prayer, as the means to solve the problem of laborers for the harvest. (Luke 6:12).
+3. CHOOSE. After prayer, He selected laborers – the twelve and the seventy – and trained and equipped them to go out and reap the harvest.
+
+He SAW – Now He wants us to see. " …behold, I say unto you, Lift up your eyes, and look in the fields; for they are white already to harvest." (John 4:35)
+
+He PRAYED – Now He wants us to Pray. You " …Pray to the Lord of the harvest that he would cast out laborers into his harvest…" (Matt 9:37)
+
+He CHOSE – Now he wants us to choose. "Brothers, choose … men who are known to be full of the Spirit… turn this responsibility over them" (Acts 6:3)
+
+These simple of Actions – SEE, PRAY, CHOOSE – will start the process of ingathering.
+OUR MOTTO: EVERY CHRISTIAN, A WITNESS!
+OUR MISSION: OUT WHERE THE PEOPLE ARE!
+This is the second reason we are soul winners: The Harvest Truly is Great!
+
+
+3. BECAUSE THE LABORERS ARE FEW
+
+"Also I heard the voice of the Lord, saying, ‘Whom shall I send and who will go for us?’, Then I said, here am I, Send me" (Isa. 6;8)
+
+A. Billions Need To Hear.
+The number of living persons in the world is increasing at the rate of over 70,000,000 each year. Less than 3,000,000 (4%) of these are touched by the gospel. About 40% of the people (2,000,000,000 – two billion) in the world are outside the reach of the gospel. These are people outside the reach of a self-reproducing church group who will share the gospel with them.
+
+B. They Will Be Lost Without Christ.
+These unevangelized will never hear the gospel unless you take action to break this "famine for the word of God" (Amos 8:11) Mobilizing and training soul-winners to go out where the sinners are is the only solution to this dilemma. Thousands of towns and villages across China and India still have no one to tell them about Christ. Those people live and die without Christ – not because they have rejected Him, but because during the last 2,000 years, not one Christian has gone to share with them the gospel of His love. Less than one out of five hundred church leaders dedicate their lives to reaching unreached peoples. We need a recommitment to the principles embraced by the apostle Paul:
+"Yea, so have I strived to preach the gospel, NOT WHERE CHRIST WAS NAMED, lest I should build upon another man's foundation" Paul always set out " To preach the gospel in the REGIONS BEYOND…" (2Cor. 10:6) – out where people had not yet heard about Christ.
+Peter also understood " The Lord is not slack concerning his promise … not willing that any should perish, but that all should come to repentance" (2 Pet. 3:9). IT IS NOT GOD'S WILL that men perish. They perish because we have not given them the gospel.
+No wonder Paul was so passionate about this issue. "Awake to righteousness and sin not; for some have not the knowledge of God: I speak to your shame" (1Cor.15:34)
+
+Three (3) Important Points Are Made:
+1. The Church Sleeps. People are lost because the church is sleeping. The call is "Awake to righteousness…." "he that sleepeth in harvest is a son that causeth shame…" (Prov. 10:5)
+2. It Is A Sin. It is sin that people do not know about God. We are admonished, ' sin Not for some have not the knowledge of God…" this is a sin of OMISSION. " Therefore to him that knoweth to do good and doeth it not, to him it is sin. ( James 4:17).
+3. It Is A Shame. This fact is a cause for shame. (loss of face). " I speak to your shame…" "he that sleepeth in harvest is a son that causeth shame." (Prov. 10:5). The woeful lament of the lost rises up to heaven, "The harvest is past, the summer is ended, and we are not saved" (Jer. 8:20) This dreadful condition exists because THE LABORERS ARE SO FEW. "Pray ye therefore the lord of the harvest, that he will send forth laborers into his harvest' (Matt. 9:38) We are soul-winners because THE LABORERS ARE SO FEW.
+
+We have learned so far how valuable it is to Evangelize those who are lost. We see the future of these souls if nobody would tell them about the love of Christ. We hope and pray that the lessons that we have learned today would create a thirst in our spirit and develop a compassion just like of the Lord Jesus Christ so we can be a church that does the WILL of God. May we be find faithful fulfilling the Great Commission with zeal of the Spirit. Will continue the last four reasons for winning souls next session. God bless.
+
+
+ASSIGNMENT:
+Memorize Luke 19:10
+2 Peter 3:9
+''');
+
+final _ld_Lesson16 = Lessons(
+    lessonNumber: 16,
+    lessonTitle: 'How to Follow Up A New Believer',
+    lessonBody:
+        '''“Praise does wonders for our sense of hearing.” - Arnold Glasglow
+
+“ There are high spots in our lives, and most of them have about through encouragement from someone else. I don’t care how great, how famous or how successful a man or woman maybe, each hungers for applause.” - George Matthew Adams
+
+Welcome once again to One Life. It’s been weeks now that we focus our study on evangelism and missions. We have learned how important this area is in our ministry. Let us quickly do some review. We understand that the church has three (3) very important tasks. One is our ministry to the Lord and that is Worship. Secondly, our ministry to the church; this is the ministry of Edification or the Inward Task where we do our discipleship, prayer and equipping. The third is the Outward ministry; our mandate to evangelize and do missions. These are clear, concise and challenging work.
+
+However, the most challenging of all is How to Follow Up the harvest. According to Mark Anderson, director of YWAM, the hardest part of their evangelistic campaign is the follow up of the new converts.
+
+In fact, the Billy Graham’s Evangelistic Crusade created a strategy. They have formulated three stages of their campaign:
+1. Preparation Stage. This is the time that they conduct inspection on the site, meeting the leaders in the area. This would also be the best time to organize committees especially the prayer group.
+2. Proclamation Stage. This is the highlight of the event. An Evangelist or a group of performers may do this part.
+3. Preservation Stage. This is the most challenging part of the activity. This time the group has to provide extensive training on follow up for Bible study and discipleship classes.
+In most evangelistic crusades , the third stage is the common failure. Dr. Anderson explained how they overcame this dilemma. They have divided their time according to the need of the activity. He said that they have spent 45% of their time for the Preparation and 10% in the Proclamation and another 45% in the Preservation. So, as we look at it, we see the importance of Preparation and Preservation. Knowing that they have taken the 90% , it shows that we have to give extra focus on these areas. On the other hand, we do not want to jeopardize the gospel message of salvation, that even if it’s only the 10% of the whole we have to Proclaim it with conviction and without compromise.
+
+Together let us learn some of these principles and apply what we thought are best to our situation:
+1. Pray regularly by name for each individual who has made a decision during the event. The leadership team and prayer servants should be praying fervently for the protection of these individuals.
+2. Follow-up within 48 hours after an event or proclamation of the gospel.
+3. Send a letter of encouragement from the evangelist, pastor, or speaker within the week.
+4. Prayer servants need to contact new Christians within the week and encourage them to attend “New Christian” Bible studies.
+5. Plan a social event soon after the evangelistic event and specifically invite individuals who have made decisions during that event. This focuses on relationship-based follow-up.
+6. The staff will see if names have been followed up on and invited to Bible studies.
+7. Continue to pray for individuals throughout the year.
+
+Looking at these, there are some points that we can consider to adopt and become a part of our strategy for follow up. What do you think are those points? We may write the ideas in a separate paper.
+
+Here is another article from ChurchLeaders.com written by Pator Ron Edmondson on 5 types of Church visitors and how to deal with them:
+
+One thing pastors love is church visitors.
+Really, what we like even more is church visitors who become regular church attendees, but that process begins with visitors.
+It’s always a mystery why some visit a church and never come back. Those reasons may be the subject of another post, but one thing I’ve learned, much of the chance for return depends on why the person chooses to visit in the first place.
+I have discovered there are basically 5 types of visitors to a church:
+
+Testers
+These visitors are just looking around…perhaps for a new church…perhaps because they are dissatisfied where they currently attend church.
+They may feel they are not growing at their current church, or they aren’t completely satisfied with the leadership, the programs, or the opportunities for service available. If testers find what they are looking for, they’ll be back, but most likely, there is a specific fit they are seeking.
+I wouldn’t suggest altering things to keep them, but make sure their questions are answered.
+
+Pleasers
+These visitors are usually coming to appease someone who asked them.
+They have less interest in attending church than they have in satisfying the request of a spouse or friend. This is not a bad way to get them at first, and I’m always happy to have them, but it is harder to get them to stick unless God moves in their hearts for attending church to become their personal desire.
+For these visitors, the person inviting them is just as important as the visitor in keeping them, but help the pleaser feel welcome, don’t make them feel uncomfortable, and you’ve got a good chance of seeing them return.
+
+Seekers
+These are people who know they are missing something in life but aren’t sure what it is.
+Church may simply be another option, or it may be the only option, but these are the true unchurched. These visitors are a mission field.
+If we introduce them to Christ, they become forever loyal to the church where they found Him
+
+Jumpers
+These visitors seldom stay long at one church.
+They get upset at something the church does, the church enters a building program that scares them away, or they simply grow bored. Likely, they’ll only stick for a while at the new church, too, so don’t be take it personally if they disappear, as it may not be anything you did or didn’t do.
+Enjoy them while they are with you.
+
+Investors
+Most likely, these people moved to your community or some major issue caused them to leave their current church.
+These visitors are active church attendees looking for a new long-term home. They are ready to quickly commit and serve.
+It’s important to plug these people in as soon as possible.
+Again, churches love visitors. In fact, we like any of these five types.
+Knowing why someone is visiting your church, however, often helps the way you respond to them and gives you a better chance of keeping them.
+I wouldn’t recommend you ask them which of these they are, but it’s good to have in the back of your mind as you get to know them.
+Here is another idea on Making a good sell through a systematic follow up. This is from the site of Ajeva Freelance. This is on the business of selling. But there are some practical wisdom that we can learn and apply to this ministry. These are the following.
+
+1. Taking Mental Notes
+During an interview, take mental notes on what your potential clients are interested in. Find any topic that can spark a future conversation. It can be anything – from cheeseburgers to stock market news. You can follow up the next day on this topic, just to refresh their memories about you.. in a professional way.
+2. Being Persuasive
+There’s a thin line between persuasion and being too pushy. If you plan to send a follow-up note, don’t forget to thank the recipient first for doing an interview with you last time. You can always ask for the timeline of the project and don’t make the clients feel they have to rush in making a decision. Just thank them for the opportunity of considering you for the job.
+3. Playing It Safe
+Another way of following up with grace is to ask your prospects if they would love to receive email newsletters from you instead, or if they want to be added to your Facebook, Twitter, or LinkedIn list. Always make that connection. They may not need your services now, but who knows?
+4. K.I.S.S.
+Keep it short and simple! Write a follow up email that grabs your reader’s attention without going overboard. Keep a professional and friendly tone. Sometimes, we just don’t know how we sound in our emails so you can grab a friend and get an honest opinion, before you click on send. Start with a ‘hi’ or ‘hello,’ a reason why you’re writing the mail, a word of gratitude, and how the client can keep in touch with you.
+5. Keeping It Under 48 Hours
+From sending follow-up emails, making a phone call, leaving a voice mail, to sending bids – you must do it within 48 hours ( or self-destruct ). This will show your interest on the work. If you want your TV repaired and you got a call from after sales service after 14 days, how would you feel? Don’t keep opportunities waiting; They have wings.
+
+Combining these insights plus our personal experiences in career and church, we can somehow improve and give our excellence in this challenging part of the ministry. Presently let us evaluate our Follow Up system of our church. If you rate our follow up ministry from 1-10 how much you can give and why?. We hope that upon learning this lesson we will grow together as leaders the what God want us to be. God bless ROL!
+
+
+Assignment:
+Memorize Acts 15:31-32
+''');
+
+final _ld_Lesson17 = Lessons(
+    lessonNumber: 17,
+    lessonTitle: 'Doctrinal Approach: Intentional Discipleship',
+    lessonBody:
+        '''Welcome back to One Life. The past weeks of learning were an enlightening experience for all of us. Now we see the value of follow up. We hope and pray that we see changes in our leadership especially in dealing with this gray area of our ministry. Let us always remember that "The Preservation Stage" is as important as the "Presentation Stage".
+Today, a new lesson will be introduced. We have been contemplating on finding the right approach in teaching the new believers to a systematic growth that will end up into a picture that Paul would like to see in the church of Ephesus.
+
+Ephesians 4:11-13
+11 It was he who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers,
+12 to prepare God's people for works of service, so that the body of Christ may be built up
+13 until we all reach unity in the faith and in the knowledge of the Son of God, and become mature, attaining to the whole measure of the fullness of Christ.
+
+The message of this passage is simple: teaching the new believers the right system for them to become mature and later become disciples and leaders of our Lord Jesus.
+
+There are four prevailing approaches to Bible studies and all of these are proven to be effective:
+
+1. Good News Bible Study Course - Gospel of John approach.
+2. Bible Book study using Gospel of John or Book of Romans.
+3. Sunday School extension, using Sunday School members to teach Sunday school lessons.
+4. Doctrinal Approach. This approach is intentional. We call it intentional discipleship. This is to teach the new believers foundational or doctrinal teaching on the basics of faith.
+
+The number four (4) approach is what we would like to take up. This is because we want to see new believers being rooted in the basic truths so that they will not be swayed by false teachings (2 Pet 3: 17-18 “Therefore, dear friends, since you already know this, be on your guard so that you may not be carried away by the error of lawless men and fall from your secure position. But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.) Alongside, we are also teaching them how to be intimate with the Lord.
+
+Before we go any further, let us just review our evangelistic and discipleship program for ROL:
+ As One Life team member, now that you are finished with Lesson 10 and the 4 Spiritual Laws, it’s about time to pray for people whom the Lord wants you to reach, share the gospel of salvation, and disciple to become a mature believer and eventually, a leader.
+ You are now a Life Coach since you will be handling your own Life group that meets at least once weekly.
+ Carefully follow the Bible study guide.
+ Pray and plan for the first invitation to church service and other church fellowships
+ Pray, teach, and model the Biblical principles so that your disciples will become leaders themselves, able to have their own Life groups and passionately lead others to Christ
+ Always celebrate success
+''');
+
 final List<Lessons> nblessonsList = [
   _nb_Lesson1,
   _nb_Lesson2,
@@ -3760,4 +6780,55 @@ final List<Lessons> nblessonsList = [
   _nb_Lesson40,
   _nb_Lesson41,
   _nb_Lesson42
+];
+
+final List<Lessons> mtlessonsList = [
+  _mt_Lesson1,
+  _mt_Lesson2,
+  _mt_Lesson3,
+  _mt_Lesson4,
+  _mt_Lesson5,
+  _mt_Lesson6,
+  _mt_Lesson7,
+  _mt_Lesson8,
+  _mt_Lesson9,
+  _mt_Lesson10,
+  _mt_Lesson11,
+  _mt_Lesson12,
+  _mt_Lesson13,
+  _mt_Lesson14,
+  _mt_Lesson15,
+  _mt_Lesson16,
+  _mt_Lesson17,
+  _mt_Lesson18,
+  _mt_Lesson19,
+  _mt_Lesson20,
+  _mt_Lesson21,
+  _mt_Lesson22,
+  _mt_Lesson23,
+  _mt_Lesson24,
+  _mt_Lesson25,
+  _mt_Lesson26,
+  _mt_Lesson27,
+  _mt_Lesson28,
+];
+
+final List<Lessons> ldlessonsList = [
+  _ld_Lesson1,
+  _ld_Lesson2,
+  _ld_Lesson3,
+  _ld_Lesson4,
+  _ld_Lesson5,
+  _ld_Lesson6,
+  _ld_Lesson7,
+  _ld_Lesson8,
+  _ld_Lesson9,
+  _ld_Lesson10,
+  _ld_Lesson11,
+  _ld_Lesson12,
+  _ld_Lesson13,
+  _ld_Lesson14,
+  _ld_Lesson15,
+  _ld_Lesson16,
+  _ld_Lesson17,
 ];

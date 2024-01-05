@@ -75,7 +75,7 @@ class MyHomePage extends StatelessWidget {
                     context,
                     MaterialPageRoute(
                         builder: (context) =>
-                            NewBelieversLessons(lessonsList: nblessonsList)),
+                            NewBelieversLessons(nblessonsList: nblessonsList)),
                   );
                 },
               ),
