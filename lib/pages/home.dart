@@ -1,4 +1,3 @@
-import 'dart:ui';
 import 'package:tifmoroli_onelife_app/components/logo.dart';
 import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/components/square_tile.dart';
@@ -91,7 +90,9 @@ class MyHomePage extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (context) => const MentoringLessons()),
+                        builder: (context) => MentoringLessons(
+                              mtlessonslist: mtlessonsList,
+                            )),
                   );
                 },
               ),
@@ -107,7 +108,9 @@ class MyHomePage extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (context) => const LeadershipLessons()),
+                        builder: (context) => LeadershipLessons(
+                              ldlessonslist: ldlessonsList,
+                            )),
                   );
                 },
               ),

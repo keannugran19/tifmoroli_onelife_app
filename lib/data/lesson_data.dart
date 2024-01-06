@@ -10,52 +10,53 @@ final _nb_Lesson1 = Lessons(
 Most people are aware of sin. However, many people don't know or perhaps don't realize the devastating effect of sin upon their moral, constitutional and physical being. It is vital, therefore, that every Christian must understand the dreadful effect of sin, so that he will desire to walk uprightly.
     
 I. What is Sin?
-The basic definition is - rebellion against the will of God.
-Hebrew (Strong Concordance)
+  The basic definition is - rebellion against the will of God.
+  Hebrew (Strong Concordance)
 
-    1. Rah - This term is used more than 600 times and is most often translated as "evil" or "bad"It carries the implication of something that is contrary to God's nature.
+  1. Rah - This term is used more than 600 times and is most often translated as "evil" or "bad"It carries the
+  implication of something that is contrary to God's nature.
 
-    2. Cha-ah - This term is used almost 300 times and is most often translated as "sin" or "offense"It carries the implication of that which is deserving of punishment.
+  2. Cha-ah - This term is used almost 300 times and is most often translated as "sin" or "offense"It carries
+  the implication of that which is deserving of punishment.
 
-    3. Avon - This term is used more than 200 times and is most often translated as "iniquity". It carries the implication of being perverse, crooked or twisted.
+  3. Avon - This term is used more than 200 times and is most often translated as "iniquity". It carries the implication of being perverse, crooked or twisted.
 
-    4. Pesha - This term is used almost 100 times and is most often translated as "transgression". It carries the implication of rebellion.
+  4. Pesha - This term is used almost 100 times and is most often translated as "transgression". It carries the implication of rebellion.
 
-    5. Asham - This term is used more than 30 times and is most often translated as "guilty". It carries the implication of offense or trespass.
+  5. Asham - This term is used more than 30 times and is most often translated as "guilty". It carries the implication of offense or trespass.
 
-    6. Taah - A primitive root; to vacillate, that is, reel or stray (literally or figuratively); also causatively of both: - (cause to) go astray, deceive, dissemble, (cause to, make to) err, pant, seduce, (make to) stagger, (cause to) wander, be out of the way.
+  6. Taah - A primitive root; to vacillate, that is, reel or stray (literally or figuratively); also causatively of both: - (cause to) go astray, deceive, dissemble, (cause to, make to) err, pant, seduce, (make to) stagger, (cause to) wander, be out of the way.
 
-    7. Pasha - to break away (from just authority), that is, trespass, apostatize, quarrel: - offend, rebel, revolt, transgress (-ion, -or).
+  7. Pasha - to break away (from just authority), that is, trespass, apostatize, quarrel: - offend, rebel, revolt, transgress (-ion, -or).
 
-    8. Shagah - A primitive root; to stray (causatively mislead), usually (figuratively) to mistake, especially (morally) to transgress; by extension (through the idea of intoxication) to reel, (figuratively) be enraptured: - (cause to) go astray, deceive, err, be ravished, sin through ignorance, (let, make to) wander.
-
+  8. Shagah - A primitive root; to stray (causatively mislead), usually (figuratively) to mistake, especially (morally) to transgress; by extension (through the idea of intoxication) to reel, (figuratively) be enraptured: - (cause to) go astray, deceive, err, be ravished, sin through ignorance, (let, make to) wander.
 
 Greek 
-    1. Hamartia- sin (properly abstract): - offence, sin (-ful).
-    2. Parapt-ma - a side slip (lapse or deviation), that is, (unintentional) error or (willful) transgression: - fall, fault, offence, sin, trespass. (Galatians 6:1)
-    3. parabasis - violation: - breaking, transgression.
-    4. asebeia- impiety, that is, (by implication) wickedness: - ungodly (-liness). (Romans 1:18)
+  1. Hamartia- sin (properly abstract): - offence, sin (-ful).
+  2. Parapt-ma - a side slip (lapse or deviation), that is, (unintentional) error or (willful) transgression: - fall, fault, offence, sin, trespass. (Galatians 6:1)
+  3. parabasis - violation: - breaking, transgression.
+  4. asebeia- impiety, that is, (by implication) wickedness: - ungodly (-liness). (Romans 1:18)
 
 
 II. The Origin of Sin and Original Sin
   A. Actually the origin of Sin is Satan himself.
-  Isa. 14:12-14, The Fall of Lucifer
+Isa. 14:12-14, The Fall of Lucifer
 
-  This is explained in James 1:14-15
+This is explained in James 1:14-15
 
   B. Upon mankind are Adam and Eve - Gen.3: 1-6
-  The fact of the fall of Man
-  Sin entered into the world through Adam. Romans 5:12
+The fact of the fall of Man
+Sin entered into the world through Adam. Romans 5:12
 
   C. "Original Sin" - Romans 5:12, 14
-  Means the sin we inherited from Adam. Sometimes it is called imputed sin.
+Means the sin we inherited from Adam. Sometimes it is called imputed sin.
 
 
 III. What is Unpardonable Sin?
-  Blasphemy against the Holy Spirit - Mark 3:28-29, Matt. 12:31-32, Luke 12:10 
+Blasphemy against the Holy Spirit - Mark 3:28-29, Matt. 12:31-32, Luke 12:10 
 
-  Acts 7:51-53 NIV
-  [51] “You stiff-necked people! Your hearts and ears are still uncircumcised. You are just like your ancestors: You always resist the Holy Spirit! [52] Was there ever a prophet your ancestors did not persecute? They even killed those who predicted the coming of the Righteous One. And now you have betrayed and murdered him--- [53] you who have received the law that was given through angels but have not obeyed it.”
+Acts 7:51-53 NIV
+[51] “You stiff-necked people! Your hearts and ears are still uncircumcised. You are just like your ancestors: You always resist the Holy Spirit! [52] Was there ever a prophet your ancestors did not persecute? They even killed those who predicted the coming of the Righteous One. And now you have betrayed and murdered him--- [53] you who have received the law that was given through angels but have not obeyed it.”
 
 IV. What are the Consequences of Sin?
   A. Enslaves us - John 8:34
@@ -79,51 +80,48 @@ V. How are We Forgiven and Delivered from Sin?
   1. Through Repentance - 2 Cor. 7:10
   a. Confess - 1 John 1:9
   b. Forsake
-
   2. Faith in the Word
 
 
 VI. Conclusion
-  Christ is the Required Saviour for He alone was without sin. 2Cor. 5:21, Heb. 4:15, 1 John 3:5
-  Since sin has a terrible effect upon us, let us , therefore, pray that God will protect us from sinning.
-  ''');
+Christ is the Required Saviour for He alone was without sin. 2Cor. 5:21, Heb. 4:15, 1 John 3:5
+Since sin has a terrible effect upon us, let us , therefore, pray that God will protect us from sinning.
+''');
 
 final _nb_Lesson2 = Lessons(
     lessonNumber: 2,
     lessonTitle: 'Salvation',
     lessonBody: '''Aim: To share the meaning of salvation.
 
-Intro:Salvation is the greatest gift God has given to man; yet, many people, even some who claim to be Christians, are not even sure of their personal salvation from sin and hell. The Bible is very clear. God has given us eternal life through Jesus Christ.
+Intro: Salvation is the greatest gift God has given to man; yet, many people, even some who claim to be Christians, are not even sure of their personal salvation from sin and hell. The Bible is very clear. God has given us eternal life through Jesus Christ.
 
-" Christ came to pay a debt he didn't owe because we owed a debt we couldn't pay."
+"Christ came to pay a debt he didn't owe because we owed a debt we couldn't pay."
 
 2 Basic Greek Words
-1. “Soteria” - translated 'salvation', Acts 4:12, Romans 1:16
-2. “Sozo”
+  1. “Soteria” - translated 'salvation', Acts 4:12, Romans 1:16
+  2. “Sozo”
 “Sozo” is the Greek word for salvation, yet it’s root meaning goes beyond just the forgiveness of sins. According to Strong’s Concordance, Sozo also carries the idea of being physically healed of diseases and to be delivered from your enemy. In the spiritual sense, that enemy is the devil and his demons.
-Salvation, then, must mean more than simply being saved to go to heaven when you die. To be biblically saved means there are also earthly effects on our lives today. Not only are you free from the judgement and wrath of God, this salvation also includes the ability to resist temptations to sin in a pursuit of Christ-likeness, to be set free from demonic attacks and oppression, and to receive healing in our physical bodies. These are listed among the many promises of God in the scriptures. For example,
-“Bless the LORD, O my soul, and forget not all his benefits, who forgives all your iniquity, who heals all your diseases, who redeems your life from the pit, who crowns you with steadfast love and mercy…” (Psalm 103:2-4)
-and
-“But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.” (Isaiah 53:5 ESV)
+
+Salvation, then, must mean more than simply being saved to go to heaven when you die. To be biblically saved means there are also earthly effects on our lives today. Not only are you free from the judgement and wrath of God, this salvation also includes the ability to resist temptations to sin in a pursuit of Christ-likeness, to be set free from demonic attacks and oppression, and to receive healing in our physical bodies. These are listed among the many promises of God in the scriptures. For example, “Bless the LORD, O my soul, and forget not all his benefits, who forgives all your iniquity, who heals all your diseases, who redeems your life from the pit, who crowns you with steadfast love and mercy…” (Psalm 103:2-4) and “But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.” (Isaiah 53:5 ESV)
 
 I. WHY IS SALVATION IMPORTANT?
 
-A. Because of the reality of Sin.
+  A. Because of the reality of Sin.
 “For all have sinned and fall short of the glory of God”. (Romans 3:23 NIV)
 
-B. The penalty or wages of sin is death.
+  B. The penalty or wages of sin is death.
 “For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.” (Romans 6:23 NIV)
 “But the cowardly, the unbelieving, the vile, the murderers, the sexually immoral, those who practice magic arts, the idolaters and all liars—they will be consigned to the fiery lake of burning sulfur. This is the second death." (Revelation 21:8 NIV)
 
-C. Therefore, the way to be saved from hell or eternal damnation is to receive eternal life.
+  C. Therefore, the way to be saved from hell or eternal damnation is to receive eternal life.
 “For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.” (Romans 6:23 NIV)
 
 
 II. WHO IS THE WAY TO HEAVEN?
 WHO IS THE AUTHOR OF SALVATION?
 
-A. There are many ideas about this.
-B. But the Bible tells us there's ONLY ONE WAY - JESUS
+  A. There are many ideas about this.
+  B. But the Bible tells us there's ONLY ONE WAY - JESUS
 “Jesus answered, ‘I am the way and the truth and the life.
 No one comes to the Father except through me. “(John 14:6 NIV)
 "Salvation is found in no-one else, for there is no other name under
@@ -132,33 +130,33 @@ heaven given to men by which we must be saved." (Acts 4:12)
 
 III. HOW CAN WE RECEIVE SALVATION?
 
-A. Realize that we are sinners. Romans 3:23
+  A. Realize that we are sinners. Romans 3:23
 
-B. Repent from our sins. Mark 1:15
+  B. Repent from our sins. Mark 1:15
 
 "The time has come," he said. "The kingdom of God is near.
 Repent and believe the good news!"
 
-1. Confess - 1John 1:9
+  1. Confess - 1John 1:9
 
 “If we confess our sins, He is faithful and just and will forgive us our sins and purify us from all
 unrighteousness. “
-2. Forsake John 5:14
+  2. Forsake John 5:14
 
 “ Later Jesus found him at the temple and said to him, "See, you are well again. Stop sinning or something worse may happen to you."
 
-C. Recognize Christ as our Savior and Lord
+  C. Recognize Christ as our Savior and Lord
 Romans 10:9,10
 “That if you confess with your mouth, "Jesus is Lord," and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified, and it is with your mouth that you confess and are saved. “
 
 1 Peter 2:24
 “He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness; by his wounds you have been healed. “
 
-D. Receive or Accept Christ into your hearts
+  D. Receive or Accept Christ into your hearts
 John 1:12
 “ Yet to all who received him, to those who believed in his name, he gave the right to become children of God.”
 
-E. Believe His word and promises that he will come to us when we receive Him.
+  E. Believe His word and promises that he will come to us when we receive Him.
 Note: Salvation is a gift from God. Therefore, we receive it, by Faith.
 
 Ephesians 2:8,9
@@ -177,46 +175,46 @@ final _nb_Lesson3 = Lessons(
 
 Introduction: Repentance, like sin, is a common word; yet many of us do not know its actual meaning and implication to our lives. Repentance is a very important foundation in our Christian life and therefore must be learned and applied.
 
-" The confession of evil works is the first beginning of good works"
+"The confession of evil works is the first beginning of good works"
 
 I. THE CALL TO REPENTANCE
 
-A. John the Baptist preached it. Matthew 3:2
+  A. John the Baptist preached it. Matthew 3:2
 
-B. Apostles preached it. Acts 2:38, 17-30
+  B. Apostles preached it. Acts 2:38, 17-30
 
-C. Jesus Reached it Mark 1:14-15
+  C. Jesus Reached it Mark 1:14-15
 
 II. THE MEANING OF REPENTANCE
 
-1. Greek Meaning – “metanoeo”- To have a change of mind. It is a complete turn from one point of view
+  1. Greek Meaning – “metanoeo”- To have a change of mind. It is a complete turn from one point of view
 to another.
 
-2. Biblically - it is a godly sorrow or conviction of sin; a complete desire to turn away from sin or
+  2. Biblically - it is a godly sorrow or conviction of sin; a complete desire to turn away from sin or
 darkness unto God or righteousness. 2 Cor. 7:10
 
 Examples of Godly Sorrow
-1. Peter - Matthew 26:74-75
-2. James 4:8-9
-3. David - Psalm 6:6
+  1. Peter - Matthew 26:74-75
+  2. James 4:8-9
+  3. David - Psalm 6:6
 
 III. WHAT REPENTANCE INVOLVES
 
-A. Confession of Sin - 1 John 1:9
-B. Forsaking of sin - Prov. 28:13, Acts 19:19
-C. Restitution - Luke 19: 8,9
-D. Reconciliation - Mathew 5:23-24
-E. Turning from the world - 1 John 2: 15
-F. Turning from the Devil - Psalm 34:14
-C. Turning from ourselves - 2 Cor. 5:15
+  A. Confession of Sin - 1 John 1:9
+  B. Forsaking of sin - Prov. 28:13, Acts 19:19
+  C. Restitution - Luke 19: 8,9
+  D. Reconciliation - Mathew 5:23-24
+  E. Turning from the world - 1 John 2: 15
+  F. Turning from the Devil - Psalm 34:14
+  G. Turning from ourselves - 2 Cor. 5:15
 
 IV. Application
 
-A. Think of sins not yet surrendered to God.
+  A. Think of sins not yet surrendered to God.
 
-B. Confess, forsake, and ask Gods forgiveness.
+  B. Confess, forsake, and ask Gods forgiveness.
 
-C. Begin to live in line with God's Word.
+  C. Begin to live in line with God's Word.
 ''');
 
 final _nb_Lesson4 = Lessons(
@@ -225,8 +223,7 @@ final _nb_Lesson4 = Lessons(
     lessonBody:
         '''Aim: To teach the Biblical concept on the doctrine of Holiness.
 
-Introduction:
-Welcome back to One Life! Our subject for today is very relevant to what is currently happening to our times. The recent calamities are a proof that we are in these last days. The book of Peter reminds us of what kind of people we ought to be in these end times.
+Introduction: Welcome back to One Life! Our subject for today is very relevant to what is currently happening to our times. The recent calamities are a proof that we are in these last days. The book of Peter reminds us of what kind of people we ought to be in these end times.
 
 2 Pet 3:10-13
 10 But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything in it will be laid bare.
@@ -244,12 +241,11 @@ In Regeneration our nature is changed, in Justification our standing is changed;
 
 Let us journey together as we study this topic to prepare ourselves for the coming of the Lord.
 
-THE MEANING OF SANCTIFICATION
 
+THE MEANING OF SANCTIFICATION
 Sanctification is the work of the Holy Spirit. Holiness and Sanctification are the same in essence. The basic meaning of Sanctification is "separation".
 
 Greek Word “hagiasmos” the process of making or becoming holy, set apart; sanctification, holiness, consecration.
-
 
 Psalm 4:3
 3 Know that the Lord has set apart the godly for himself; the Lord will hear when I call to him.
@@ -261,22 +257,22 @@ Hebrews 12:14, 2Timothy 2:21
 The Bible speaks of sanctifying the Tabernacle and its contents: men, buildings, fields, firstborn, temple, priests and a nation.
 Exodus 40:9-11 , Leviticus 27:14-17 , Numbers 8:17
 
+
 THE AUTHOR OF SANCTIFICATION
-
 The Blessed Trinity.
-1. By God The Father. 1 Thessalonians 5:23-24
+  1. By God The Father. 1 Thessalonians 5:23-24
 
-2. By God The Son. Ephesians 5:26-27
+  2. By God The Son. Ephesians 5:26-27
 
-3. By God The Holy Spirit. 2 Thessalonians 2: 13
+  3. By God The Holy Spirit. 2 Thessalonians 2: 13
 
 Dr. Griffith Thomas said, "holiness is not an achievement to be accomplished, but a GIFT to be ACCEPTED"
 
-THE MEANS OF SANCTIFICATION
 
+THE MEANS OF SANCTIFICATION
 How are we sanctified?
 
-1. By The Word of God.
+  1. By The Word of God.
 John 17:17 , Romans 10:17
 To be sanctified, spend much time with the Word of God. It purifies and cleanses.
 John 16:8
@@ -284,56 +280,55 @@ While listening to God’s Word, the Holy Spirit is beginning to convict the hea
 1 John 1:9
 After being convicted, we confess.
 
-2. By The Blood of Jesus. Hebrews 13:12
+  2. By The Blood of Jesus. Hebrews 13:12
 The Word reveals sin; the Blood cleanses away, result is Sanctification.
 
-3. By Chastisement. Hebrews 12:10-11
+  3. By Chastisement. Hebrews 12:10-11
 God disciplines us for our good- to make us holy.
 
-4. By Yielding to God. Romans 6:19
+  4. By Yielding to God. Romans 6:19
 We are exhorted to offer our bodies to God in holiness.
 
-5. By ourselves. 2 Corinthians 7:1
+  5. By ourselves. 2 Corinthians 7:1
 We, too, have a part in sanctification. Our part is seeking out the sin, casting it away, praying for cleansing, prayer for strength to live a holy life
 
+
 TIME OF OUR SANCTIFICATION
+There are great diversities of opinion here. Some say that it was completed the moment we believed, being synonymous with conversion. Others stress the need of a second work of grace, an experience quite separate from conversion. Some treat it as a crisis experience that eradicates the old nature. Others teach that Sanctification is instantaneous and progressive.
 
-There are great diversities of opinion here.
-Some say that it was completed the moment we believed, being synonymous with conversion. Others stress the need of a second work of grace, an experience quite separate from conversion. Some treat it as a crisis experience that eradicates the old nature. Others teach that Sanctification is instantaneous and progressive.
-
-1. Instantaneous with Conversion.
+  1. Instantaneous with Conversion.
 1 Corinthians 6:11
 It speaks of sanctification as a past experience with washing and justification.
 
-2. Progressive.
+  2. Progressive.
 James 1:22-25
 Faith in action, progressively; we have to do what the Word says, including our holiness.
+
 The Holy Spirit does not reveal all of our unchristian-likeness at one time, that would be too discouraging and would lead us to despair. The moment that something is revealed we should seek cleansing and continuously pursue a path of progressive sanctification.
 
-3. Complete and Final.
+  3. Complete and Final.
 1 Thessalonians 5:23
 Someday we will be completely holy without one grace missing, mature and perfect. This wonderful experience will be ours when Christ comes and our bodies are changed. Then we shall be like Him.
 1 John 3:2
 -Perfect and holy
 Paul was pressing on towards that future perfection, while daily perfecting his earthly progressive sanctification.
 
-THE RESULT OF SANCTIFICATION
 
-1. Perfection through Christ
+THE RESULT OF SANCTIFICATION
+  1. Perfection through Christ
 Hebrews 10:14
-2. The Fruit of holiness
+  2. The Fruit of holiness
 Romans 6:22
 
+
 HOW TO RETAIN A SANCTIFIED WALK
+  1. Live a life of implicit obedience to the light given to you by the Holy Spirit.
 
-1. Live a life of implicit obedience to the light given to you by the Holy Spirit.
+  2. If you fail, immediately confess it to God and He will instantly restore you.
 
-2. If you fail, immediately confess it to God and He will instantly restore you.
+  3. Resist the devil and he will flee from you. James 4:7
 
-3. Resist the devil and he will flee from you.
-James 4:7
-
-4. Be faithful in regular seasons of Bible reading, prayer, witnessing and living for others.
+  4. Be faithful in regular seasons of Bible reading, prayer, witnessing and living for others.
 
 
 CONCLUSION
@@ -355,28 +350,29 @@ We are compared to a "vessel" ready for the Master's use. But just as a vessel c
 
 Romans 12:1 “Therefore, I urge you, brothers, in view of God's mercy, to offer your bodies as living sacrifices, holy and pleasing to God-this is your spiritual act of worship. 2 Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is-his good, pleasing and perfect will.”
 
+
 I. What is Consecration?
 It means to be " set apart" or separated for use by the Lord. It is giving of our whole being to God for service.
 
 Gk. “Qadash” to concecrate, dedicate, devote, to observe as holy, keep sacred
 
+
 II. Why Consecrate ourselves?
 
-A. God has chosen us to become a holy people. 1 Peter 2:9
+  A. God has chosen us to become a holy people. 1 Peter 2:9
 
-B. God is holy and so we must be holy also. 1 Peter 1:16
+  B. God is holy and so we must be holy also. 1 Peter 1:16
 
-C. God will only use people who are consecrated to Him. 2 Timothy 2:20-21
+  C. God will only use people who are consecrated to Him. 2 Timothy 2:20-21
 
-D. God has made us His temple. 1 Corinthians 3:16
+  D. God has made us His temple. 1 Corinthians 3:16
+
 
 III. Practical ways of Consecrating ourselves.
-
 Romans 12:1,2
-
-A. We must decide as an act of our will.
-B. Present ourselves to be transformed by the renewing of our mind.
-C. Forsake worldly influence.
+  A. We must decide as an act of our will.
+  B. Present ourselves to be transformed by the renewing of our mind.
+  C. Forsake worldly influence.
 
 Romans 6:13,16 “Do not offer the parts of your body to sin, as instruments of wickedness, but rather offer yourselves to God, as those who have been brought from death to life; and offer the parts of your body to him as instruments of righteousness. 16 Don't you know that when you offer yourselves to someone to obey him as slaves, you are slaves to the one whom you obey-whether you are slaves to sin, which leads to death, or to obedience, which leads to righteousness?”
 
@@ -386,12 +382,11 @@ Consecration for priesthood ministry, Leviticus 8
 
 Through part of Aaron's body touched by the blood sacrifice, representing the consecration as a whole.
 
-A. The ear - listening to the Word.
-B. The thumb - doing the will of God.
-C. The toe - walking in his path.
+  A. The ear - listening to the Word.
+  B. The thumb - doing the will of God.
+  C. The toe - walking in his path.
 
 Application:
-
 Let us yield ourselves to God so that He can use us for His honor!
 ''');
 
@@ -409,6 +404,7 @@ Introduction: An important principle of growth in Christian life is to live by f
 I. Why Is Faith Important?
 A. We cannot be saved without faith
 Ephesians 2:8-9 - “For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God— not by works, so that no one can boast.”
+
 Grace
 Gk. “Charis” - grace, kindness, favor
 Heb. “Hen”
@@ -424,20 +420,19 @@ John 16:8 “When [the Spirit] comes, he will convict the world concerning sin a
 
 Romans 10:17 “Faith comes from hearing and hearing by the Word of God.”
 
-B. Anything that is not faith is Sin.
+  B. Anything that is not faith is Sin.
 Romans 14:23- ” But whoever has doubts is condemned if they eat, because their eating is not from faith; and everything that does not come from faith is sin.”
 
-C. Faith is the Condition for answered prayer.
-
+  C. Faith is the Condition for answered prayer.
 Mark 11:22-24 – “Have faith in God,” Jesus answered. Truly I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them. Therefore, I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.”
 
-D. We can Please God only through faith.
+  D. We can Please God only through faith.
 Hebrews 11:6 - “And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him.”
 
 
 II. What is faith?
+  A. Biblical Definition. Hebrews 11:1 – “Now faith is confidence in what we hope for and assurance about what we do not see.”
 
-A. Biblical Definition. Hebrews 11:1 – “Now faith is confidence in what we hope for and assurance about what we do not see.”
 Faith (FirmIsrael.org)
 The Hebrew word emunah (אמונה, pronounced “eh-moo-nah”) is understood in English to mean “faith” or “belief”. But it is often also translated as “faithfulness.” And yet, it describes much more than just believing a statement about God. It reveals a life of full reliance upon Him.
 
@@ -449,44 +444,44 @@ Greek “Pistis”(Strongs)
 - faith, faithfulness
 Usage: faith, belief, trust, confidence; fidelity, faithfulness.
 
-III. What is the Basis of Faith?
 
+III. What is the Basis of Faith?
 The Word of God.Romans 10:17 - “Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.”
 
 Example: Abraham
 Romans 4:18-22 – “Against all hope, Abraham in hope believed and so became the father of many nations, just as it had been said to him, “So shall your offspring be.” Without weakening in his faith, he faced the fact that his body was as good as dead—since he was about a hundred years old—and that Sarah’s womb was also dead. Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God, being fully persuaded that God had power to do what he had promised. This is why it was credited to him as righteousness.”
 
-IV. How Do we Develop our Faith?
 
-A. Listening to the Word of God.
+IV. How Do we Develop our Faith?
+  A. Listening to the Word of God.
 Romans 10:17 - “Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.”
 
-B. Meditate
+  B. Meditate
 Psalm 1:1-3 – “Blessed is the one who does not walk in step with the wicked or stand in the way that sinners take or sit in the company of mockers, but whose delight is in the law of the Lord, and who meditates on his law day and night. That person is like a tree planted by streams of water, which yields its fruit in season and whose leaf does not wither— whatever they do prospers.”
 
-C. Confess/Share
+  C. Confess/Share
 Romans 10:9,10 – ” If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved.”
 
-D. Obey
+  D. Obey
 James 2:17 – “In the same way, faith by itself, if it is not accompanied by action, is dead.”
 
 
-V. Conclusion
+  V. Conclusion
 Faith is like a seed, which, when planted and taken care of will grow. As believers, we have the responsibility in developing our faith. And as we apply the practical suggestions above, we will see our faith in God growing each day.
 ''');
 
 final _nb_Lesson7 = Lessons(
     lessonNumber: 7,
     lessonTitle: 'Lordship of Jesus Christ',
-    lessonBody: '''Introduction:
-“My legacy doesn’t matter. It isn’t important that I be remembered. It’s important that when I stand before the Lord, he says, ‘Well done, good and faithful servant.’ I want to finish strong.” (James Dobson)
+    lessonBody:
+        '''Introduction: “My legacy doesn’t matter. It isn’t important that I be remembered. It’s important that when I stand before the Lord, he says, ‘Well done, good and faithful servant.’ I want to finish strong.” (James Dobson)
 
 Many Christians call or declare Jesus as Lord. But in reality, not many have a personal or experiential knowledge of His lordship. What does lordship of Christ really mean? This is the focus of our study.
 
-I. What is the meaning of Lordship or Kingship?
 
-A. Lordship or Kingship- means having authority or ability to rule or govern the life of other people.
-B. Example: Past Kings- They possessed real powers and authority over their subjects (people under them)
+I. What is the meaning of Lordship or Kingship?
+  A. Lordship or Kingship- means having authority or ability to rule or govern the life of other people.
+  B. Example: Past Kings- They possessed real powers and authority over their subjects (people under them)
 
 Gk. “ Kurious ” which means “ Lord “ or “ master”
 
@@ -501,37 +496,36 @@ Lord is also commonly used as a title with the name Jesus Christ. As a title, it
 
 
 II. The Basis of our Submission to Christ.
-
-A. He saved us. 2 Cor. 5:15
+  A. He saved us. 2 Cor. 5:15
 “And he died for all, that those who live should no longer live for themselves, but for him who died for them and was raised again.”
 
-B. He can be trusted. Heb 4:16
+  B. He can be trusted. Heb 4:16
 “Let us then approach God’s throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.”
 
-C. He has power. Matthew 28:18
+  C. He has power. Matthew 28:18
 “Then Jesus came to them and said, “All authority in heaven and on earth has been given to me.”
 
-D. He is the source of the abundant life. John 10:10b
+  D. He is the source of the abundant life. John 10:10b
 “The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.”
 
-E. He will come to judge those who oppose Him. 2 Thess. 1:9
+  E. He will come to judge those who oppose Him. 2 Thess. 1:9
 “They will be punished with everlasting destruction and shut out from the presence of the Lord and from the glory of his might.”
 
-III. What does Submission to Christ mean?
 
-A. It means Commitment to Him. 2 Cor. 5:15
+III. What does Submission to Christ mean?
+  A. It means Commitment to Him. 2 Cor. 5:15
 “And he died for all, that those who live should no longer live for themselves, but for him who died for them and was raised again.”
 
-B. Complete Surrender and yielding our lives to His will. Matt. 26:39-41
+  B. Complete Surrender and yielding our lives to His will. Matt. 26:39-41
 
-C. It means making Jesus the center of our lives.
+  C. It means making Jesus the center of our lives.
 
-D. Every aspect of our life, recreation, habits, etc., must be under His Direction or Lordship.
+  D. Every aspect of our life, recreation, habits, etc., must be under His Direction or Lordship.
 
-IV Application.
 
-A. Think of areas in your life not submitted to Christ and allow Him to take control of it.
-B. Remember that Christ must be Lord of all if He is to be Lord of all.
+IV. Application
+  A. Think of areas in your life not submitted to Christ and allow Him to take control of it.
+  B. Remember that Christ must be Lord of all if He is to be Lord of all.
 ''');
 
 final _nb_Lesson8 = Lessons(
@@ -552,78 +546,77 @@ Matthew 16:13-17 NIV
 Luke 1:34-35 NIV
 “How will this be,” Mary asked the angel, “since I am a virgin?” The angel answered, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God.
 
-I. THE BIBLE DECLARES CHRIST IS GOD.
 
-A. Jesus claims Divine knowledge and fellowship – Matt. 11:27; John 17:5, John 1:1
+I. THE BIBLE DECLARES CHRIST IS GOD.
+  A. Jesus claims Divine knowledge and fellowship – Matt. 11:27; John 17:5, John 1:1
 “All things have been committed to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to reveal him.
 “ And now, Father, glorify me in your presence with the glory I had with you before the world began.”
 
 “In the beginning was the Word and the Word was with God and the Word was God.”
 
-B. Jesus claims Omnipresence – Matt. 18:20; 28: 20
+  B. Jesus claims Omnipresence – Matt. 18:20; 28: 20
 “For where two or three gather together as my followers, I am there among them.”
 
 “Teach these new disciples to obey all the commands I have given you. And be sure of this: I am with you always, even to the end of the age.”
 
-C. Jesus has eternal existence – John 1:1-2; 14
-“ In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning.”
+  C. Jesus has eternal existence – John 1:1-2; 14
+“In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning.”
 
 “The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.”
 
-D. Jesus created the world with the Father – John 1:3
+  D. Jesus created the world with the Father – John 1:3
 “Through Him all things were made; without Him nothing was made that has been made.”
 
-E. Jesus has the power to forgive sins – Mark 2:5-10
+  E. Jesus has the power to forgive sins – Mark 2:5-10
 “When Jesus saw their faith, he said to the paralyzed man, “Son, your sins are forgiven.” Now some teachers of the law were sitting there, thinking to themselves, “Why does this fellow talk like that? He’s blaspheming! Who can forgive sins but God alone?” Immediately Jesus knew in his spirit that this was what they were thinking in their hearts, and he said to them, “Why are you thinking these things? Which is easier: to say to this paralyzed man, ‘Your sins are forgiven,’ or to say, ‘Get up, take your mat and walk’? But I want you to know that the Son of Man has authority on earth to forgive sins.”
 
-F. Jesus is sinless – Hebrews 4:15
+  F. Jesus is sinless – Hebrews 4:15
 “For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin.”
 
-G. Jesus has received worship – Matt. 28:17; Rev. 5:12
+  G. Jesus has received worship – Matt. 28:17; Rev. 5:12
 “When they saw him, they worshiped him; but some doubted.”
 
-“ In a loud voice they were saying: “Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!”
+“In a loud voice they were saying: “Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honor and glory and praise!”
 
-H. Jesus was called Lord and God by Thomas – John 20:28
+  H. Jesus was called Lord and God by Thomas – John 20:28
 “Thomas said to him, “My Lord and my God!”
 
-I. Jesus was called God by God the Father – Hebrews 1:8,9 (see also Psalms 45:6-7)
+  I. Jesus was called God by God the Father – Hebrews 1:8,9 (see also Psalms 45:6-7)
 “But about the Son he says, “Your throne, O God, will last for ever and ever; a scepter of justice will be the scepter of your kingdom. You have loved righteousness and hated wickedness; therefore God, your God, has set you above your companions by anointing you with the oil of joy.”
 
-II. AT THE SAME TIME, THE BIBLE DECLARES JESUS AS MAN
 
-A. He is called Son of David – Romans 1:3
+II. AT THE SAME TIME, THE BIBLE DECLARES JESUS AS MAN
+  A. He is called Son of David – Romans 1:3
 “regarding his Son, who as to his earthly life was a descendant of David,”
 
 
-B. He was born through a woman – Matt. 1:23
+  B. He was born through a woman – Matt. 1:23
 “The virgin will conceive and give birth to a son, and they will call him Immanuel” (which means “God with us”).
 
-C. He was subject to His earthly parents – Luke 2:39-52
+  C. He was subject to His earthly parents – Luke 2:39-52
 - the child, Jesus, grew with His earthly parents
 - at one time, Jesus stayed behind in Jerusalem at the temple for three days; his parents were looking for him and told him that they were worried about him
 
-D. He was subject to physical and material needs while on earth – John 4:6-7; Mark 11:12
-
+  D. He was subject to physical and material needs while on earth – John 4:6-7; Mark 11:12
 “Jacob’s well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about noon.’ When a Samaritan woman came to draw water, Jesus said to her, “Will you give me a drink?”
 
 “The next day as they were leaving Bethany, Jesus was hungry.”
 
-E. He died physically – Mark 15:37
+  E. He died physically – Mark 15:37
 “With a loud cry, Jesus breathed his last.”
 
 
 III. CONCLUSION
-A. Jesus is both God and man. He has two natures in one person.
+  A. Jesus is both God and man. He has two natures in one person.
 
-B. Jesus was God who came to earth and became a man to save sinners from sins.
+  B. Jesus was God who came to earth and became a man to save sinners from sins.
 John 1:1-3; Phil 2:5-8
 
 “In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made.”
 
 “In your relationships with one another, have the same mindset as Christ Jesus: Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness. And being found in appearance as a man, he humbled himself by becoming obedient to death— even death on a cross!”
 
-C. But remember Christ did not remain in the grave, He rose from the dead. This proves His deity.1 Cor 15:3, 4
+  C. But remember Christ did not remain in the grave, He rose from the dead. This proves His deity.1 Cor 15:3, 4
 
 “For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.”
 ''');
@@ -635,8 +628,7 @@ final _nb_Lesson9 = Lessons(
         '''Introduction: Within the Godhead, the identity of the Holy Spirit has been, to a large extent unknown to many Christians. This is perhaps the reason some Christians or churches are not flowing in the life of the Holy Spirit. This study will explore basic aspects of the person of the Holy Spirit.
 
 I. WHO IS THE HOLY SPIRIT?
-
-A. He is the third person in the Godhead.
+  A. He is the third person in the Godhead.
 Matthew 28:19
 19 “Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,”
 
@@ -656,20 +648,20 @@ Romans 1:20 (KJV)
 Colossians 2:9
 “In him [Christ] dwelleth all the fulness of the Godhead (theotés ) bodily.”
 
-B. He is God.
+  B. He is God.
 Acts 5:3,4
 3 Then Peter said, "Ananias, how is it that Satan has so filled your heart that you have lied to the Holy Spirit and have kept for yourself some of the money you received for the land? 4 Didn't it belong to you before it was sold? And after it was sold, wasn't the money at your disposal? What made you think of doing such a thing? You have not lied to men but to God."
 
-C. He is a Person. In what way?
+  C. He is a Person. In what way?
 
-a. He has a mind.
+  a. He has a mind.
 Romans 8:27
 27 “And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints in accordance with God's will.”
 
 1 Cor. 2:11
 11 “For who among men knows the thoughts of a man except the man's spirit within him? In the same way no-one knows the thoughts of God except the Spirit of God.”
 
-b. He has a Will.
+  b. He has a Will.
 John 16:12-15
 12 “I have much more to say to you, more than you can now bear. 13 But when he, the Spirit of truth, comes, he will guide you into all the truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come. 14 He will glorify me because it is from me that he will receive what he will make known to you. 15 All that belongs to the Father is mine. That is why I said the Spirit will receive from me what he will make known to you.”
 
@@ -679,7 +671,7 @@ John 16:12-15
 Galatians 5:16-18
 “16 So I say, walk by the Spirit, and you will not gratify the desires of the flesh. 17 For the flesh desires what is contrary to the Spirit, and the Spirit what is contrary to the flesh. They are in conflict with each other, so that you are not to do whatever[a] you want. 18 But if you are led by the Spirit, you are not under the law.”
 
-c. He has emotions.
+  c. He has emotions.
 Romans 5:5
 5 “And hope does not disappoint us, because God has poured out his love into our hearts by the Holy Spirit, whom he has given us.”
 
@@ -689,48 +681,47 @@ Eph. 4:30
 Heb. 10:29
 29 “How much more severely do you think a man deserves to be punished who has trampled the Son of God under foot, who has treated as an unholy thing the blood of the covenant that sanctified him, and who has insulted the Spirit of grace?”
 
-II. WHAT IS THE FUNCTION OF THE HOLY SPIRIT IN THE GODHEAD?
 
-A. He glorifies The Son
+II. WHAT IS THE FUNCTION OF THE HOLY SPIRIT IN THE GODHEAD?
+  A. He glorifies The Son
 John 16:13,14
 13 “But when he, the Spirit of truth, comes, he will guide you into all truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come. 14 He will bring glory to me by taking from what is mine and making it known to you.”
 
-B. He is the active member of the Godhead
+  B. He is the active member of the Godhead
 Gen. 1:2
 “Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.”
 
-III. THE WORK OF THE HOLY SPIRIT
 
-A. He convicts and convinces
+III. THE WORK OF THE HOLY SPIRIT
+  A. He convicts and convinces
 John 16:7,8
 7 “But I tell you the truth: It is for your good that I am going away. Unless I go away, the Counsellor will not come to you; but if I go, I will send him to you. 8 When he comes, he will convict the world of guilt in regard to sin and righteousness and judgment.”
 
-B. He brings life
+  B. He brings life
 Titus 3:5
 5 “He saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit,”
 
-C. He dwells within the believers
+  C. He dwells within the believers
 John 14:16,17
 16 “And I will ask the Father, and he will give you another Counsellor to be with you for ever- 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.”
 
-D. He is the comforter
+  D. He is the comforter
 John 14:16,17
 16 “And I will ask the Father, and he will give you another Counsellor to be with you for ever-17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.”
 
-E. He leads us into the truth. John 16:13
+  E. He leads us into the truth. John 16:13
 13* But when he comes, the Spirit of truth, he will guide you to all truth. He will not speak on his own, but he will speak what he hears, and will declare to you the things that are coming.”
 
-F. He guides
+  F. He guides
 Romans 8:14,
 14 because those who are led by the Spirit of God are sons of God.
 
-G. He gives power.
+  G. He gives power.
 Acts 1:8
 8 “But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”
 
 
 IV. Conclusion
-
 The Holy Spirit is a real person and He is God. He was sent by God the Father to be our comforter and guide. Let us, therefore, recognize His ministry and ask God that the Holy Spirit may dwell in us.
 
 Luke 11:13
@@ -743,12 +734,11 @@ final _nb_Lesson10 = Lessons(
     lessonBody:
         '''Aim: To teach the believers the biblical teaching about the person and work of the Holy Spirit.
 
-Introduction:
-Why do we have to study the doctrine of the Holy Spirit? For several reasons:
+Introduction: Why do we have to study the doctrine of the Holy Spirit? For several reasons:
 
-1) There is a misconception that the Holy Spirit is just a force
-2) He is not divine.
-3) There is no trinity in the Bible.
+  1) There is a misconception that the Holy Spirit is just a force
+  2) He is not divine.
+  3) There is no trinity in the Bible.
 
 In this lesson, we would like to go to the Word of God, the final source of authority and discover by ourselves the true teaching about the Holy Spirit.
 
@@ -756,16 +746,16 @@ From our previous study, we have learned that The Holy Spirit is a person. Sever
 
 IN RELATION TO JESUS CHRIST
 
-1. He was sent into the world by the Holy Spirit along with the Father. Isaiah 48:16,17
+  1. He was sent into the world by the Holy Spirit along with the Father. Isaiah 48:16,17
 
-2. He was conceived or begotten by the Holy Spirit. Luke 1:35, 37 , Matt. 1:18, Matt. 1:20
+  2. He was conceived or begotten by the Holy Spirit. Luke 1:35, 37 , Matt. 1:18, Matt. 1:20
 
-3. His reception in the temple was arranged by the Holy Spirit. Luke 2:25-30
+  3. His reception in the temple was arranged by the Holy Spirit. Luke 2:25-30
 This is a remarkable passage in relation to the ministry of the Holy Spirit as he witnessed to Simeon and then arranged the fulfillment of His prophecy to that old saint.
 
-4. His growth is attributed to the Holy Spirit. Luke 2:40 , Luke 2:42 , Isaiah 11:1,2
+  4. His growth is attributed to the Holy Spirit. Luke 2:40 , Luke 2:42 , Isaiah 11:1,2
 
-5. He was led by The Holy Spirit into the wilderness to be tempted by the devil.
+  5. He was led by The Holy Spirit into the wilderness to be tempted by the devil.
 Matt. 4:1, Mark 1:12,13
 
 Edwin Palmer comments that:
@@ -773,26 +763,25 @@ Edwin Palmer comments that:
 
 The verse of Luke 4:14 gives us a clear explanation.
 
-6. The Holy Spirit anointed Jesus with power for His ministry. Matthew 3:16,17
+  6. The Holy Spirit anointed Jesus with power for His ministry. Matthew 3:16,17
 The bestowal of the Holy Spirit upon Jesus was for the purpose of officially equipping Him for His public ministry.
 
-a. Preaching ministry. Luke 5:14,15 , Matthew 4:17, Luke 4:18
+  a. Preaching ministry. Luke 5:14,15 , Matthew 4:17, Luke 4:18
 
-b. Healing ministry. Acts 10:38
+  b. Healing ministry. Acts 10:38
 
-c. His casting out demons. Matthew 12:28, Acts 10:38, Isaiah 61:1
+  c. His casting out demons. Matthew 12:28, Acts 10:38, Isaiah 61:1
 
-7. He was enabled by the Holy Spirit to offer the necessary sacrifice for sins. Heb. 9:1
-
+  7. He was enabled by the Holy Spirit to offer the necessary sacrifice for sins. Heb. 9:1
 
 Guy Duffield comments:
 “This passage indicates that the perfection of Christ’s sacrifice, the proper, obedient, loving attitude, was made possible by the Holy Spirit. ‘who, through the eternal Spirit offered himself without spot to God.’ The Spirit enabled Him to offer a perfect sacrifice in the attitude that was acceptable to God”
 
 This is not to undermine the person of Jesus but to see that the Godhead is working together in unity.
 
-8. He was raised from the dead by the Holy Spirit. Romans 8:11
+  8. He was raised from the dead by the Holy Spirit. Romans 8:11
 
-9. Christ gave commandments to His Apostles through the Holy Spirit. Acts 1:1,2
+  9. Christ gave commandments to His Apostles through the Holy Spirit. Acts 1:1,2
 
 Van Cleave comments;
 “The Holy Spirit is so vitally connected with the ministry of the servants of the Lord that it seems quite fitting that it should have been He who inspired the Lord Jesus to give commandments to the disciples as they were being sent forth. As the Spirit guides each Christian today in the service of the Lord, it is blessed to realize that it is the voice of Jesus talking to them…The church is not dependent upon the bodily presence of the Lord in order to be led by Him. Such leading is accomplished by the Holy Spirit.”
@@ -807,8 +796,7 @@ final _nb_Lesson11 = Lessons(
     lessonTitle: 'The Doctrine of Trinity',
     lessonBody: '''Aim: To explain the profound Christian teaching of Trinity.
 
-Introduction:
-Trinity is a fundamental Christian doctrine. It is sometimes called "mystery" because it is hard to comprehend by human mind. However no one can doubt the fact that this doctrine is sound Biblically and it has been a part of the fundamental belief of Christians for centuries.
+Introduction: Trinity is a fundamental Christian doctrine. It is sometimes called "mystery" because it is hard to comprehend by human mind. However no one can doubt the fact that this doctrine is sound Biblically and it has been a part of the fundamental belief of Christians for centuries.
 
 I. THE CONCEPT OF TRINITY.
 
@@ -822,12 +810,11 @@ Deut. 6:4
 
 
 II. THE OLD TESTAMENT PROOFS OF THE TRIUNE GOD
-
-A. Plural name of Deity – "Elohim" is plural name in form, but singular in meaning when referring to the true God. – Gen. 1:1
+  A. Plural name of Deity – "Elohim" is plural name in form, but singular in meaning when referring to the true God. – Gen. 1:1
 
 “In the beginning, God created the heavens and the earth.”
 
-B. In personal pronouns, use of Deity – Gen. 1:26; Isa. 6:8
+  B. In personal pronouns, use of Deity – Gen. 1:26; Isa. 6:8
 
 26 Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”
 
@@ -835,50 +822,49 @@ B. In personal pronouns, use of Deity – Gen. 1:26; Isa. 6:8
 
 
 III. THE NEW TESTAMENT PROVES THE DOCTRINE OF TRINITY
-
-A. Father is God – 1 Cor. 8:6
+  A. Father is God – 1 Cor. 8:6
 
 6 yet for us there is but one God, the Father, from whom all things came and for whom we live; and there is but one Lord, Jesus Christ, through whom all things came and through whom we live.
 
-B. Son is God – Heb. 1:8
+  B. Son is God – Heb. 1:8
 
 8 But about the Son he says, “Your throne, O God, will last forever and ever;a scepter of justice will be the scepter of your kingdom.
 
-C. Holy Spirit is God – Acts 5:3,4
+  C. Holy Spirit is God – Acts 5:3,4
 
 3 Then Peter said, “Ananias, how is it that Satan has so filled your heart that you have lied to the Holy Spirit and have kept for yourself some of the money you received for the land? 4 Didn’t it belong to you before it was sold? And after it was sold, wasn’t the money at your disposal? What made you think of doing such a thing? You have not lied just to human beings but to God.”
 
-D. The Baptism of Christ – Matt. 3:16, 17
+  D. The Baptism of Christ – Matt. 3:16, 17
 
 16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”
 
-E. The Baptismal formula – Matt. 28:19
+  E. The Baptismal formula – Matt. 28:19
 
 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
 
-F. The apostolic benediction – 2 Cor. 13:14
+  F. The apostolic benediction – 2 Cor. 13:14
 
 14 May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.
 
-G. The Godhead - Colossians 2:9, Romans 1:20
+  G. The Godhead - Colossians 2:9, Romans 1:20
 “9 For in Christ all the fullness of the Deity lives in bodily form”
 
 “20 For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.”
 
 Godhead - the nature of God especially as existing in three persons
 
-IV. ILLUSTRATION
 
-1. Man – threefold being – 1Thess. 5:23
+IV. ILLUSTRATION
+  1. Man – threefold being – 1Thess. 5:23
 
 23 May God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ.
 
-2. Water – three forms – liquid, vapor, solid
+  2. Water – three forms – liquid, vapor, solid
 
-3. Triangle – three angles in one triangle
+  3. Triangle – three angles in one triangle
+
 
 IV. CONCLUSION:
-
 The doctrine of trinity is a Biblically sound doctrine that all Christians can trust. Praise God that He is a triune being!
 ''');
 
@@ -896,21 +882,22 @@ Introduction: Although we cannot totally comprehend all about God, we can know s
 
 What is an attribute?: a usually good quality or feature that someone or something has
 
+
 I. THE NATURAL ATTRIBUTES OF GOD.
-A. God is Spirit. John 4:24, Luke 24:38-39
+  A. God is Spirit. John 4:24, Luke 24:38-39
 24“God is spirit, and his worshipers must worship in the Spirit and in truth."
 
 38 He said to them, “Why are you troubled, and why do doubts rise in your minds? 39 Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.”
 
-B. God is One. Deuteronomy 4:35,39, Deuteronomy 6:4
+  B. God is One. Deuteronomy 4:35,39, Deuteronomy 6:4
 35” You were shown these things so that you might know that the Lord is God; besides him there is no other.39 Acknowledge and take to heart this day that the Lord is God in heaven above and on the earth below. There is no other.”
 
 4 “Hear, O Israel: The LORD our God, the LORD is one.”
 
-C. God is Eternal. Psalms 93:2
+  C. God is Eternal. Psalms 93:2
 “Your throne, O Lord, has stood from time immemorial. You yourself are from the everlasting past.”
 
-D. God is Immutable. Malachi 3:6
+  D. God is Immutable. Malachi 3:6
 “I am the Lord, and I do not change. That is why you descendants of Jacob are not already destroyed.
 
 
@@ -920,46 +907,45 @@ A. God is Omnipotent - God is All Powerful. Gen. 18:14, Gen. 17:1
 
 When Abram was ninety-nine years old, the Lord appeared to him and said, “I am God Almighty[a]; walk before me faithfully and be blameless.”
 
-B. God is Omnipresent - God is present Everywhere. Jeremiah 23:23,24, Psalm 139:7-10
+  B. God is Omnipresent - God is present Everywhere. Jeremiah 23:23,24, Psalm 139:7-10
 23 “Am I only a God nearby,” declares the Lord, “and not a God far away? 24 Who can hide in secret places so that I cannot see them?” declares the Lord. “Do not I fill heaven and earth?” declares the Lord.
 
-C. God is Omniscient - God knows all things. Matthew 10:29,30
+  C. God is Omniscient - God knows all things. Matthew 10:29,30
 29 Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care.[a] 30 And even the very hairs of your head are all numbered.
 
-D. God is Wise. Psalm 104:24, James 1:5
+  D. God is Wise. Psalm 104:24, James 1:5
 24How many are your works, Lord! In wisdom you made them all; the earth is full of your creatures.
 
 5 “ If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.
 
-E. God is Sovereign - Supreme power. Matthew 20:15, Romans 9:21
+  E. God is Sovereign - Supreme power. Matthew 20:15, Romans 9:21
 15 Don’t I have the right to do what I want with my own money? Or are you envious because I am generous?’
 
 21 Does not the potter have the right to make out of the same lump of clay some pottery for special purposes and some for common use?
 
-III. THE MORAL ATTRIBUTES OF GOD.
 
-A. God is Holy. Absolute Moral purity. Isaiah 57:15, 1 Peter 1:15,16
+III. THE MORAL ATTRIBUTES OF GOD.
+  A. God is Holy. Absolute Moral purity. Isaiah 57:15, 1 Peter 1:15,16
 
 15 For this is what the high and exalted One says— he who lives forever, whose name is holy: “I live in a high and holy place, but also with the one who is contrite and lowly in spirit, to revive the spirit of the lowly and to revive the heart of the contrite.
 
 15 But just as he who called you is holy, so be holy in all you do; 16 for it is written: “Be holy, because I am holy.”
-B. God is Righteous. Isaiah 11:3,4
+
+  B. God is Righteous. Isaiah 11:3,4
 3 and he will delight in the fear of the Lord. He will not judge by what he sees with his eyes, or decide by what he hears with his ears; 4 but with righteousness he will judge the needy, with justice he will give decisions for the poor of the earth. He will strike the earth with the rod of his mouth; with the breath of his lips he will slay the wicked.
 
-C. God is Faithful. Numbers 23:19, Heb.10:23
+  C. God is Faithful. Numbers 23:19, Heb.10:23
 19 God is not human, that he should lie, not a human being, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?
 
 23 Let us hold unswervingly to the hope we profess, for he who promised is faithful.
 
-D. God is Merciful. Jeremiah 3:12
-
+  D. God is Merciful. Jeremiah 3:12
 12 Go, proclaim this message toward the north: “‘Return, faithless Israel,’ declares the Lord, ‘I will frown on you no longer, for I am faithful,’ declares the Lord, ‘I will not be angry forever.
 
-E. God is Love. 1John 4:8-11
-
+  E. God is Love. 1John 4:8-11
 8 Whoever does not love does not know God, because God is love. 9 This is how God showed his love among us: He sent his one and only Son into the world that we might live through him. 10 This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins. 11 Dear friends, since God so loved us, we also ought to love one another.
 
-F. God is Good - The goodness of God is that attribute by reason of which He imparts life and
+  F. God is Good - The goodness of God is that attribute by reason of which He imparts life and
 other blessings to His creatures. - 1 Chronicles 16:34, Ezra 3:11, Psalms 25:8, Psalms 23:6
 
 34” Give thanks to the LORD, for he is good;
@@ -976,6 +962,7 @@ therefore he instructs sinners in his ways.
 all the days of my life,
 and I will dwell in the house of the LORD forever.
 
+
 IV. CONCLUSION
 It is truly a privilege to know and serve the God of the Bible. Our response as believers, therefore, should be of total confidence and yieldedness.
 ''');
@@ -983,82 +970,81 @@ It is truly a privilege to know and serve the God of the Bible. Our response as 
 final _nb_Lesson13 = Lessons(
     lessonNumber: 13,
     lessonTitle: 'The Nature and Names of God',
-    lessonBody: '''Introduction:
-Because of our finite mind, we cannot fully understand who God is. However, God Himself has made a way that we could understand part of Him, through the Bible. Our series of Study on God will try to lead us into some Biblical understanding of God.
+    lessonBody:
+        '''Introduction: Because of our finite mind, we cannot fully understand who God is. However, God Himself has made a way that we could understand part of Him, through the Bible. Our series of Study on God will try to lead us into some Biblical understanding of God.
 
-I THE NATURE OF GOD.
-1. God is a Spirit. John 4:24
+I. THE NATURE OF GOD.
+  1. God is a Spirit. John 4:24
 24 God is spirit, and his worshippers must worship in spirit and in truth."
 
 A spirit is without flesh and bone. Luke 24:39
 39 Behold my hands and my feet, that it is I myself: handle me,
 and see; for a spirit hath not flesh and bones, as ye see me have.
 
-2. God has a Personality – (the state of being a person)
-
-A. Basic characteristics of personality are:
-a. Will - Romans 12:2
+  2. God has a Personality – (the state of being a person)
+  A. Basic characteristics of personality are:
+  a. Will - Romans 12:2
 2 And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
-b. Intellect - Prov.3:19-20
+  b. Intellect - Prov.3:19-20
 19 By wisdom, the Lord laid the earth's foundations, by understanding he set the heavens in place;
 20 by his knowledge the deeps were divided, and the clouds let drop the dew.
 
-c. Emotions - Psalm 111:4
+  c. Emotions - Psalm 111:4
 4 He has caused his wonders to be remembered; the Lord is gracious and compassionate.
 
+
 II. GOD'S NATURE IS ALSO REVEALED THROUGH HIS NAMES
+  1. Elohim - (God) used when the creative or omnipotent power of God Is described. Elohim is the creator.
 
-1. Elohim - (God) used when the creative or omnipotent power of God Is described. Elohim is the creator.
-
-2. Jehovah - (Lord) This is the Covenant name of God. He revealed His name to Israel as a response to their need for help and salvation.
+  2. Jehovah - (Lord) This is the Covenant name of God. He revealed His name to Israel as a response to their need for help and salvation.
 - It is the personal NAME of God in His relationship as Redeemer. (Exodus 3:13-15)
 
-2.1 Jehovah - Rapha - "the God that Heals "
+  2.1 Jehovah - Rapha - "the God that Heals "
 Exo. 15:26
 26 He said, "If you listen carefully to the voice of the Lord your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the Lord, who heals you."
 
-2.2 Jehovah - Nissi - " The Lord our Banner"
+  2.2 Jehovah - Nissi - " The Lord our Banner"
 Exo.17:8-15
 15 Moses built an altar and called it The Lord is my Banner.
 
-2.3. Jehovah Shalom - " The Lord our Peace"
+  2.3. Jehovah Shalom - " The Lord our Peace"
 Judges 6:24
 24 So Gideon built an altar to the Lord there and called it The Lord is Peace. To this day it stands in Ophrah of the Abiezrites.
 
-2.4. Jehovah Ra'ah - The Lord our shepherd "
+  2.4. Jehovah Ra'ah - The Lord our shepherd "
 Psalm 23:1
 1 The Lord is my shepherd, I shall not be in want.
 
-2.5. Jehovah Tsidkenu - " the Lord our Righteousness"
+  2.5. Jehovah Tsidkenu - " the Lord our Righteousness"
 Jeremiah 23:6
 6 In his days, Judah will be saved and Israel will live in safety. This is the name by which he will be called: The Lord Our Righteousness.
 
-2.6. Jehovah Shammah-" The Lord is there"
+  2.6. Jehovah Shammah-" The Lord is there"
 Ezekiel 48:35
 35 It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there.
 
-2. 7. Jehovah Jireh - The Lord will provide ..."
+  2.7. Jehovah Jireh - The Lord will provide ..."
 Genesis 22:14
 14 So Abraham called that place The LORD Will Provide. And to this day it is said, “On the mountain of the LORD it will be provided.”
 
 
-3. El - Shaddai - The Almighty God
+  3. El - Shaddai - The Almighty God
 Gen.17:1
 1 And when Abram was ninety years old and nine, the Lord appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.
 
 
-4. El ("God") - used in combination
+  4. El ("God") - used in combination
 El - Elyon means most high God - Genesis 14:18-29
 El - Olan means "The everlasting God" Gen. 21:33
 
-5. Adonai - means Lord or Master- Isaiah 10:16,33
+  5. Adonai - means Lord or Master - Isaiah 10:16,33
 
-6. Father - Matthew 6:9, Acts 17:28
+  6. Father - Matthew 6:9, Acts 17:28
 
 
 III. CONCLUSION
-The God whom we are serving is beyond comprehension in His greatness. It is our privilege to serve Him
+The God whom we are serving is beyond comprehension in His greatness. It is our privilege to serve Him.
 ''');
 
 final _nb_Lesson14 = Lessons(
@@ -1066,31 +1052,26 @@ final _nb_Lesson14 = Lessons(
     lessonTitle: 'How To Hear From God',
     lessonBody: '''Aim: To share some principles of hearing from God
 
-Introduction:
-Growth in our Christian lives is dependent upon our ability to hear, receive and obey God's voice. God wants to speak to us and give us direction. However, the problem lies in our ability to discern when God is speaking to us. Thus, we need to learn how to hear from God.
+Introduction: Growth in our Christian lives is dependent upon our ability to hear, receive and obey God's voice. God wants to speak to us and give us direction. However, the problem lies in our ability to discern when God is speaking to us. Thus, we need to learn how to hear from God.
 
 I. CONDITIONS BEFORE WE CAN HEAR
-
-A. Desire to hear. (Psalms 27:4)
+  A. Desire to hear. (Psalms 27:4)
 “One thing I ask from the LORD, this only do I seek: that I may dwell in the house of the LORD all the days of my life, to gaze on the beauty of the LORD and to seek him in his temple.” (Priority- One Thing, Passion- this only do I seek, Pursuit- that I may dwell)
 
-B. Learn to listen - wait upon The Lord (Psalms 5:3)
+  B. Learn to listen - wait upon The Lord (Psalms 5:3)
 “In the morning, LORD, you hear my voice; in the morning I lay my requests before you and wait expectantly.”
 
-C. Open or Responsive heart-
+  C. Open or Responsive heart-
 Matthew 7: 23
 "Then I will tell them plainly, 'I never knew you. Away from me, you evildoers!'
 
-D. Willingness to change – Matthew 7:6-9
-
+  D. Willingness to change – Matthew 7:6-9
 6 "Do not give dogs what is sacred; do not throw your pearls to pigs. If you do, they may trample them under their feet, and then turn and tear you to pieces. 7 "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. 8 For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened. 9 "Which of you, if his son asks for bread, will give him a stone?
 
-E. Clean Heart - 1 John 1:6-9; John 9:3
-
+  E. Clean Heart - 1 John 1:6-9; John 9:3
 6 If we claim to have fellowship with him yet walk in the darkness, we lie and do not live by the truth. 7 But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin. 8 If we claim to be without sin, we deceive ourselves and the truth is not in us. 9 If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.
 
-F. Maintain close relationship with God
-
+  F. Maintain close relationship with God
 John 15:15
 15 I no longer call you servants, because a servant does not know his master's business. Instead, I have called you friends, for everything that I learned from my Father I have made known to you.
 
@@ -1099,35 +1080,32 @@ John 16:27
 
 
 II DIFFERENT WAYS GOD SPEAKS TO US.
-
-1. Still small voice
+  1. Still small voice
 Isa. 30 :21 -
 21 Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, "This is the way; walk in it."
 
-2. Through the Scriptures
+  2. Through the Scriptures
 2 Tim . 3:16
 16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,
 
-3. Through other people - mature counsel
+  3. Through other people - mature counsel
 
-4. Through Prophecy - - 1 Corinthians 14: 3
+  4. Through Prophecy - - 1 Corinthians 14: 3
 
-3 But everyone who prophesies speaks to men for their strengthening, encouragement and comfort.
+  3 But everyone who prophesies speaks to men for their strengthening, encouragement and comfort.
 
-5. Through messages, - when we listen to preaching
+  5. Through messages, - when we listen to preaching
 
-6. Dreams And Visions - Acts 2: 17
-
+  6. Dreams And Visions - Acts 2: 17
 17 " 'In the last days, God says, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams.
 
-7. Circumstances - sometimes God sovereignly puts us in certain situations.
+  7. Circumstances - sometimes God sovereignly puts us in certain situations.
 
 
 III. CONCLUSION/ Application
+  A. Our ability to hear from God depends on our close walk or relationship with the Lord
 
-A. Our ability to hear from God depends on our close walk or relationship with the Lord
-
-B. We need to maintain, therefore, a close connection with God. example: TELEPHONE LINE.
+  B. We need to maintain, therefore, a close connection with God. example: TELEPHONE LINE.
 ''');
 
 final _nb_Lesson15 = Lessons(
@@ -1139,33 +1117,28 @@ final _nb_Lesson15 = Lessons(
 Introduction: "No man is an Island" is a saying that is true even in our Christian experience. God has created us as social and gregarious beings. We need other people to fellowship with in order to have a balanced and wholesome personality.
 
 I. MEANING OF FELLOWSHIP
+  A. The Greek word for Fellowship is " Koinonia" which means "sharing something in common with someone else". It is a partnership, a participation, and partaking of something together.
 
-A. The Greek word for Fellowship is " Koinonia" which means "sharing something in common with someone else". It is a partnership, a participation, and partaking of something together.
+  B. Scripturally, fellowship is a dynamic relationship between or among Christians whose bond is brought about by a common commitment to Jesus Christ.
 
-B. Scripturally, fellowship is a dynamic relationship between or among Christians whose bond is brought about by a common commitment to Jesus Christ.
 
 II. WHY FELLOWSHIP IS IMPORTANT
 
-A. To fulfill the prayer of Jesus for unity. John. 17
+  A. To fulfill the prayer of Jesus for unity. John. 17
 
-B. To fulfill the command of Jesus to love one another
-John 13: 34,35
+  B. To fulfill the command of Jesus to love one another. John 13: 34,35
 
-C. To fulfill the admonition to gather and encourage one another.
-Hebrews 10:25 -
-Example: Firewood or Broom
+  C. To fulfill the admonition to gather and encourage one another. Hebrews 10:25 - Example: Firewood or Broom
 
 
 III. PRACTICAL SUGGESTIONS WHEN FELLOWSHIPPING
-A. First, pray that God will lead you to the people or church whom to fellowship with.
-B. Fellowship regularly - close relationship is established
-C. Fellowship with pure motive - Christ is the center or Focus
-D. Fellowship With openness and honesty - James 5:16
-E. Fellowship with desire to share and participate - Galatians 6:10
-F. Fellowship with Meek and humble heart - Ephesians 5: 21
-
-G. Fellowship with the attitude of love, acceptance and forgiveness. -
-Romans 12:9-16
+  A. First, pray that God will lead you to the people or church whom to fellowship with.
+  B. Fellowship regularly - close relationship is established
+  C. Fellowship with pure motive - Christ is the center or Focus
+  D. Fellowship With openness and honesty - James 5:16
+  E. Fellowship with desire to share and participate - Galatians 6:10
+  F. Fellowship with Meek and humble heart - Ephesians 5: 21
+  G. Fellowship with the attitude of love, acceptance and forgiveness. - Romans 12:9-16
 
 
 IV. CONCLUSION
@@ -1181,8 +1154,8 @@ Intro: What is a church? This question has several connotations to different kin
 
 Yet God's will is for His people to be united. In this study, we will try to discover what the Bible says about the church.
 
-I. BIBLICAL MEANING OF THE WORD " CHURCH"
 
+I. BIBLICAL MEANING OF THE WORD " CHURCH"
 Greek word - "Ecclesia", meaning an assembly or gathering of called out ones. It is a compound word.
 
 "Ek" which means "out from"; "kaleo" which means "to call". This definition implies, therefore, that the church is NOT A BUILDING, but people, called out from the Kingdom of darkness to the kingdom of light".
@@ -1193,43 +1166,41 @@ John 4:23 “Yet a time is coming and has now come when the true worshipers will
 
 
 II. TWO CONCEPTS OF CHURCH
-
-A. Local church - a body of Christians in a city or locality hence the name local church.
-B. Universal church - the whole body of believers on earth regardless of organization or denomination as long as it recognizes Jesus as Lord and Saviour.
+  A. Local church - a body of Christians in a city or locality hence the name local church.
+  B. Universal church - the whole body of believers on earth regardless of organization or denomination as long as it recognizes Jesus as Lord and Saviour.
 
 
 III. THE FOUNDER OF THE CHURCH.
-
 Matthew 16:18 “And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it. “
 
-1. Jesus Christ - Matthew 16:1 Gk. "Petra" means " huge rock" Gl. "petros" means " small rock"
+  1. Jesus Christ - Matthew 16:1 Gk. "Petra" means " huge rock" Gl. "petros" means " small rock"
 
 1 Peter 2:6-8
 6 For in Scripture it says: "See, I lay a stone in Zion, a chosen and precious
 cornerstone, and the one who trusts in him will never be put to shame." 7 Now to you who believe, this stone is precious. But to those who do not believe, "The stone the builders rejected has become the capstone," 8 and, "A stone that causes men to stumble and a rock that makes them fall." They stumble because they disobey the message-which is also what they were destined for.
 
-2. Jerusalem - Acts 1:8
+  2. Jerusalem - Acts 1:8
 “But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth."
 
-IV. ILLUSTRATION OF THE CHURCH
 
-A. Body of Christ - Ephesians 1:22,23
+IV. ILLUSTRATION OF THE CHURCH
+  A. Body of Christ - Ephesians 1:22,23
 
 “22 And God placed all things under his feet and appointed him to be head over everything for the church, 23 which is his body, the fullness of him who fills everything in every way.”
 
-B. The temple of God - 1 Peter 2:5-6
+  B. The temple of God - 1 Peter 2:5-6
 “you also, like living stones, are being built into a spiritual house[a] to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ. 6 For in Scripture it says:
 “See, I lay a stone in Zion,
 a chosen and precious cornerstone,
 and the one who trusts in him
 will never be put to shame.”
 
-C. The bride of Christ - Ephesians 5: 25-27
-
+  C. The bride of Christ - Ephesians 5: 25-27
 25 “Husbands, love your wives, just as Christ loved the church and gave himself up for her 26 to make her holy, cleansing[a] her by the washing with water through the word, 27 and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless.”
 
 
 V. Conclusion: The church is not a building nor denomination, but a body of believers regardless of affiliation. We must, therefore, see the church from God's perspective so we can love all born again Christians and accept them in spite of their denominational background, for God wants us to become one.
+
 John 17: 20-23
 “20 “My prayer is not for them alone. I pray also for those who will believe in me through their message, 21 that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me. 22 I have given them the glory that you gave me, that they may be one as we are one— 23 I in them and you in me—so that they may be brought to complete unity. Then the world will know that you sent me and have loved them even as you have loved me.
 ''');
@@ -1240,8 +1211,8 @@ final _nb_Lesson17 = Lessons(
     lessonBody:
         '''Aim: To help the believers know what the Kingdom of God is all about and understand its significance in their lives.
 
-Intro:
-The Kingdom of God is the central teaching of Jesus.
+Intro: The Kingdom of God is the central teaching of Jesus.
+
 Luke 4:43
 But he said, “I must proclaim the good news of the kingdom of God to the other towns also, because that is why I was sent.”
 
@@ -1249,30 +1220,31 @@ John the Baptist’s preaching –
 Matthew 3:1-2
 “In those days came John the Baptist, preaching in the wilderness of Judaea, And saying, Repent ye: for the kingdom of heaven is at hand.”
 
-WHAT IS THE KINGDOM OF GOD?
 
+WHAT IS THE KINGDOM OF GOD?
 The Greek word is "BASILEIA"
 -A state or government having a king or queen as its head.
 
 Kingdom as a compound word.
 "King" and "dom", meaning a Kingdom has a King and his domain or subjects.
 
-WHAT THE BIBLE SAYS ABOUT THE KINGDOM
 
-1. Not meat and drink but righteousness, and peace and joy in the Holy Ghost.
+WHAT THE BIBLE SAYS ABOUT THE KINGDOM
+  1. Not meat and drink but righteousness, and peace and joy in the Holy Ghost.
 Romans 14:17
 “For the kingdom of God is not a matter of eating and drinking, but of
 righteousness, peace and joy in the Holy Spirit”
 
-2. Not in Word but in Power!
+  2. Not in Word but in Power!
 1 Corinthians 4:20
 “For the kingdom of God is not a matter of talk but of power.”
 
-3. The Kingdom of God is a place
+  3. The Kingdom of God is a place
 John 18:36
 Jesus said, "My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jews. But now my kingdom is from another place."
 
 The Kingdom of God is not food and drink. It is a lifestyle presented by the Lord Jesus Christ, available to the Christians. It is possible in the Holy Ghost. It is a lifestyle characterized by righteousness, peace, joy and power. It is found in the Lord Jesus Christ.
+
 
 WHERE IS THE KINGDOM OF GOD?
 Luke 17:20-21
@@ -1281,9 +1253,9 @@ Luke 17:20-21
 
 - It is the rule of God in the hearts, minds and wills of God's people.
 
-HOW CAN WE ENTER INTO THE KINGDOM OF GOD?
 
-1. Being Born - Again is the first step.
+HOW CAN WE ENTER INTO THE KINGDOM OF GOD?
+  1. Being Born - Again is the first step.
 John 3:3
 In reply Jesus declared, "I tell you the truth, no-one can see the kingdom of God unless he is born again."
 
@@ -1294,16 +1266,16 @@ John 3:5
 Jesus answered, "I tell you the truth, no-one can enter the kingdom of God unless he is born of water and the Spirit.
 - being born of water is our means
 
-a. Being convicted in God's Word. This will lead to repentance and salvation.
+  a. Being convicted in God's Word. This will lead to repentance and salvation.
 Romans 10:14
 “How, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them?”
 
 Romans 10:17
 “Consequently, faith comes from hearing the message, and the message is heard through the word of Christ.”
 
-b. Being born in Water is our physical entrance in this physical world.
+  b. Being born in Water is our physical entrance in this physical world.
 
-c. Being born in the Spirit is our spiritual entrance to the spiritual world.
+  c. Being born in the Spirit is our spiritual entrance to the spiritual world.
 
 The Kingdom of God is SPIRITUAL AND PHYSICAL at the same time. What we have today is a spiritual Kingdom.
 
@@ -1321,7 +1293,7 @@ Revelation 11:15
 Revelation 5:10
 “You have made them to be a kingdom and priests to serve our God, and they will reign on the earth."
 
-2. Being Born-again is the beginning of the New Life.
+  2. Being Born-again is the beginning of the New Life.
 
 2 Corinthians 5:17
 “Therefore, if anyone is in Christ, he is a new creation; the old has gone, the new has come!”
@@ -1332,14 +1304,14 @@ Revelation 5:10
 
 - The emphasis of "Lord and Savior" signifies the Lordship of Jesus.
 
-WHAT ARE THE BENEFITS OF ENTERING IN THE KINGDOM OF GOD.
 
-1. Eternal life in heaven.
+WHAT ARE THE BENEFITS OF ENTERING IN THE KINGDOM OF GOD.
+  1. Eternal life in heaven.
 
 1 John 5:11-13
 11 “And this is the testimony: God has given us eternal life, and this life is in his Son.12 He who has the Son has life; he who does not have the Son of God does not have life.13 I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life.”
 
-2. Abundant life on earth.
+  2. Abundant life on earth.
 
 John 10:10
 “The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.”
@@ -1352,6 +1324,7 @@ Matthew 6:33
 
 - When we put the Kingdom of God our top priority, God will provide health and prosperity as well as meet all your needs.
 
+
 CONCLUSION:
 Let us seek first God's kingdom and His righteousness then we can be assured we will have everything that we need in life.
 ''');
@@ -1361,67 +1334,67 @@ final _nb_Lesson18 = Lessons(
     lessonTitle: 'The Civil Government',
     lessonBody: '''Aim: To present the Biblical View concerning Civil Government
 
-Intro:
-How should a Christian relate to civil Government? Today, with the spreading influence of rebellion and indifference to civil government, Christians sometimes are affected and put in a dilemma: whether to be submissive to government authorities or not. What should be our attitude as believers towards civil government?
+Introduction: How should a Christian relate to civil Government? Today, with the spreading influence of rebellion and indifference to civil government, Christians sometimes are affected and put in a dilemma: whether to be submissive to government authorities or not. What should be our attitude as believers towards civil government?
 
 I. What is a Civil Government?
-
 Civil- of, pertaining to, or consisting of citizens: civil life; civil society.
+
 Citizens -
-1.a native or naturalized member of a state or nation who
+  1.a native or naturalized member of a state or nation who
 owes allegiance to its government and is entitled to its
 protection (distinguished from alien).
-2.an inhabitant of a city or town, especially one entitled
+  2.an inhabitant of a city or town, especially one entitled
 to its privileges or franchises.
 
 Government -
-1. the political direction and control exercised over the actions
+  1. the political direction and control exercised over the actions
 of the members, citizens, or inhabitants of communities, societies,
 and states; direction of the affairs of a state, community, etc.
 ; political administration: Government is necessary to the existence
 of civilized society.
 
-2. the form or system of rule by which a state, community,
+  2. the form or system of rule by which a state, community,
 etc., is governed: monarchical government; episcopal government.
 
+
 II. Biblical Perspective on Civil Government
-A. Civil Government is instituted by God. Romans 13:1
-B. Civil Government is an instrument to fulfill Divine Office. Romans 13:2
-C. Civil Government is expected to rule according to Divine will. Romans 13:4
+  A. Civil Government is instituted by God. Romans 13:1
+  B. Civil Government is an instrument to fulfill Divine Office. Romans 13:2
+  C. Civil Government is expected to rule according to Divine will. Romans 13:4
+
 
 III. The Government's Obligation to the Society
-A. To Keep Peace. Romans 13:4
-B. To maintain and preserve Order - Romans 13:4
-C. To Uphold Justice. Romans 13:3
+  A. To Keep Peace. Romans 13:4
+  B. To maintain and preserve Order - Romans 13:4
+  C. To Uphold Justice. Romans 13:3
+
 
 IV. Christian Attitude and Obligation to Civil Government
-
-A. Voluntary submission. Rom. 13:1,6, 1Pet. 2:13
-B. Obedience. Romans 13:5
-C. Respect. Romans 13:7, 1Peter 2:17
-
-D. Tribute
+  A. Voluntary submission. Rom. 13:1,6, 1Pet. 2:13
+  B. Obedience. Romans 13:5
+  C. Respect. Romans 13:7, 1Peter 2:17
+  D. Tribute
 What is a Tribute?
-1. a stated sum or other valuable consideration paid by
+  1. a stated sum or other valuable consideration paid by
 one sovereign or state to another in acknowledgment
 of subjugation or as the price of peace, security, protection,
 or the like.
 
-2. a rent, tax, or the like, as that paid by a subject
+  2. a rent, tax, or the like, as that paid by a subject
 to a sovereign.
 
-3. any exacted or enforced payment or contribution.
+  3. any exacted or enforced payment or contribution.
 
-4. obligation or liability to make such payment. Romans 13:7
+  4. obligation or liability to make such payment. Romans 13:7
 
-E. Pray. 1 Tim. 2:1,2
+  E. Pray. 1 Tim. 2:1,2
 
 
 V. Conclusion
-A. As Christians, therefore, we should develop an attitude of respect
+  A. As Christians, therefore, we should develop an attitude of respect
 and submission to our civil Government or authorities.
 
-B. We may differ in opinion regarding our government leaders,
+  B. We may differ in opinion regarding our government leaders,
 yet the command is clear to respect and pray for them.
 ''');
 
@@ -1431,37 +1404,35 @@ final _nb_Lesson19 = Lessons(
     lessonBody:
         '''Aim: To impart the principle of submission as a necessary step towards spiritual leadership and authority.
 
-Intro:
-The Bible tells us that God is the God of order. All of His creation move toward a perfect harmony, obeying His will. Unfortunately, man decided to rebel against the Almighty. As a consequence, the spirit of rebellion has influenced all of human race. But God wants to restore obedience and submission among His people. This is a tremendous principle that each believer should learn if he wants to grow and be used in leadership.
-
+Introduction: The Bible tells us that God is the God of order. All of His creation move toward a perfect harmony, obeying His will. Unfortunately, man decided to rebel against the Almighty. As a consequence, the spirit of rebellion has influenced all of human race. But God wants to restore obedience and submission among His people. This is a tremendous principle that each believer should learn if he wants to grow and be used in leadership.
 
 1. THE IMPORTANCE OF SUBMISSION.
-A. Submission is God's command.
+  A. Submission is God's command.
 Exodus 20 (The Ten Commandments)
 James 4:7
-B. Submission put us in line with God's power and authority.
+  B. Submission put us in line with God's power and authority.
 Luke 7:6-7
-C. Submission links us to God's blessings.
+  C. Submission links us to God's blessings.
 Lev. 26:3-9; Mal. 3:10-12, Deut. 29:9
-D. Submission is an expression of humility.
+  D. Submission is an expression of humility.
 1Pet. 5:5
 
 
 II. EXAMPLES OF SUBMISSION.
-1. Jesus - Matt. 26:39-42, Luke 22: 42,
-2. Paul -1 Cor. 16:7
+  1. Jesus - Matt. 26:39-42, Luke 22: 42,
+  2. Paul -1 Cor. 16:7
 
 
 III. TO WHOM ARE WE TO SUBMIT?
-A. To God. James 4:7
-B. To Delegated Authorities
-1. Family
-a. Husband - 1Cor. 11:3
-b. Wife - Eph. 5:33, 1 Pet. 3:1-6
-c. Children - Eph. 6:1-2
-2. Church - Heb. 13:17, 1 Thess. 5:12-13
-3. Government - Rom. 13:1; Titus 3:1
-4. Employers- Col.3:22
+  A. To God. James 4:7
+  B. To Delegated Authorities
+  1. Family
+  a. Husband - 1Cor. 11:3
+  b. Wife - Eph. 5:33, 1 Pet. 3:1-6
+  c. Children - Eph. 6:1-2
+  2. Church - Heb. 13:17, 1 Thess. 5:12-13
+  3. Government - Rom. 13:1; Titus 3:1
+  4. Employers- Col.3:22
 
 
 IV. CONCLUSION/ APPLICATION
@@ -1473,28 +1444,26 @@ final _nb_Lesson20 = Lessons(
     lessonTitle: 'Giving',
     lessonBody: '''Aim: To study the importance of giving in the Kingdom of God.
 
-Introduction:" You can give without loving, but you cannot love without giving. "
+Introduction: "You can give without loving, but you cannot love without giving. "
 
 If there is going to be real love between us and God, and man with man we cannot substantiate this without giving. Giving is a vital experience of love, thus making it an important principle in the Kingdom of God.
 
-
 I. WHY SHOULD CHRISTIANS BE GIVERS?
-
-A. To imitate the example of God.
+  A. To imitate the example of God.
 John 3:16
 "For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life.
 
 2 Cor. 8:9
 “For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes he became poor, so that you through his poverty might become rich.
 
-B. To obey His command .
+  B. To obey His command .
 Luke 6:38
 “Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap. For with the measure you use, it will be measured to you."
 
-C. To be a good steward.
+  C. To be a good steward.
 Matthew 25:14-30
 
-D. To receive God's blessing
+  D. To receive God's blessing
 
 Luke 6:38 NIV
 [38] Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap. For with the measure you use, it will be measured to you.”
@@ -1503,10 +1472,8 @@ Prov. 3:9-10
 “Honour the Lord with your wealth,m with the first-fruits of all your crops; then your barns will be filled to overflowing, and your vats will brim over with new wine.”
 
 
-II WHAT SHOULD WE GIVE?
-
-A. The Tithe
-
+II. WHAT SHOULD WE GIVE?
+  A. The Tithe
 Malachi 3:6-12 NIV
 [6] “I the Lord do not change. So you, the descendants of Jacob, are not destroyed. [7] Ever since the time of your ancestors you have turned away from my decrees and have not kept them. Return to me, and I will return to you,” says the Lord Almighty. “But you ask, 'How are we to return?' [8] “Will a mere mortal rob God? Yet you rob me. “But you ask, 'How are we robbing you?' “In tithes and offerings. [9] You are under a curse---your whole nation---because you are robbing me. [10] Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,” says the Lord Almighty, “and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it. [11] I will prevent pests from devouring your crops, and the vines in your fields will not drop their fruit before it is ripe, ” says the Lord Almighty. [12] “Then all the nations will call you blessed, for yours will be a delightful land,” says the Lord Almighty.
 
@@ -1516,33 +1483,32 @@ Leviticus 27:30-32 NIV
 Deuteronomy 14:22-23 NIV
 [22] Be sure to set aside a tenth of all that your fields produce each year. [23] Eat the tithe of your grain, new wine and olive oil, and the firstborn of your herds and flocks in the presence of the Lord your God at the place he will choose as a dwelling for his Name, so that you may learn to revere the Lord your God always.
 
-B. Offerings
-1. Love offerings
-2. Missions offering
-3. Other offerings
+  B. Offerings
+  1. Love offerings
+  2. Missions offering
+  3. Other offerings
 
-C. Ourselves
+  C. Ourselves
 2 Corinthians 8:5
 “And they did not do as we expected, but they gave themselves first to the Lord and then to us in keeping with God's will.”
 
 
 III. HOW SHOULD WE GIVE?
-
-A. Generously.
+  A. Generously.
 2 Cor. 9:6
 “Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. “
 
 Prov. 11:25
 “A generous man will prosper; he who refreshes others will himself be refreshed.”
 
-B. Joyously
+  B. Joyously
 2 Cor.9:7
 Each man should give what he has decided in his heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.
 
 I Chron. 29:9
 “The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly to the Lord. David the king also rejoiced greatly.”
 
-C. Faith.
+  C. Faith.
 2 Cor. 8:2-3,
 “Out of the most severe trial, their overflowing joy and their extreme poverty welled up in rich generosity. For I testify that they gave as much as they were able, and even
 beyond their ability. Entirely on their own”
@@ -1550,15 +1516,14 @@ beyond their ability. Entirely on their own”
 Rom. 14:23
 “But the man who has doubts is condemned if he eats, because his eating is not from faith; and everything that does not come from faith is sin.”
 
-D. Humbly
+  D. Humbly
 Matt. 6:1-4
 "Be careful not to do your 'acts of righteousness' before men, to be seen by them. If you do, you will have no reward from your Father in heaven. "So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honoured by men. I tell you the truth, they have received their reward in full. But when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you.
 
+
 IV. Conclusion/ Application
-
-A. Start applying the biblical principle of giving no matter what your financial condition is.
-
-B. Trust His promise. We cannot out-give God.
+  A. Start applying the biblical principle of giving no matter what your financial condition is.
+  B. Trust His promise. We cannot out-give God.
 ''');
 
 final _nb_Lesson21 = Lessons(

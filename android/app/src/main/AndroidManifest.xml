@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="tifmoroli_onelife_app"
+        android:label="TIFMOROLI One Life App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
