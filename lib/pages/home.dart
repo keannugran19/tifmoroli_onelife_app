@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:tifmoroli_onelife_app/components/logo.dart';
 import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/components/square_tile.dart';
@@ -18,6 +19,99 @@ class MyHomePage extends StatelessWidget {
     const String appSubTitle = "One Life App";
 
     return Scaffold(
+      extendBodyBehindAppBar: true,
+      appBar: AppBar(
+        elevation: 0,
+        backgroundColor: Colors.transparent,
+      ),
+      drawer: Drawer(
+        backgroundColor: backgroundColor,
+        child: ListView(
+          padding: EdgeInsets.zero,
+          children: [
+            Container(
+              height: 200,
+              decoration: const BoxDecoration(
+                  image: DecorationImage(
+                      image: AssetImage("lib/images/tifmoroli-logo-new.png"),
+                      fit: BoxFit.contain)),
+              child: const Text(""),
+            ),
+
+            // App Title
+            Center(
+              child: ShaderMask(
+                shaderCallback: (Rect bounds) {
+                  return LinearGradient(
+                    colors: [
+                      colorScheme.primary,
+                      colorScheme.secondary,
+                      colorScheme.tertiary
+                    ], // Replace with your desired colors
+                    stops: const [
+                      0.0,
+                      0.5,
+                      1.0
+                    ], // Adjust stops based on your preference
+                  ).createShader(bounds);
+                },
+                child: const Text(
+                  appTitle,
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 40,
+                    letterSpacing: 2.0,
+                    color: Colors
+                        .white, // Text color, choose a color that contrasts well with the gradient
+                  ),
+                ),
+              ),
+            ),
+            const Center(
+              child: Text(
+                appSubTitle,
+                style: TextStyle(fontSize: 20),
+              ),
+            ),
+
+            const SizedBox(
+              height: 20,
+            ),
+            // Lessons dropdown
+            ExpansionTile(
+              title: const Text(
+                'Lessons',
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+              ),
+              children: [
+                ListTile(
+                  title: const Text(
+                    "\t\tNew Believers",
+                    style: TextStyle(fontSize: 16),
+                  ),
+                  onTap: () {},
+                ),
+                ListTile(
+                  title: const Text(
+                    "\t\tMentoring",
+                    style: TextStyle(fontSize: 16),
+                  ),
+                  onTap: () {},
+                ),
+                ListTile(
+                  title: const Text(
+                    "\t\tLeadership",
+                    style: TextStyle(fontSize: 16),
+                  ),
+                  onTap: () {},
+                ),
+              ],
+            )
+          ],
+        ),
+      ),
+
+      // Home Page UI
       body: SafeArea(
         child: SingleChildScrollView(
           child: Column(
@@ -26,6 +120,7 @@ class MyHomePage extends StatelessWidget {
               const Logo(
                 image: 'lib/images/tifmoroli-logo.png',
               ),
+
               // App Title
               Center(
                 child: ShaderMask(
