@@ -1,7 +1,7 @@
-import 'package:flutter/cupertino.dart';
 import 'package:tifmoroli_onelife_app/components/logo.dart';
 import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/components/square_tile.dart';
+import 'package:tifmoroli_onelife_app/components/about_dialog.dart';
 import 'package:tifmoroli_onelife_app/constants/colors.dart';
 import 'package:tifmoroli_onelife_app/components/home_button.dart';
 import 'package:tifmoroli_onelife_app/data/lesson_data.dart';
@@ -24,13 +24,17 @@ class MyHomePage extends StatelessWidget {
         elevation: 0,
         backgroundColor: Colors.transparent,
       ),
+
+      // drawer upon clicking the hamburger menu
       drawer: Drawer(
         backgroundColor: backgroundColor,
         child: ListView(
           padding: EdgeInsets.zero,
           children: [
+            // app logo
             Container(
               height: 200,
+              width: 200,
               decoration: const BoxDecoration(
                   image: DecorationImage(
                       image: AssetImage("lib/images/tifmoroli-logo-new.png"),
@@ -77,6 +81,7 @@ class MyHomePage extends StatelessWidget {
             const SizedBox(
               height: 20,
             ),
+
             // Lessons dropdown
             ExpansionTile(
               title: const Text(
@@ -106,7 +111,10 @@ class MyHomePage extends StatelessWidget {
                   onTap: () {},
                 ),
               ],
-            )
+            ),
+
+            //* About Us ListTile with AlertDialog onclicked
+            const DialogBox(),
           ],
         ),
       ),
