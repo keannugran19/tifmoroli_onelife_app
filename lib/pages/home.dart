@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/components/square_tile.dart';
 import 'package:tifmoroli_onelife_app/components/about_dialog.dart';
 import 'package:tifmoroli_onelife_app/constants/colors.dart';
-import 'package:tifmoroli_onelife_app/components/home_button.dart';
 import 'package:tifmoroli_onelife_app/data/lesson_data.dart';
 import 'package:tifmoroli_onelife_app/pages/leadership_lessonslist.dart';
 import 'package:tifmoroli_onelife_app/pages/mentoring_lessonslist.dart';
@@ -37,7 +36,8 @@ class MyHomePage extends StatelessWidget {
               width: 200,
               decoration: const BoxDecoration(
                   image: DecorationImage(
-                      image: AssetImage("lib/images/tifmoroli-logo-new.png"),
+                      image: AssetImage(
+                          "lib/assets/images/tifmoroli-logo-new.png"),
                       fit: BoxFit.contain)),
               child: const Text(""),
             ),
@@ -94,18 +94,48 @@ class MyHomePage extends StatelessWidget {
                     "\t\tNew Believers",
                     style: TextStyle(fontSize: 16),
                   ),
-                  onTap: () {},
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => NewBelieversLessons(
+                              nblessonsList: nblessonsList)),
+                    );
+                  },
                 ),
                 ListTile(
                   title: const Text(
                     "\t\tMentoring",
                     style: TextStyle(fontSize: 16),
                   ),
-                  onTap: () {},
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => MentoringLessons(
+                                mtlessonslist: mtlessonsList,
+                              )),
+                    );
+                  },
                 ),
                 ListTile(
                   title: const Text(
                     "\t\tLeadership",
+                    style: TextStyle(fontSize: 16),
+                  ),
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => LeadershipLessons(
+                                ldlessonslist: ldlessonsList,
+                              )),
+                    );
+                  },
+                ),
+                ListTile(
+                  title: const Text(
+                    "\t\tOutreach",
                     style: TextStyle(fontSize: 16),
                   ),
                   onTap: () {},
@@ -126,7 +156,7 @@ class MyHomePage extends StatelessWidget {
             children: [
               // Your Content
               const Logo(
-                image: 'lib/images/tifmoroli-logo.png',
+                image: 'lib/assets/images/tifmoroli-logo.png',
               ),
 
               // App Title
@@ -165,63 +195,6 @@ class MyHomePage extends StatelessWidget {
                 ),
               ),
 
-              const SizedBox(
-                height: 20,
-              ),
-
-              HomeButton(
-                buttonText: 'New Believers',
-                buttonColor: colorScheme.primary,
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) =>
-                            NewBelieversLessons(nblessonsList: nblessonsList)),
-                  );
-                },
-              ),
-
-              const SizedBox(
-                height: 15,
-              ),
-
-              HomeButton(
-                buttonText: 'Mentoring',
-                buttonColor: colorScheme.secondary,
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => MentoringLessons(
-                              mtlessonslist: mtlessonsList,
-                            )),
-                  );
-                },
-              ),
-
-              const SizedBox(
-                height: 15,
-              ),
-
-              HomeButton(
-                buttonText: 'Leadership',
-                buttonColor: colorScheme.tertiary,
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => LeadershipLessons(
-                              ldlessonslist: ldlessonsList,
-                            )),
-                  );
-                },
-              ),
-
-              const SizedBox(
-                height: 30,
-              ),
-
               const Text(
                 'visit us on:',
                 style: TextStyle(fontSize: 20, fontStyle: FontStyle.italic),
@@ -235,7 +208,7 @@ class MyHomePage extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   SquareTile(
-                    imagePath: 'lib/images/facebook.png',
+                    imagePath: 'lib/assets/images/facebook.png',
                     onTap: () async {
                       const url = 'https://www.facebook.com/tifmoroli';
                       if (await canLaunch(url)) {
@@ -246,7 +219,7 @@ class MyHomePage extends StatelessWidget {
                     },
                   ),
                   SquareTile(
-                    imagePath: 'lib/images/web.png',
+                    imagePath: 'lib/assets/images/web.png',
                     onTap: () async {
                       const url = 'https://www.tifmoroli.com/';
                       if (await canLaunch(url)) {
