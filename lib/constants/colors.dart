@@ -11,16 +11,14 @@ const accentFgColor = Color(0xFF000000);
 
 const colorScheme = ColorScheme(
   brightness: Brightness.light,
-  background: backgroundColor,
-  onBackground: textColor,
+  surface: backgroundColor,
+  onSurface: textColor,
   primary: primaryColor,
   onPrimary: primaryFgColor,
   secondary: secondaryColor,
   onSecondary: secondaryFgColor,
   tertiary: accentColor,
   onTertiary: accentFgColor,
-  surface: backgroundColor,
-  onSurface: textColor,
   error: Brightness.light == Brightness.light
       ? Color(0xffB3261E)
       : Color(0xffF2B8B5),

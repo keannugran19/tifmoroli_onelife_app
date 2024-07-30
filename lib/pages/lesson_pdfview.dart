@@ -7,6 +7,12 @@ class LessonView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        body: SfPdfViewer.asset('lib/assets/lessons/newbelievers/Lesson1.pdf'));
+      appBar: AppBar(
+        backgroundColor: Colors.transparent,
+      ),
+      body: SfPdfViewer.asset(
+        'assets/lessons/newbelievers/Lesson1.pdf',
+      ),
+    );
   }
 }

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'package:tifmoroli_onelife_app/pages/home.dart';
+import 'package:tifmoroli_onelife_app/pages/home.dart';
 import 'package:tifmoroli_onelife_app/pages/lesson_pdfview.dart';
 
 void main() {
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const LessonView(),
+      home: const MyHomePage(),
       theme: ThemeData(
         fontFamily: 'Poppins',
       ),
