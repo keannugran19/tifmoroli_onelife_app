@@ -5,7 +5,8 @@ class DialogBox extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return // About us dropdown
+    return
+        // About us dropdown
         ListTile(
       title: const Text(
         "About Us",
@@ -20,7 +21,7 @@ class DialogBox extends StatelessWidget {
             
 Leveraging the power of technology, the team has made it easier for users to retain knowledge by placing these lessons right at their fingertips.
 
-© TIFMOROLI IT Department
+© 2023 TIFMOROLI IT Department
           """),
           actions: <Widget>[
             TextButton(
