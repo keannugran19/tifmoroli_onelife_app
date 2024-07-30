@@ -8,10 +8,10 @@ class LessonView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.transparent,
+        backgroundColor: Colors.white,
       ),
       body: SfPdfViewer.asset(
-        'assets/lessons/newbelievers/Lesson1.pdf',
+        'assets/lessons/newbelievers/lesson1sin.pdf',
       ),
     );
   }

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/constants/colors.dart';
 import 'package:tifmoroli_onelife_app/models/lessons.dart';
 import 'package:tifmoroli_onelife_app/components/lesson_content.dart';
+import 'package:tifmoroli_onelife_app/pages/lesson_pdfview.dart';
 
 class NewBelieversLessons extends StatelessWidget {
   const NewBelieversLessons({
@@ -31,12 +32,7 @@ class NewBelieversLessons extends StatelessWidget {
                 onTap: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(
-                      builder: (context) => LessonContent(
-                        lessonsList: nblessonsList,
-                        selectedLessonIndex: index,
-                      ),
-                    ),
+                    MaterialPageRoute(builder: (context) => const LessonView()),
                   );
                 },
                 child: ListTile(

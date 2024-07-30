@@ -2,9 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/pages/home.dart';
 import 'package:tifmoroli_onelife_app/pages/lesson_pdfview.dart';
 
-void main() {
-  runApp(const MyApp());
-}
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
