@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:tifmoroli_onelife_app/pages/home.dart';
-import 'package:tifmoroli_onelife_app/pages/lesson_pdfview.dart';
 
 void main() => runApp(const MyApp());
 

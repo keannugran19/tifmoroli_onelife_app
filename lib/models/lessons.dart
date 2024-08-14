@@ -1,11 +1,11 @@
 class Lessons {
   int lessonNumber;
   String lessonTitle;
-  String lessonBody;
+  String lessonLink;
 
   Lessons({
     required this.lessonNumber,
     required this.lessonTitle,
-    required this.lessonBody,
+    required this.lessonLink,
   });
 }

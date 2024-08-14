@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:tifmoroli_onelife_app/components/lesson_pdfview.dart';
 import 'package:tifmoroli_onelife_app/constants/colors.dart';
 import 'package:tifmoroli_onelife_app/models/lessons.dart';
 
 import '../data/lesson_data.dart';
-import '../components/lesson_content.dart';
 
 class MentoringLessons extends StatelessWidget {
   const MentoringLessons({super.key, required this.mtlessonslist});
@@ -30,7 +30,7 @@ class MentoringLessons extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => LessonContent(
+                      builder: (context) => LessonView(
                         lessonsList: mtlessonsList,
                         selectedLessonIndex: index,
                       ),

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:tifmoroli_onelife_app/components/lesson_pdfview.dart';
 import 'package:tifmoroli_onelife_app/constants/colors.dart';
 
-import '../components/lesson_content.dart';
 import '../models/lessons.dart';
 
 class LeadershipLessons extends StatelessWidget {
@@ -29,7 +29,7 @@ class LeadershipLessons extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => LessonContent(
+                      builder: (context) => LessonView(
                         lessonsList: ldlessonslist,
                         selectedLessonIndex: index,
                       ),
