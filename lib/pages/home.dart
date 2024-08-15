@@ -63,7 +63,7 @@ class MyHomePage extends StatelessWidget {
                   child: const Text(
                     appTitle,
                     style: TextStyle(
-                      fontWeight: FontWeight.bold,
+                      fontWeight: FontWeight.w700,
                       fontSize: 40,
                       letterSpacing: 2.0,
                       color: Colors
@@ -153,88 +153,95 @@ class MyHomePage extends StatelessWidget {
 
       // Home Page UI
       body: SafeArea(
-        child: SingleChildScrollView(
-          child: Column(
-            children: [
-              // Your Content
-              const Logo(
-                image: 'assets/images/tifmoroli-logo.png',
-              ),
-
-              // App Title
-              Center(
-                child: ShaderMask(
-                  shaderCallback: (Rect bounds) {
-                    return LinearGradient(
-                      colors: [
-                        colorScheme.primary,
-                        colorScheme.secondary,
-                        colorScheme.tertiary
-                      ], // Replace with your desired colors
-                      stops: const [
-                        0.0,
-                        0.5,
-                        1.0
-                      ], // Adjust stops based on your preference
-                    ).createShader(bounds);
-                  },
-                  child: const Text(
-                    appTitle,
-                    style: TextStyle(
-                      fontWeight: FontWeight.bold,
-                      fontSize: 45,
-                      letterSpacing: 2.0,
-                      color: Colors
-                          .white, // Text color, choose a color that contrasts well with the gradient
+        child: Column(
+          children: [
+            const Expanded(
+              child: SingleChildScrollView(
+                child: Column(
+                  children: [
+                    // Your Content
+                    Logo(
+                      image: 'assets/images/onelife-app.png',
                     ),
-                  ),
+
+                    // App Title
+                    Center(
+                      child: Column(
+                        children: [
+                          Text(
+                            "ONE LIFE APP",
+                            style: TextStyle(
+                                fontWeight: FontWeight.w800,
+                                fontSize: 40,
+                                letterSpacing: 0,
+                                color: Color(0xFF203cf2)),
+                          ),
+                          Text(
+                            "Psalms 42: 1-2",
+                            style: TextStyle(
+                                fontSize: 20, fontWeight: FontWeight.w500),
+                          ),
+                          Text(
+                            """“As a deer pants for flowing streams,
+so pants my soul for you, O God.
+My soul thirsts for God,
+for the living God.”""",
+                            style: TextStyle(
+                                fontSize: 16, fontWeight: FontWeight.normal),
+                            textAlign: TextAlign.center,
+                          )
+                        ],
+                      ),
+                    ),
+                  ],
                 ),
               ),
-              const Center(
-                child: Text(
-                  appSubTitle,
-                  style: TextStyle(fontSize: 25),
+            ),
+
+            // Widgets moved to the bottom
+            Column(
+              children: [
+                const Text(
+                  'visit us on:',
+                  style: TextStyle(fontSize: 20, fontStyle: FontStyle.italic),
                 ),
-              ),
+                const SizedBox(
+                  height: 5,
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: [
+                    SquareTile(
+                      imagePath: 'assets/images/facebook.png',
+                      onTap: () async {
+                        const url = 'https://www.facebook.com/tifmoroli';
+                        if (await canLaunch(url)) {
+                          await launch(url);
+                        } else {
+                          throw 'Could not launch $url';
+                        }
+                      },
+                    ),
+                    SquareTile(
+                      imagePath: 'assets/images/web.png',
+                      onTap: () async {
+                        const url = 'https://www.tifmoroli.com/';
+                        if (await canLaunch(url)) {
+                          await launch(url);
+                        } else {
+                          throw 'Could not launch $url';
+                        }
+                      },
+                    )
+                  ],
+                ),
+              ],
+            ),
 
-              const Text(
-                'visit us on:',
-                style: TextStyle(fontSize: 20, fontStyle: FontStyle.italic),
-              ),
-
-              const SizedBox(
-                height: 10,
-              ),
-
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  SquareTile(
-                    imagePath: 'assets/images/facebook.png',
-                    onTap: () async {
-                      const url = 'https://www.facebook.com/tifmoroli';
-                      if (await canLaunch(url)) {
-                        await launch(url);
-                      } else {
-                        throw 'Could not launch $url';
-                      }
-                    },
-                  ),
-                  SquareTile(
-                    imagePath: 'assets/images/web.png',
-                    onTap: () async {
-                      const url = 'https://www.tifmoroli.com/';
-                      if (await canLaunch(url)) {
-                        await launch(url);
-                      } else {
-                        throw 'Could not launch $url';
-                      }
-                    },
-                  )
-                ],
-              )
-            ],
-          ),
+            const SizedBox(
+              height: 50,
+            )
+          ],
         ),
       ),
     );
