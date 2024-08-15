@@ -17,9 +17,9 @@ class DialogBox extends StatelessWidget {
         builder: (BuildContext context) => AlertDialog(
           title: const Text('About Us'),
           content: const Text(
-              """TIFMOROLI One Life App: The ROL IT Department’s pioneering application aims to facilitate the distribution and accessibility of various lessons.
-            
-Leveraging the power of technology, the team has made it easier for users to retain knowledge by placing these lessons right at their fingertips.
+              """The moment we knew God and believed in Him with all of our hearts, our souls long to know Him more, emanating a thirst from within. We hope his app helps us quench our thirst for the knowledge of God.
+              
+The One Life App is created for the members of The International Family Ministries of River of Life to have a learning resource in the palm of their hands. With this app, members can finally have One Life classes whenever and wherever.
 
 © 2023 TIFMOROLI IT Department
           """),
