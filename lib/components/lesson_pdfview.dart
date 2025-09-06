@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart';
 import 'package:tifmoroli_onelife_app/models/lessons.dart';
+import 'package:pdfrx/pdfrx.dart';
 
 class LessonView extends StatelessWidget {
   const LessonView(
@@ -17,7 +17,7 @@ class LessonView extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.white,
       ),
-      body: SfPdfViewer.asset(
+      body: PdfViewer.asset(
         lessonsList[selectedLessonIndex].lessonLink,
       ),
     );
