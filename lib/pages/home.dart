@@ -182,13 +182,16 @@ class MyHomePage extends StatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
-            const Expanded(
+            Expanded(
               child: SingleChildScrollView(
                 child: Column(
                   children: [
                     // Your Content
                     Logo(
                       image: 'assets/images/onelife-app.png',
+                    ),
+                    SizedBox(
+                      height: MediaQuery.of(context).size.height * 0.03,
                     ),
 
                     // App Title
@@ -199,23 +202,40 @@ class MyHomePage extends StatelessWidget {
                             "ONE LIFE APP",
                             style: TextStyle(
                                 fontWeight: FontWeight.w800,
-                                fontSize: 40,
+                                fontSize:
+                                    MediaQuery.of(context).size.width * 0.11,
                                 letterSpacing: 0,
                                 color: Color(0xFF203cf2)),
+                          ),
+                          SizedBox(
+                            height: MediaQuery.of(context).size.height * 0.01,
                           ),
                           Text(
                             "Psalms 42: 1-2",
                             style: TextStyle(
-                                fontSize: 20, fontWeight: FontWeight.w500),
+                                fontSize:
+                                    MediaQuery.of(context).size.width * 0.05,
+                                fontWeight: FontWeight.w500),
                           ),
-                          Text(
-                            """“As a deer pants for flowing streams,
+                          SizedBox(
+                            height: MediaQuery.of(context).size.height * 0.01,
+                          ),
+                          Padding(
+                            padding: EdgeInsets.symmetric(
+                              horizontal:
+                                  MediaQuery.of(context).size.width * 0.1,
+                            ),
+                            child: Text(
+                              """'As a deer pants for flowing streams,
       so pants my soul for you, O God.
       My soul thirsts for God,
-      for the living God.”""",
-                            style: TextStyle(
-                                fontSize: 16, fontWeight: FontWeight.normal),
-                            textAlign: TextAlign.center,
+      for the living God.'""",
+                              style: TextStyle(
+                                  fontSize:
+                                      MediaQuery.of(context).size.width * 0.03,
+                                  fontWeight: FontWeight.normal),
+                              textAlign: TextAlign.center,
+                            ),
                           )
                         ],
                       ),
