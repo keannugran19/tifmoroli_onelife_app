@@ -9,8 +9,8 @@ class Logo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Image.asset(
       image,
-      width: 350,
-      height: 350,
+      width: 290,
+      height: 290,
       fit: BoxFit.cover,
     );
   }

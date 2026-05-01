@@ -82,14 +82,14 @@ final _nb_Lesson13 = Lessons(
 
 final _nb_Lesson14 = Lessons(
   lessonNumber: 14,
-  lessonTitle: 'Fellowship',
-  lessonLink: 'assets/lessons/newbelievers/lesson14fellowship.pdf',
+  lessonTitle: 'How to Hear from God',
+  lessonLink: 'assets/lessons/newbelievers/lesson15howtohearfromGod.pdf',
 );
 
 final _nb_Lesson15 = Lessons(
   lessonNumber: 15,
-  lessonTitle: 'How to Hear from God',
-  lessonLink: 'assets/lessons/newbelievers/lesson15howtohearfromGod.pdf',
+  lessonTitle: 'Fellowship',
+  lessonLink: 'assets/lessons/newbelievers/lesson14fellowship.pdf',
 );
 
 final _nb_Lesson16 = Lessons(

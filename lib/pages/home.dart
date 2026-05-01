@@ -45,7 +45,6 @@ class MyHomePage extends StatelessWidget {
       extendBodyBehindAppBar: true,
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: Colors.transparent,
       ),
 
       // drawer upon clicking the hamburger menu
@@ -191,7 +190,7 @@ class MyHomePage extends StatelessWidget {
                       image: 'assets/images/onelife-app.png',
                     ),
                     SizedBox(
-                      height: MediaQuery.of(context).size.height * 0.03,
+                      height: MediaQuery.of(context).size.height * 0.02,
                     ),
 
                     // App Title
