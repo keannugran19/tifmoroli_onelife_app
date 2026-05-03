@@ -7,10 +7,13 @@ class Logo extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final screenWidth = MediaQuery.sizeOf(context).width;
+    final logoSize = (screenWidth * 0.5); 
+
     return Image.asset(
       image,
-      width: 290,
-      height: 290,
+      width: logoSize,
+      height: logoSize,
       fit: BoxFit.cover,
     );
   }
